@@ -1,0 +1,6034 @@
+[
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_QOlSCBRmfWY",
+    "video_url": "https://www.youtube.com/watch?v=QOlSCBRmfWY",
+    "video_path": "",
+    "duration_sec": 82.73,
+    "goal": "A young woman is seen standing in a room and leads into her dancing.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A young woman is seen standing in a room and leads into her dancing.",
+        "segment": [
+          0.83,
+          19.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A young woman is seen standing in a room and leads into her dancing."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The girl dances around the room while the camera captures her movements.",
+        "segment": [
+          17.37,
+          60.81
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The girl dances around the room while the camera captures her movements."
+      },
+      {
+        "subtask_id": "2",
+        "name": "She continues dancing around the room and ends by laying on the floor.",
+        "segment": [
+          56.26,
+          79.42
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She continues dancing around the room and ends by laying on the floor."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_QOlSCBRmfWY",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_ehGHCYKzyZ8",
+    "video_url": "https://www.youtube.com/watch?v=ehGHCYKzyZ8",
+    "video_path": "",
+    "duration_sec": 61.72,
+    "goal": "The video starts with a title logo sequence.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "The video starts with a title logo sequence.",
+        "segment": [
+          0.0,
+          2.78
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The video starts with a title logo sequence."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A man and woman are in a living room demonstrating exercises.",
+        "segment": [
+          3.09,
+          61.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man and woman are in a living room demonstrating exercises."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The woman lays on the ground.",
+        "segment": [
+          15.43,
+          55.24
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The woman lays on the ground."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The man starts pointing to different areas of the woman's body as she does an exercise.",
+        "segment": [
+          17.59,
+          54.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man starts pointing to different areas of the woman's body as she does an exercise."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The woman begins to do small sit ups.",
+        "segment": [
+          39.81,
+          54.62
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The woman begins to do small sit ups."
+      },
+      {
+        "subtask_id": "5",
+        "name": "The woman ends with a final title logo sequence.",
+        "segment": [
+          56.47,
+          61.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The woman ends with a final title logo sequence."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_ehGHCYKzyZ8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_nwznKOuZM7w",
+    "video_url": "https://www.youtube.com/watch?v=nwznKOuZM7w",
+    "video_path": "",
+    "duration_sec": 31.65,
+    "goal": "Two people are seen moving around a kitchen quickly performing various tasks and sitting down.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Two people are seen moving around a kitchen quickly performing various tasks and sitting down.",
+        "segment": [
+          0.0,
+          15.51
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Two people are seen moving around a kitchen quickly performing various tasks and sitting down."
+      },
+      {
+        "subtask_id": "1",
+        "name": "They then wax down a ski in the kitchen while continuing to move around.",
+        "segment": [
+          11.39,
+          31.65
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They then wax down a ski in the kitchen while continuing to move around."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_nwznKOuZM7w",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_ogQozSI5V8U",
+    "video_url": "https://www.youtube.com/watch?v=ogQozSI5V8U",
+    "video_path": "",
+    "duration_sec": 36.55,
+    "goal": "We see a hallway with a wooden floor.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "We see a hallway with a wooden floor.",
+        "segment": [
+          0.0,
+          7.49
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "We see a hallway with a wooden floor."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A dog in socks walks slowly out onto the floor as a lady films him.",
+        "segment": [
+          7.49,
+          18.09
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A dog in socks walks slowly out onto the floor as a lady films him."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The dog turns around and goes back to the other room.",
+        "segment": [
+          19.37,
+          36.55
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The dog turns around and goes back to the other room."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_ogQozSI5V8U",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_nHE7u40plD0",
+    "video_url": "https://www.youtube.com/watch?v=nHE7u40plD0",
+    "video_path": "",
+    "duration_sec": 145.56,
+    "goal": "A woman and a man are sitting on the sidewalk playing music.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman and a man are sitting on the sidewalk playing music.",
+        "segment": [
+          0.0,
+          145.56
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman and a man are sitting on the sidewalk playing music."
+      },
+      {
+        "subtask_id": "1",
+        "name": "People stand next to them and watch them play.",
+        "segment": [
+          67.68,
+          72.78
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " People stand next to them and watch them play."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A little boy holding a yellow ball walks by.",
+        "segment": [
+          82.97,
+          87.33
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A little boy holding a yellow ball walks by."
+      },
+      {
+        "subtask_id": "3",
+        "name": "A man poses for a picture in front of them.",
+        "segment": [
+          98.98,
+          103.34
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man poses for a picture in front of them."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_nHE7u40plD0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_69IsHpmRyfk",
+    "video_url": "https://www.youtube.com/watch?v=69IsHpmRyfk",
+    "video_path": "",
+    "duration_sec": 94.72,
+    "goal": "A young girl is seen sitting in a chair with a person standing next to her.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A young girl is seen sitting in a chair with a person standing next to her.",
+        "segment": [
+          1.89,
+          31.26
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A young girl is seen sitting in a chair with a person standing next to her."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The person next to her then piercing one ear followed by the other.",
+        "segment": [
+          29.36,
+          71.51
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person next to her then piercing one ear followed by the other."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The person rubs lotion on the piercings afterwards.",
+        "segment": [
+          55.41,
+          91.4
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person rubs lotion on the piercings afterwards."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_69IsHpmRyfk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_D18b2IZpxk0",
+    "video_url": "https://www.youtube.com/watch?v=D18b2IZpxk0",
+    "video_path": "",
+    "duration_sec": 95.67,
+    "goal": "A woman is shown riding a camel past pyramids in Egypt.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman is shown riding a camel past pyramids in Egypt.",
+        "segment": [
+          0.0,
+          17.7
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman is shown riding a camel past pyramids in Egypt."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The camel walks as the woman leans forward.",
+        "segment": [
+          19.61,
+          88.01
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The camel walks as the woman leans forward."
+      },
+      {
+        "subtask_id": "2",
+        "name": "And hand covers the lens as the harness is shown.",
+        "segment": [
+          90.88,
+          95.67
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " And hand covers the lens as the harness is shown."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_D18b2IZpxk0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_pizl41xmw7k",
+    "video_url": "https://www.youtube.com/watch?v=pizl41xmw7k",
+    "video_path": "",
+    "duration_sec": 172.07999999999998,
+    "goal": "A child mops the floor of a hallway in a house.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A child mops the floor of a hallway in a house.",
+        "segment": [
+          0.0,
+          85.18
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A child mops the floor of a hallway in a house."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The child sets the mop down and plays with her family member.",
+        "segment": [
+          27.53,
+          43.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The child sets the mop down and plays with her family member."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The child walks into the bedroom area and continues to mop the floor.",
+        "segment": [
+          86.04,
+          168.64
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The child walks into the bedroom area and continues to mop the floor."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_pizl41xmw7k",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_oP77DgsbhKQ",
+    "video_url": "https://www.youtube.com/watch?v=oP77DgsbhKQ",
+    "video_path": "",
+    "duration_sec": 214.6,
+    "goal": "A man is seen kneeling down on the floor speaking to the camera.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is seen kneeling down on the floor speaking to the camera.",
+        "segment": [
+          0.0,
+          40.77
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is seen kneeling down on the floor speaking to the camera."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man mixes up various ingredients and begins laying plaster on the floor.",
+        "segment": [
+          41.85,
+          119.1
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man mixes up various ingredients and begins laying plaster on the floor."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He measures the floor and tiles and cuts out a piece of tile to lay on the floor.",
+        "segment": [
+          96.57,
+          170.61
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He measures the floor and tiles and cuts out a piece of tile to lay on the floor."
+      },
+      {
+        "subtask_id": "3",
+        "name": "He continues laying tiles on the floor while looking back to speak to the camera.",
+        "segment": [
+          168.46,
+          214.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He continues laying tiles on the floor while looking back to speak to the camera."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_oP77DgsbhKQ",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_fzp5ooc727c",
+    "video_url": "https://www.youtube.com/watch?v=fzp5ooc727c",
+    "video_path": "",
+    "duration_sec": 148.32,
+    "goal": "Two lines of young men are walking side by side down a road.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Two lines of young men are walking side by side down a road.",
+        "segment": [
+          0.0,
+          14.83
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Two lines of young men are walking side by side down a road."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Then one man stands in a field holding a wooden object and begins twisting it.",
+        "segment": [
+          15.57,
+          32.63
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Then one man stands in a field holding a wooden object and begins twisting it."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He then bends down and grabs a ball.",
+        "segment": [
+          32.63,
+          44.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "He then bends down and grabs a ball."
+      },
+      {
+        "subtask_id": "3",
+        "name": "After,the ball is placed on the ground and he picks it up and hits it as if he's playing baseball.",
+        "segment": [
+          44.5,
+          65.26
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "After,the ball is placed on the ground and he picks it up and hits it as if he's playing baseball."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The ball is thrown back and he its it again.",
+        "segment": [
+          66.74,
+          72.68
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The ball is thrown back and he its it again."
+      },
+      {
+        "subtask_id": "5",
+        "name": "Shortly after, a field of men are shown and they begin playing a game against one another.",
+        "segment": [
+          74.16,
+          107.53
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Shortly after, a field of men are shown and they begin playing a game against one another."
+      },
+      {
+        "subtask_id": "6",
+        "name": "There was a penalty and one players attempts to hit the ball into the goal from the side.",
+        "segment": [
+          106.05,
+          130.52
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "There was a penalty and one players attempts to hit the ball into the goal from the side."
+      },
+      {
+        "subtask_id": "7",
+        "name": "After,everyone is pictured lying down on the ground as if they are dead but one person begins to sit up but gets hit in the head by the ball and lays back down.",
+        "segment": [
+          129.78,
+          137.94
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "After,everyone is pictured lying down on the ground as if they are dead but one person begins to sit up but gets hit in the head by the ball and lays back down."
+      },
+      {
+        "subtask_id": "8",
+        "name": "Lastly,the screen flashes to a black screen and the words The End are shown.",
+        "segment": [
+          137.94,
+          148.32
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Lastly,the screen flashes to a black screen and the words The End are shown."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_fzp5ooc727c",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_LNKdVrX_0Fg",
+    "video_url": "https://www.youtube.com/watch?v=LNKdVrX_0Fg",
+    "video_path": "",
+    "duration_sec": 226.72,
+    "goal": "A woman wearing overalls is talking to the camera.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman wearing overalls is talking to the camera.",
+        "segment": [
+          0.0,
+          22.67
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman wearing overalls is talking to the camera."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She lays out wrapping paper, showing how to wrap a toy in it.",
+        "segment": [
+          22.67,
+          179.11
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She lays out wrapping paper, showing how to wrap a toy in it."
+      },
+      {
+        "subtask_id": "2",
+        "name": "She wraps it around the toy, then tapes it up.",
+        "segment": [
+          182.51,
+          226.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She wraps it around the toy, then tapes it up."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_LNKdVrX_0Fg",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_t0ajvfx6dgA",
+    "video_url": "https://www.youtube.com/watch?v=t0ajvfx6dgA",
+    "video_path": "",
+    "duration_sec": 147.26,
+    "goal": "A man in a suit is sitting behind a desk.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man in a suit is sitting behind a desk.",
+        "segment": [
+          0.0,
+          10.31
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man in a suit is sitting behind a desk."
+      },
+      {
+        "subtask_id": "1",
+        "name": "People are playing lacrosse on a field of grass.",
+        "segment": [
+          17.67,
+          137.69
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " People are playing lacrosse on a field of grass."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A person in a yellow uniform is standing in front of a net blocking balls.",
+        "segment": [
+          120.02,
+          125.17
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A person in a yellow uniform is standing in front of a net blocking balls."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_t0ajvfx6dgA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_IoiDAHNryTk",
+    "video_url": "https://www.youtube.com/watch?v=IoiDAHNryTk",
+    "video_path": "",
+    "duration_sec": 47.04,
+    "goal": "A girl is seen climbing across a set of monkey bars followed by her waving to the camera.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A girl is seen climbing across a set of monkey bars followed by her waving to the camera.",
+        "segment": [
+          0.0,
+          19.29
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A girl is seen climbing across a set of monkey bars followed by her waving to the camera."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She climbs her way back on the bars and jumps down mid way through.",
+        "segment": [
+          19.99,
+          47.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She climbs her way back on the bars and jumps down mid way through."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_IoiDAHNryTk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v__yWADgOFxP0",
+    "video_url": "https://www.youtube.com/watch?v=_yWADgOFxP0",
+    "video_path": "",
+    "duration_sec": 238.38,
+    "goal": "A camera pans over a snowy area and leads into a man standing on a snowboard and riding down a mountain.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A camera pans over a snowy area and leads into a man standing on a snowboard and riding down a mountain.",
+        "segment": [
+          0.0,
+          75.09
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A camera pans over a snowy area and leads into a man standing on a snowboard and riding down a mountain."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man zooms in on himself riding down the hill and ends with him turning off the camera.",
+        "segment": [
+          75.09,
+          238.38
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man zooms in on himself riding down the hill and ends with him turning off the camera."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v__yWADgOFxP0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_AGgJVF3nT6I",
+    "video_url": "https://www.youtube.com/watch?v=AGgJVF3nT6I",
+    "video_path": "",
+    "duration_sec": 65.04,
+    "goal": "A playroom is seen followed by a young boy sliding down a slide and climbing back up again.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A playroom is seen followed by a young boy sliding down a slide and climbing back up again.",
+        "segment": [
+          0.0,
+          14.31
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A playroom is seen followed by a young boy sliding down a slide and climbing back up again."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He slides down again, this time landing on his back, and continues to slide down several more times.",
+        "segment": [
+          14.31,
+          65.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He slides down again, this time landing on his back, and continues to slide down several more times."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_AGgJVF3nT6I",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_XD3yFrJHiv8",
+    "video_url": "https://www.youtube.com/watch?v=XD3yFrJHiv8",
+    "video_path": "",
+    "duration_sec": 157.32,
+    "goal": "A man and woman are sitting on red couches with sports jerseys hanging on the wall and a blue screen on the wall behind them in the middle of them.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man and woman are sitting on red couches with sports jerseys hanging on the wall and a blue screen on the wall behind them in the middle of them.",
+        "segment": [
+          0.0,
+          157.32
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man and woman are sitting on red couches with sports jerseys hanging on the wall and a blue screen on the wall behind them in the middle of them."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The woman picks up a clipboard next to her and smooths out the papers that are on top of it while smiling, crosses her legs and sits back.",
+        "segment": [
+          0.0,
+          16.52
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The woman picks up a clipboard next to her and smooths out the papers that are on top of it while smiling, crosses her legs and sits back."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man is talking this whole time while the woman gets comfortable on her couch and the woman briefly talks.",
+        "segment": [
+          0.0,
+          29.89
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The man is talking this whole time while the woman gets comfortable on her couch and the woman briefly talks."
+      },
+      {
+        "subtask_id": "3",
+        "name": "Various clips begin to play and it briefly shows parts of a city, then most of it is of men outdoors and playing soccer on sand in a middle of city, and occasionally blue words pop up on the screen when certain plays in the game are made.",
+        "segment": [
+          29.89,
+          152.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Various clips begin to play and it briefly shows parts of a city, then most of it is of men outdoors and playing soccer on sand in a middle of city, and occasionally blue words pop up on the screen when certain plays in the game are made."
+      },
+      {
+        "subtask_id": "4",
+        "name": "When the clips end the man and woman on the couch begin talking and she puts her clipboard down.",
+        "segment": [
+          152.6,
+          157.32
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " When the clips end the man and woman on the couch begin talking and she puts her clipboard down."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_XD3yFrJHiv8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_lZKrd84QElk",
+    "video_url": "https://www.youtube.com/watch?v=lZKrd84QElk",
+    "video_path": "",
+    "duration_sec": 65.83,
+    "goal": "The former president is seen walking in a large field next to a woman and surrounded by a large crowd.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "The former president is seen walking in a large field next to a woman and surrounded by a large crowd.",
+        "segment": [
+          0.66,
+          18.76
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The former president is seen walking in a large field next to a woman and surrounded by a large crowd."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man gives a speech while people cheering and he shakes hands with others.",
+        "segment": [
+          16.79,
+          56.94
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man gives a speech while people cheering and he shakes hands with others."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man then shares a beer with other people around him.",
+        "segment": [
+          45.75,
+          65.17
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man then shares a beer with other people around him."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_lZKrd84QElk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_6lYTHj9vImo",
+    "video_url": "https://www.youtube.com/watch?v=6lYTHj9vImo",
+    "video_path": "",
+    "duration_sec": 60.12,
+    "goal": "Four kids are outside in the beach playing in the sand,two boys on the left and two girls on the right.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Four kids are outside in the beach playing in the sand,two boys on the left and two girls on the right.",
+        "segment": [
+          0.0,
+          15.33
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Four kids are outside in the beach playing in the sand,two boys on the left and two girls on the right."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The girls have about six sand castles and a large circle surrounding it filled with water.",
+        "segment": [
+          15.93,
+          34.27
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The girls have about six sand castles and a large circle surrounding it filled with water."
+      },
+      {
+        "subtask_id": "2",
+        "name": "They then take off running to the beach to grab more water as the boy comes and looks at their work.",
+        "segment": [
+          34.57,
+          49.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "They then take off running to the beach to grab more water as the boy comes and looks at their work."
+      },
+      {
+        "subtask_id": "3",
+        "name": "Once they are done,both of the girls take off running to the water but then stop midway to come back and get their floats.",
+        "segment": [
+          49.0,
+          60.12
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Once they are done,both of the girls take off running to the water but then stop midway to come back and get their floats."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_6lYTHj9vImo",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_E3QtX6r9QX0",
+    "video_url": "https://www.youtube.com/watch?v=E3QtX6r9QX0",
+    "video_path": "",
+    "duration_sec": 103.37,
+    "goal": "A large pile of leaves are seen being blown around with shots of a blower being shown.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A large pile of leaves are seen being blown around with shots of a blower being shown.",
+        "segment": [
+          0.0,
+          36.18
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A large pile of leaves are seen being blown around with shots of a blower being shown."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The leaves continue to be shown blowing around as well as a machine sitting off in the distance.",
+        "segment": [
+          19.12,
+          103.37
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " the leaves continue to be shown blowing around as well as a machine sitting off in the distance."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_E3QtX6r9QX0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_iYxj8a1TPYk",
+    "video_url": "https://www.youtube.com/watch?v=iYxj8a1TPYk",
+    "video_path": "",
+    "duration_sec": 157.41,
+    "goal": "A basketball player is seen dribbling a ball in various shots for the camera and leads into the player making baskets over and over again.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A basketball player is seen dribbling a ball in various shots for the camera and leads into the player making baskets over and over again.",
+        "segment": [
+          0.0,
+          84.21
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A basketball player is seen dribbling a ball in various shots for the camera and leads into the player making baskets over and over again."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man is then seen speaking to the camera and transitions into him scoring several more baskets.",
+        "segment": [
+          83.43,
+          157.41
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man is then seen speaking to the camera and transitions into him scoring several more baskets."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_iYxj8a1TPYk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_cp52LdlmlUk",
+    "video_url": "https://www.youtube.com/watch?v=cp52LdlmlUk",
+    "video_path": "",
+    "duration_sec": 129.96,
+    "goal": "People are standing in a room working out.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "People are standing in a room working out.",
+        "segment": [
+          0.0,
+          129.96
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "People are standing in a room working out."
+      },
+      {
+        "subtask_id": "1",
+        "name": "They are stepping up and down on small stepping stools.",
+        "segment": [
+          5.2,
+          129.96
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They are stepping up and down on small stepping stools."
+      },
+      {
+        "subtask_id": "2",
+        "name": "They continue working out in the room.",
+        "segment": [
+          17.55,
+          129.96
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They continue working out in the room."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_cp52LdlmlUk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_bpg2PC2neQM",
+    "video_url": "https://www.youtube.com/watch?v=bpg2PC2neQM",
+    "video_path": "",
+    "duration_sec": 218.7,
+    "goal": "A black and white video is being played of people playing lacrosse on a field.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A black and white video is being played of people playing lacrosse on a field.",
+        "segment": [
+          0.0,
+          32.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A black and white video is being played of people playing lacrosse on a field."
+      },
+      {
+        "subtask_id": "1",
+        "name": "It then turns back to color and splits into multiple frames and speeds.",
+        "segment": [
+          38.27,
+          83.11
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " It then turns back to color and splits into multiple frames and speeds."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The video includes numerous clips of players in lacrosse games, hitting the ball toward opposing goals.",
+        "segment": [
+          88.57,
+          218.7
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The video includes numerous clips of players in lacrosse games, hitting the ball toward opposing goals."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_bpg2PC2neQM",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_RgzbNJPchqc",
+    "video_url": "https://www.youtube.com/watch?v=RgzbNJPchqc",
+    "video_path": "",
+    "duration_sec": 69.24,
+    "goal": "A man is playing the bagpipes in front of people.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is playing the bagpipes in front of people.",
+        "segment": [
+          0.0,
+          69.24
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is playing the bagpipes in front of people."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The people on the couch in front of him start laughing.",
+        "segment": [
+          38.08,
+          60.59
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The people on the couch in front of him start laughing."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_RgzbNJPchqc",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v__zHSfEhEqkU",
+    "video_url": "https://www.youtube.com/watch?v=_zHSfEhEqkU",
+    "video_path": "",
+    "duration_sec": 194.35,
+    "goal": "A man is seen padding a canoe along the water while the camera captures him from several angles.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is seen padding a canoe along the water while the camera captures him from several angles.",
+        "segment": [
+          0.0,
+          64.14
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is seen padding a canoe along the water while the camera captures him from several angles."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man continues riding around followed by performing several ways to turn the canoe around.",
+        "segment": [
+          55.39,
+          194.35
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man continues riding around followed by performing several ways to turn the canoe around."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v__zHSfEhEqkU",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_dAjhBWalWRM",
+    "video_url": "https://www.youtube.com/watch?v=dAjhBWalWRM",
+    "video_path": "",
+    "duration_sec": 32.09,
+    "goal": "A group of people stand in front of a blackjack table.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A group of people stand in front of a blackjack table.",
+        "segment": [
+          0.0,
+          32.09
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A group of people stand in front of a blackjack table."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The blackjack attendant places cards on the table.",
+        "segment": [
+          0.8,
+          30.81
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The blackjack attendant places cards on the table."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_dAjhBWalWRM",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_zihMznAYlV0",
+    "video_url": "https://www.youtube.com/watch?v=zihMznAYlV0",
+    "video_path": "",
+    "duration_sec": 72.8,
+    "goal": "Two men in padded sumo costumes are pulled along a tug rope on a ski slope.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Two men in padded sumo costumes are pulled along a tug rope on a ski slope.",
+        "segment": [
+          1.46,
+          4.73
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Two men in padded sumo costumes are pulled along a tug rope on a ski slope."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Two men in yellow padded sumo costumes do jumps on their snowboard on a downhill course.",
+        "segment": [
+          6.19,
+          72.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Two men in yellow padded sumo costumes do jumps on their snowboard on a downhill course."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A filmer waives to the camera.",
+        "segment": [
+          38.95,
+          40.4
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A filmer waives to the camera."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The man spins while sliding across a platform in the sumo suit.",
+        "segment": [
+          43.68,
+          51.32
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man spins while sliding across a platform in the sumo suit."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The two men give each other a high five.",
+        "segment": [
+          51.32,
+          53.14
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The two men give each other a high five."
+      },
+      {
+        "subtask_id": "5",
+        "name": "The man in sumo suit goes over a small triangular obstacle.",
+        "segment": [
+          56.05,
+          58.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man in sumo suit goes over a small triangular obstacle."
+      },
+      {
+        "subtask_id": "6",
+        "name": "A man on small skis crashes while trying to jump.",
+        "segment": [
+          58.6,
+          61.15
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man on small skis crashes while trying to jump."
+      },
+      {
+        "subtask_id": "7",
+        "name": "The man jumps onto and slide across a platform while wearing a sumo suit.",
+        "segment": [
+          61.51,
+          65.88
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man jumps onto and slide across a platform while wearing a sumo suit."
+      },
+      {
+        "subtask_id": "8",
+        "name": "The man bounces over a low railing.",
+        "segment": [
+          66.24,
+          67.34
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man bounces over a low railing."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_zihMznAYlV0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_---9CpRcKoU",
+    "video_url": "https://www.youtube.com/watch?v=---9CpRcKoU",
+    "video_path": "",
+    "duration_sec": 14.07,
+    "goal": "A man was sitting inside a room.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man was sitting inside a room.",
+        "segment": [
+          0.0,
+          1.62
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man was sitting inside a room."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He is holding a bowl of noodles and broth.",
+        "segment": [
+          1.76,
+          8.58
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He is holding a bowl of noodles and broth."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He is drinking the broth from a bowl.",
+        "segment": [
+          8.87,
+          14.07
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He is drinking the broth from a bowl."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_---9CpRcKoU",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_epqnpUCVLK8",
+    "video_url": "https://www.youtube.com/watch?v=epqnpUCVLK8",
+    "video_path": "",
+    "duration_sec": 63.32,
+    "goal": "A little boy is laying on an exercise ball.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A little boy is laying on an exercise ball.",
+        "segment": [
+          0.0,
+          5.07
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A little boy is laying on an exercise ball."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The boy falls of and gets back on the ball before he falls off again.",
+        "segment": [
+          5.07,
+          13.61
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The boy falls of and gets back on the ball before he falls off again."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He tries to sit on the ball but the ball rolls away.",
+        "segment": [
+          13.61,
+          24.38
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He tries to sit on the ball but the ball rolls away."
+      },
+      {
+        "subtask_id": "3",
+        "name": "He retrieves it and continues to sit on and fall off the ball.",
+        "segment": [
+          30.08,
+          61.74
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He retrieves it and continues to sit on and fall off the ball."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_epqnpUCVLK8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_GFE2wAi9fjo",
+    "video_url": "https://www.youtube.com/watch?v=GFE2wAi9fjo",
+    "video_path": "",
+    "duration_sec": 17.15,
+    "goal": "A woman puts a pair of shoes on while sitting in an office chair.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman puts a pair of shoes on while sitting in an office chair.",
+        "segment": [
+          0.0,
+          17.15
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman puts a pair of shoes on while sitting in an office chair."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The woman buckles her shoes.",
+        "segment": [
+          6.6,
+          17.15
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The woman buckles her shoes."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_GFE2wAi9fjo",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_W19-fYOO9sg",
+    "video_url": "https://www.youtube.com/watch?v=W19-fYOO9sg",
+    "video_path": "",
+    "duration_sec": 98.15,
+    "goal": "A close up of a bike wheel is seen that leads into a person's hands pushing on the tire.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A close up of a bike wheel is seen that leads into a person's hands pushing on the tire.",
+        "segment": [
+          0.0,
+          32.88
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A close up of a bike wheel is seen that leads into a person's hands pushing on the tire."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The person uses a tool along the tire to help move it along.",
+        "segment": [
+          30.92,
+          72.63
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person uses a tool along the tire to help move it along."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The person finally pushes the tire along it's sides.",
+        "segment": [
+          65.76,
+          95.7
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person finally pushes the tire along it's sides."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_W19-fYOO9sg",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_m22TDwfa8go",
+    "video_url": "https://www.youtube.com/watch?v=m22TDwfa8go",
+    "video_path": "",
+    "duration_sec": 183.86,
+    "goal": "A woman is seen talking to the camera and presenting various liquids to the camera.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman is seen talking to the camera and presenting various liquids to the camera.",
+        "segment": [
+          0.0,
+          23.9
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman is seen talking to the camera and presenting various liquids to the camera."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She ready's the tip of a glass and dips the glass into sugar on a plate.",
+        "segment": [
+          23.9,
+          52.4
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She ready's the tip of a glass and dips the glass into sugar on a plate."
+      },
+      {
+        "subtask_id": "2",
+        "name": "She pours various liquids into a mixer and shakes the mixture all together.",
+        "segment": [
+          54.24,
+          136.05
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She pours various liquids into a mixer and shakes the mixture all together."
+      },
+      {
+        "subtask_id": "3",
+        "name": "She pours the drink out into the glass while still speaking to the camera.",
+        "segment": [
+          136.05,
+          183.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She pours the drink out into the glass while still speaking to the camera."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_m22TDwfa8go",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_V_Nj_BhesEY",
+    "video_url": "https://www.youtube.com/watch?v=V_Nj_BhesEY",
+    "video_path": "",
+    "duration_sec": 83.15,
+    "goal": "Three people stand by the corner of a building.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Three people stand by the corner of a building.",
+        "segment": [
+          0.0,
+          13.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Three people stand by the corner of a building."
+      },
+      {
+        "subtask_id": "1",
+        "name": "One of the persons, a young boy, takes a bow.",
+        "segment": [
+          14.14,
+          17.05
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " One of the persons, a young boy, takes a bow."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A crowd of people watch him.",
+        "segment": [
+          0.0,
+          83.15
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A crowd of people watch him."
+      },
+      {
+        "subtask_id": "3",
+        "name": "He proceeds to perform various karate moves, such as bowing, cartwheels and flips.",
+        "segment": [
+          17.46,
+          83.15
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He proceeds to perform various karate moves, such as bowing, cartwheels and flips."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_V_Nj_BhesEY",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_p9iE8iemCMs",
+    "video_url": "https://www.youtube.com/watch?v=p9iE8iemCMs",
+    "video_path": "",
+    "duration_sec": 134.58,
+    "goal": "A person is holding a flute.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A person is holding a flute.",
+        "segment": [
+          10.09,
+          123.82
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A person is holding a flute."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The person shows a fingering for the second octave of the note.",
+        "segment": [
+          42.39,
+          72.67
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  The person shows a fingering for the second octave of the note."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The person shows the fingering on the third octave.",
+        "segment": [
+          74.02,
+          89.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  The person shows the fingering on the third octave."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The woman talks directly to the camera.",
+        "segment": [
+          92.86,
+          123.14
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  The woman talks directly to the camera."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_p9iE8iemCMs",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_fN2DiOswmOA",
+    "video_url": "https://www.youtube.com/watch?v=fN2DiOswmOA",
+    "video_path": "",
+    "duration_sec": 185.48,
+    "goal": "The screen shows the title of preparing a Chilean Hulte salad dish.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "The screen shows the title of preparing a Chilean Hulte salad dish.",
+        "segment": [
+          2.78,
+          7.42
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The screen shows the title of preparing a Chilean Hulte salad dish."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A person is mixing salad ingredients in a large bowl.",
+        "segment": [
+          7.42,
+          14.84
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A person is mixing salad ingredients in a large bowl."
+      },
+      {
+        "subtask_id": "2",
+        "name": "There is information shown about Dr.",
+        "segment": [
+          14.84,
+          22.26
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " There is information shown about Dr."
+      },
+      {
+        "subtask_id": "3",
+        "name": "Rachel Collin's trip to Chile.",
+        "segment": [
+          22.26,
+          28.75
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Rachel Collin's trip to Chile."
+      },
+      {
+        "subtask_id": "4",
+        "name": "There are several people standing under a canopy at a food market.",
+        "segment": [
+          28.75,
+          63.99
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " There are several people standing under a canopy at a food market."
+      },
+      {
+        "subtask_id": "5",
+        "name": "Two customers make a purchase and give money to the seller and give the camera a thumbs up.",
+        "segment": [
+          63.99,
+          95.52
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Two customers make a purchase and give money to the seller and give the camera a thumbs up."
+      },
+      {
+        "subtask_id": "6",
+        "name": "The chef is showing hulte placed on a kitchen counter.",
+        "segment": [
+          95.52,
+          107.58
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The chef is showing hulte placed on a kitchen counter."
+      },
+      {
+        "subtask_id": "7",
+        "name": "The chef is slicing the hulte in circular bite size pieces.",
+        "segment": [
+          107.58,
+          116.85
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The chef is slicing the hulte in circular bite size pieces."
+      },
+      {
+        "subtask_id": "8",
+        "name": "A woman eats the cut pieces of hulte.",
+        "segment": [
+          116.85,
+          134.47
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A woman eats the cut pieces of hulte."
+      },
+      {
+        "subtask_id": "9",
+        "name": "The chef chops some cilantro on the kitchen counter.",
+        "segment": [
+          134.47,
+          143.75
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The chef chops some cilantro on the kitchen counter."
+      },
+      {
+        "subtask_id": "10",
+        "name": "Then the chef places the ingredients in a salad bowl.",
+        "segment": [
+          143.75,
+          154.88
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Then the chef places the ingredients in a salad bowl."
+      },
+      {
+        "subtask_id": "11",
+        "name": "The finished product is shown on screen, followed by a group of people sitting together and enjoying the salad.",
+        "segment": [
+          154.88,
+          166.01
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The finished product is shown on screen, followed by a group of people sitting together and enjoying the salad."
+      },
+      {
+        "subtask_id": "12",
+        "name": "The end credits are displayed on the screen.",
+        "segment": [
+          166.01,
+          185.48
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The end credits are displayed on the screen."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_fN2DiOswmOA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_37pwbUp8t1I",
+    "video_url": "https://www.youtube.com/watch?v=37pwbUp8t1I",
+    "video_path": "",
+    "duration_sec": 200.04,
+    "goal": "Hiphop dancers perform in front of a crowd.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Hiphop dancers perform in front of a crowd.",
+        "segment": [
+          0.0,
+          199.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Hiphop dancers perform in front of a crowd."
+      },
+      {
+        "subtask_id": "1",
+        "name": "They are all doing the same basic dance and having pictures taken of them.",
+        "segment": [
+          59.01,
+          199.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  They are all doing the same basic dance and having pictures taken of them."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_37pwbUp8t1I",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_TmI9MxCDBMw",
+    "video_url": "https://www.youtube.com/watch?v=TmI9MxCDBMw",
+    "video_path": "",
+    "duration_sec": 191.94,
+    "goal": "A murky river is shown next to a row of trees.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A murky river is shown next to a row of trees.",
+        "segment": [
+          0.0,
+          32.63
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A murky river is shown next to a row of trees."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A bunch of people on intertubes go by slowly.",
+        "segment": [
+          34.55,
+          142.99
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A bunch of people on intertubes go by slowly."
+      },
+      {
+        "subtask_id": "2",
+        "name": "Then we see rapid waters as the tubers go over small falls.",
+        "segment": [
+          149.71,
+          191.94
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Then we see rapid waters as the tubers go over small falls."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_TmI9MxCDBMw",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_4x7HYKV8zkY",
+    "video_url": "https://www.youtube.com/watch?v=4x7HYKV8zkY",
+    "video_path": "",
+    "duration_sec": 115.94,
+    "goal": "Three girls are on the beach talking.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Three girls are on the beach talking.",
+        "segment": [
+          0.0,
+          26.09
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Three girls are on the beach talking."
+      },
+      {
+        "subtask_id": "1",
+        "name": "They do several flips on the beach.",
+        "segment": [
+          26.09,
+          65.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They do several flips on the beach."
+      },
+      {
+        "subtask_id": "2",
+        "name": "They lift one of the girls up for a stunt.",
+        "segment": [
+          62.03,
+          71.3
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They lift one of the girls up for a stunt."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_4x7HYKV8zkY",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v__Af_9cK5x4E",
+    "video_url": "https://www.youtube.com/watch?v=_Af_9cK5x4E",
+    "video_path": "",
+    "duration_sec": 232.29,
+    "goal": "The camera pans above lush and green terrain over what looks like a mountain range.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "The camera pans above lush and green terrain over what looks like a mountain range.",
+        "segment": [
+          0.0,
+          10.45
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The camera pans above lush and green terrain over what looks like a mountain range."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A man is shown covered in sweat and then jumping across various hills performing stunts on a dirt bike.",
+        "segment": [
+          10.45,
+          48.78
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man is shown covered in sweat and then jumping across various hills performing stunts on a dirt bike."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He rotates and flips and performs all sorts of acrobatics.",
+        "segment": [
+          48.78,
+          73.17
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He rotates and flips and performs all sorts of acrobatics."
+      },
+      {
+        "subtask_id": "3",
+        "name": "He is highly skilled and jumping over everything.",
+        "segment": [
+          73.17,
+          80.14
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He is highly skilled and jumping over everything."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The video then shows multiple men on dirt bikes jumping in various different places and shows the action from a variety of angles.",
+        "segment": [
+          80.14,
+          173.06
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The video then shows multiple men on dirt bikes jumping in various different places and shows the action from  a variety of angles."
+      },
+      {
+        "subtask_id": "5",
+        "name": "The men continue performing their stuns in various other landscapes.",
+        "segment": [
+          171.9,
+          232.29
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The men continue performing their stuns in various other landscapes."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v__Af_9cK5x4E",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_y5j9TqTy9Xw",
+    "video_url": "https://www.youtube.com/watch?v=y5j9TqTy9Xw",
+    "video_path": "",
+    "duration_sec": 44.84,
+    "goal": "A woman is walking along a track.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman is walking along a track.",
+        "segment": [
+          0.0,
+          7.62
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman is walking along a track."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She takes off at a fast run.",
+        "segment": [
+          9.64,
+          29.37
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She takes off at a fast run."
+      },
+      {
+        "subtask_id": "2",
+        "name": "She jumps over a bar and onto a mat.",
+        "segment": [
+          30.71,
+          44.84
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She jumps over a bar and onto a mat."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_y5j9TqTy9Xw",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_Kp7pUEKrb8Q",
+    "video_url": "https://www.youtube.com/watch?v=Kp7pUEKrb8Q",
+    "video_path": "",
+    "duration_sec": 89.63,
+    "goal": "A person is slicing limes on a board.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A person is slicing limes on a board.",
+        "segment": [
+          10.76,
+          13.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A person is slicing limes on a board."
+      },
+      {
+        "subtask_id": "1",
+        "name": "They put the limes and sugar into a blender.",
+        "segment": [
+          15.69,
+          63.19
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They put the limes and sugar into a blender."
+      },
+      {
+        "subtask_id": "2",
+        "name": "They strain the juice and pour it into a jar.",
+        "segment": [
+          64.98,
+          66.33
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They strain the juice and pour it into a jar."
+      },
+      {
+        "subtask_id": "3",
+        "name": "They put a straw and a lime wedge on the rim of the glass.",
+        "segment": [
+          68.57,
+          80.22
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They put a straw and a lime wedge on the rim of the glass."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_Kp7pUEKrb8Q",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_5lre5zbUV1Q",
+    "video_url": "https://www.youtube.com/watch?v=5lre5zbUV1Q",
+    "video_path": "",
+    "duration_sec": 77.23,
+    "goal": "A child scrubs out the kitchen sink using a brush.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A child scrubs out the kitchen sink using a brush.",
+        "segment": [
+          0.0,
+          33.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A child scrubs out the kitchen sink using a brush."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The boy turns on the sink faucet.",
+        "segment": [
+          34.37,
+          38.23
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The boy turns on the sink faucet."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The child uses the faucet nozzle to rinse out the sink.",
+        "segment": [
+          36.68,
+          69.51
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The child uses the faucet nozzle to rinse out the sink."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The boy returns the sink nozzle to the faucet and turns off the water.",
+        "segment": [
+          69.89,
+          73.37
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The boy returns the sink nozzle to the faucet and turns off the water."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_5lre5zbUV1Q",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_huFuRGoZt9I",
+    "video_url": "https://www.youtube.com/watch?v=huFuRGoZt9I",
+    "video_path": "",
+    "duration_sec": 23.36,
+    "goal": "A dealer is shown laying out cards on a table while other people's hands are shown on the side.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A dealer is shown laying out cards on a table while other people's hands are shown on the side.",
+        "segment": [
+          0.0,
+          13.2
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A dealer is shown laying out cards on a table while other people's hands are shown on the side."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The person then lays out cards while another person lays out their chips.",
+        "segment": [
+          13.78,
+          23.36
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person then lays out cards while another person lays out their chips."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_huFuRGoZt9I",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_CmEQjszPDrg",
+    "video_url": "https://www.youtube.com/watch?v=CmEQjszPDrg",
+    "video_path": "",
+    "duration_sec": 220.85,
+    "goal": "Several people are outside with running equipment and numbers pinned to them jogging at a slow pace at what seams to be a Marathon or a 5k.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Several people are outside with running equipment and numbers pinned to them jogging at a slow pace at what seams to be a Marathon or a 5k.",
+        "segment": [
+          0.0,
+          40.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Several people are outside with running equipment and numbers pinned to them jogging at a slow pace at what seams to be a Marathon or a 5k."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A lady dressed in all black however,seems to be the focal point throughout the video and she is walking at an extremely slow pace for the whole time.",
+        "segment": [
+          40.86,
+          138.03
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A lady dressed in all black however,seems to be the focal point throughout the video and she is walking at an extremely slow pace for the whole time."
+      },
+      {
+        "subtask_id": "2",
+        "name": "After the crowd is shown and more people are seen running through the city or even participating in a wheel chair as the people on the side cheer them on.",
+        "segment": [
+          139.13,
+          220.85
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "After the crowd is shown and more people are seen running through the city or even participating in a wheel chair as the people on the side cheer them on."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_CmEQjszPDrg",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_RULNhPrXnfA",
+    "video_url": "https://www.youtube.com/watch?v=RULNhPrXnfA",
+    "video_path": "",
+    "duration_sec": 187.55,
+    "goal": "A man is shown standing in front of a blue background as many harmonicas are shown and he starts playing them.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is shown standing in front of a blue background as many harmonicas are shown and he starts playing them.",
+        "segment": [
+          0.0,
+          23.44
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is shown standing in front of a blue background as many harmonicas are shown and he starts playing them."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He is then shown speaking into the camera and going into detail with regards to the products features.",
+        "segment": [
+          23.44,
+          33.76
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He is then shown speaking into the camera and going into detail with regards to the products features."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He shows off how many he has in his coat and continues talking.",
+        "segment": [
+          32.82,
+          45.95
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He shows off how many he has in his coat and continues talking."
+      },
+      {
+        "subtask_id": "3",
+        "name": "He is then shown playing another harmonica as he gives instruction on it.",
+        "segment": [
+          45.95,
+          151.91
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He is then shown playing another harmonica as he gives instruction on it."
+      },
+      {
+        "subtask_id": "4",
+        "name": "He speaks some more and shows his harmonica again as the video goes to an end title screen that reads Howcast original\".",
+        "segment": [
+          150.98,
+          187.55
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He speaks some more and shows his harmonica again as the video goes to an end title screen that reads Howcast original\"."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_RULNhPrXnfA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_Zd22n1caVgM",
+    "video_url": "https://www.youtube.com/watch?v=Zd22n1caVgM",
+    "video_path": "",
+    "duration_sec": 32.49,
+    "goal": "A boy wearing white shorts is standing in a room.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A boy wearing white shorts is standing in a room.",
+        "segment": [
+          0.0,
+          31.51
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A boy wearing white shorts is standing in a room."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He puts something in his mouth.",
+        "segment": [
+          7.15,
+          7.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He puts something in his mouth."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He kicks his legs up to the side.",
+        "segment": [
+          15.59,
+          16.57
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He kicks his legs up to the side."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The kneels down onto the ground.",
+        "segment": [
+          21.12,
+          26.64
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The kneels down onto the ground."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_Zd22n1caVgM",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_ZKP5J7OKEvI",
+    "video_url": "https://www.youtube.com/watch?v=ZKP5J7OKEvI",
+    "video_path": "",
+    "duration_sec": 173.78,
+    "goal": "A small group of people are seen sitting on the side and lead into two people dancing together.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A small group of people are seen sitting on the side and lead into two people dancing together.",
+        "segment": [
+          0.0,
+          119.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A small group of people are seen sitting on the side and lead into two people dancing together."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The people continue dancing along the floor and end by clapping with the band.",
+        "segment": [
+          53.87,
+          169.43
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The people continue dancing along the floor and end by clapping with the band."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_ZKP5J7OKEvI",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_44BfVJnhBgc",
+    "video_url": "https://www.youtube.com/watch?v=44BfVJnhBgc",
+    "video_path": "",
+    "duration_sec": 169.92000000000002,
+    "goal": "A runner tests a prosthetic leg in a long distance run.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A runner tests a prosthetic leg in a long distance run.",
+        "segment": [
+          0.0,
+          159.73
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A runner tests a prosthetic leg in a long distance run."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He runs inside then runs outside.",
+        "segment": [
+          65.42,
+          159.73
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He runs inside then runs outside."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_44BfVJnhBgc",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_VFOjLDa5VtA",
+    "video_url": "https://www.youtube.com/watch?v=VFOjLDa5VtA",
+    "video_path": "",
+    "duration_sec": 48.76,
+    "goal": "A small group of people are seen wandering around a tennis court hitting a ball over the net.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A small group of people are seen wandering around a tennis court hitting a ball over the net.",
+        "segment": [
+          0.0,
+          14.63
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A small group of people are seen wandering around a tennis court hitting a ball over the net."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The people hit the ball back and fourth while others watch on the side.",
+        "segment": [
+          14.87,
+          37.06
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The people hit the ball back and fourth while others watch on the side."
+      },
+      {
+        "subtask_id": "2",
+        "name": "They continue to play the game as well as others.",
+        "segment": [
+          29.5,
+          47.54
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They continue to play the game as well as others."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_VFOjLDa5VtA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_O-zE1-Yw3w0",
+    "video_url": "https://www.youtube.com/watch?v=O-zE1-Yw3w0",
+    "video_path": "",
+    "duration_sec": 136.19,
+    "goal": "A young girl introduces the video and explains what she will be doing to wood.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A young girl introduces the video and explains what she will be doing to wood.",
+        "segment": [
+          0.0,
+          40.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A young girl introduces the video and explains what she will be doing to wood."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She places a piece of bubblewrap and makes sure it covers around about half of the wood.",
+        "segment": [
+          48.35,
+          94.65
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She places a piece of bubblewrap and makes sure it covers around about half of the wood."
+      },
+      {
+        "subtask_id": "2",
+        "name": "She then covers the rest of the wood and walks across it like a plank.",
+        "segment": [
+          107.59,
+          125.97
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She then covers the rest of the wood and walks across it like a plank."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_O-zE1-Yw3w0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_LFeoVokXAFY",
+    "video_url": "https://www.youtube.com/watch?v=LFeoVokXAFY",
+    "video_path": "",
+    "duration_sec": 58.42,
+    "goal": "A man uses a large plastic blue bat.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man uses a large plastic blue bat.",
+        "segment": [
+          0.0,
+          8.47
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man uses a large plastic blue bat."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He swings it at a pinata shaped like spongebob squarepants.",
+        "segment": [
+          11.98,
+          50.54
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He swings it at a pinata shaped like spongebob squarepants."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He misses several times, and keeps swinging.",
+        "segment": [
+          52.58,
+          58.42
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He misses several times, and keeps swinging."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_LFeoVokXAFY",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_HxJnPUqF9i8",
+    "video_url": "https://www.youtube.com/watch?v=HxJnPUqF9i8",
+    "video_path": "",
+    "duration_sec": 121.05,
+    "goal": "Athletes throw a javelin during a competition.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Athletes throw a javelin during a competition.",
+        "segment": [
+          8.47,
+          12.71
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Athletes throw a javelin during a competition."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A man practices his throwing stance walking and doing half throws without javeline.",
+        "segment": [
+          13.92,
+          37.52
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man practices his throwing stance walking and doing half throws without javeline."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A man practices his throwing stance walking and doing half throws holding a javeline.",
+        "segment": [
+          38.13,
+          54.47
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man practices his throwing stance walking and doing half throws holding a javeline."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The man swings a hammer.",
+        "segment": [
+          56.29,
+          61.13
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man swings a hammer."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The man throws a weighted ball.",
+        "segment": [
+          67.18,
+          75.05
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man throws a weighted ball."
+      },
+      {
+        "subtask_id": "5",
+        "name": "Athletes train in a gym doing throwing motions on weighted cable machines.",
+        "segment": [
+          89.57,
+          113.18
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Athletes train in a gym doing throwing motions on weighted cable machines."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_HxJnPUqF9i8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_FKl0077EUoY",
+    "video_url": "https://www.youtube.com/watch?v=FKl0077EUoY",
+    "video_path": "",
+    "duration_sec": 57.02,
+    "goal": "We see a person sharpen a knife on a sanding disc.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "We see a person sharpen a knife on a sanding disc.",
+        "segment": [
+          0.0,
+          20.24
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "We see a person sharpen a knife on a sanding disc."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The person touches it and turns it off.",
+        "segment": [
+          7.41,
+          15.11
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person touches it and turns it off."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The person turns it on and then off off.",
+        "segment": [
+          16.25,
+          30.51
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person turns it on and then off off."
+      },
+      {
+        "subtask_id": "3",
+        "name": "We see the man talking to the camera.",
+        "segment": [
+          32.79,
+          57.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " We see the man talking to the camera."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_FKl0077EUoY",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_Y_dtU10XIsg",
+    "video_url": "https://www.youtube.com/watch?v=Y_dtU10XIsg",
+    "video_path": "",
+    "duration_sec": 66.06,
+    "goal": "A close up of a crack is seen.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A close up of a crack is seen.",
+        "segment": [
+          0.0,
+          5.62
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A close up of a crack is seen."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A woman is outside, shoveling snow.",
+        "segment": [
+          6.94,
+          42.61
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A woman is outside, shoveling snow."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A dog wags his tail as he tries to help.",
+        "segment": [
+          46.57,
+          66.06
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A dog wags his tail as he tries to help."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_Y_dtU10XIsg",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_x4iCAIPRDVQ",
+    "video_url": "https://www.youtube.com/watch?v=x4iCAIPRDVQ",
+    "video_path": "",
+    "duration_sec": 23.38,
+    "goal": "People exercise on fitness machines while people sits on front and watch.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "People exercise on fitness machines while people sits on front and watch.",
+        "segment": [
+          0.0,
+          23.38
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "People exercise on fitness machines while people sits on front and watch."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A man pass on front holding a jacket and stand next a TV.",
+        "segment": [
+          11.69,
+          21.63
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man pass on front holding a jacket and stand next a TV."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A group of woman walk on front people exercising.",
+        "segment": [
+          21.63,
+          23.38
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A group of woman walk on front people exercising."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_x4iCAIPRDVQ",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_NwfS7eZiMLg",
+    "video_url": "https://www.youtube.com/watch?v=NwfS7eZiMLg",
+    "video_path": "",
+    "duration_sec": 134.72,
+    "goal": "A man is playing the bagpipes at the bottom of the stairs in the living room of a house, wearing a button up and dress pants, along with socks.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is playing the bagpipes at the bottom of the stairs in the living room of a house, wearing a button up and dress pants, along with socks.",
+        "segment": [
+          0.0,
+          99.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is playing the bagpipes at the bottom of the stairs in the living room of a house, wearing a button up and dress pants, along with socks."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He begins to tap his foot along with the beat of his tune, He starts to tap his left foot in a back and forth rhythm with his right foot.",
+        "segment": [
+          99.69,
+          132.7
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He begins to tap his foot along with the beat of his tune, He starts to tap his left foot in a back and forth rhythm with his right foot."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He finishes, and smiles at the camera.",
+        "segment": [
+          133.37,
+          134.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He finishes, and smiles at the camera."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_NwfS7eZiMLg",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_aJbl1eVBzk0",
+    "video_url": "https://www.youtube.com/watch?v=aJbl1eVBzk0",
+    "video_path": "",
+    "duration_sec": 187.83,
+    "goal": "People are working in a bike shop fixing a bike.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "People are working in a bike shop fixing a bike.",
+        "segment": [
+          0.0,
+          187.83
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "People are working in a bike shop fixing a bike."
+      },
+      {
+        "subtask_id": "1",
+        "name": "They put the wheels back onto the bike.",
+        "segment": [
+          122.09,
+          129.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "They put the wheels back onto the bike."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The put the seat on the bike.",
+        "segment": [
+          143.69,
+          146.51
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The put the seat on the bike."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The bike is put together on the floor.",
+        "segment": [
+          167.17,
+          169.98
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The bike is put together on the floor."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_aJbl1eVBzk0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_UYHgieL5IKM",
+    "video_url": "https://www.youtube.com/watch?v=UYHgieL5IKM",
+    "video_path": "",
+    "duration_sec": 185.18,
+    "goal": "A man is giving advice on outdoor activities, specifically mushrooming and closeup is shown and the man talks about it.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is giving advice on outdoor activities, specifically mushrooming and closeup is shown and the man talks about it.",
+        "segment": [
+          0.0,
+          90.74
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is giving advice on outdoor activities, specifically mushrooming and closeup is shown and the man talks about it."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man cuts one open and then cuts it in half.",
+        "segment": [
+          52.78,
+          141.66
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  The man cuts one open and then cuts it in half."
+      },
+      {
+        "subtask_id": "2",
+        "name": "Another man talks about the experience.",
+        "segment": [
+          157.4,
+          181.48
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  Another man talks about the experience."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_UYHgieL5IKM",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_f0CViWbj3V4",
+    "video_url": "https://www.youtube.com/watch?v=f0CViWbj3V4",
+    "video_path": "",
+    "duration_sec": 27.63,
+    "goal": "A man and woman are seated on a porch.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man and woman are seated on a porch.",
+        "segment": [
+          0.0,
+          1.38
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man and woman are seated on a porch."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man plays bongo drums while the woman helps occasionally.",
+        "segment": [
+          1.93,
+          20.59
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man plays bongo drums while the woman helps occasionally."
+      },
+      {
+        "subtask_id": "2",
+        "name": "Another hand is seen banging a drum in the foreground.",
+        "segment": [
+          21.41,
+          27.63
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Another hand is seen banging a drum in the foreground."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_f0CViWbj3V4",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_h8J08sJ2no0",
+    "video_url": "https://www.youtube.com/watch?v=h8J08sJ2no0",
+    "video_path": "",
+    "duration_sec": 45.51,
+    "goal": "A person walks on the roof of a climbing equipment, then he goes down the wall and reach the floor and walk forward.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A person walks on the roof of a climbing equipment, then he goes down the wall and reach the floor and walk forward.",
+        "segment": [
+          0.0,
+          24.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A person walks on the roof of a climbing equipment, then he goes down the wall and reach the floor and walk forward."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man stand with the hands on the border on the equipment and descend down the walk with the hands, then he walk on hands sideward.",
+        "segment": [
+          24.8,
+          40.96
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man stand with the hands on the border on the equipment and descend down the walk with the hands, then he walk on hands sideward."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_h8J08sJ2no0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_g0XO-rWHmzs",
+    "video_url": "https://www.youtube.com/watch?v=g0XO-rWHmzs",
+    "video_path": "",
+    "duration_sec": 73.98,
+    "goal": "A woman is seen holding two dogs on a leash and proceeds to unhook them and let them go.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman is seen holding two dogs on a leash and proceeds to unhook them and let them go.",
+        "segment": [
+          0.74,
+          44.39
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman is seen holding two dogs on a leash and proceeds to unhook them and let them go."
+      },
+      {
+        "subtask_id": "1",
+        "name": "One down then does his business into a bag tied to him and runs off behind bikes.",
+        "segment": [
+          35.51,
+          71.39
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " One down then does his business into a bag tied to him and runs off behind bikes."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_g0XO-rWHmzs",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_rBaR5xF8orE",
+    "video_url": "https://www.youtube.com/watch?v=rBaR5xF8orE",
+    "video_path": "",
+    "duration_sec": 128.18,
+    "goal": "A large group of people are seen sitting around an auditorium with one man flying kites around in the middle.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A large group of people are seen sitting around an auditorium with one man flying kites around in the middle.",
+        "segment": [
+          0.0,
+          63.45
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A large group of people are seen sitting around an auditorium with one man flying kites around in the middle."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The person continues moving around with the kites and walks away in the end with a woman speaking to the crowd.",
+        "segment": [
+          62.81,
+          128.18
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The person continues moving around with the kites and walks away in the end with a woman speaking to the crowd."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_rBaR5xF8orE",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_i2u80Y3BMYs",
+    "video_url": "https://www.youtube.com/watch?v=i2u80Y3BMYs",
+    "video_path": "",
+    "duration_sec": 214.78,
+    "goal": "Two men in work out clothes are standing up against the wall and they begin to talk about working out.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Two men in work out clothes are standing up against the wall and they begin to talk about working out.",
+        "segment": [
+          0.0,
+          63.36
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Two men in work out clothes are standing up against the wall and they begin to talk about working out."
+      },
+      {
+        "subtask_id": "1",
+        "name": "One man is then shown and he bends down and shows the proper way to lift the bar with weight on it.",
+        "segment": [
+          63.36,
+          136.38
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "One man is then shown and he bends down and shows the proper way to lift the bar with weight on it."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A replay is then shown and the boy bends from the knees and then flips his wrist and brings it over his shoulder as he goes down into a squatting position.",
+        "segment": [
+          135.31,
+          214.78
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A replay is then shown and the boy bends from the knees and then flips his wrist and brings it over his shoulder as he goes down into a squatting position."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_i2u80Y3BMYs",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_WvxwmaDFGqk",
+    "video_url": "https://www.youtube.com/watch?v=WvxwmaDFGqk",
+    "video_path": "",
+    "duration_sec": 11.49,
+    "goal": "A man is seen kneeling in a gym.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is seen kneeling in a gym.",
+        "segment": [
+          0.0,
+          1.32
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is seen kneeling in a gym."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He leans forward several times.",
+        "segment": [
+          1.78,
+          7.36
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He leans forward several times."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He is performing slow stretching moves.",
+        "segment": [
+          7.82,
+          11.49
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He is performing slow stretching moves."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_WvxwmaDFGqk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_xmag8UI8iws",
+    "video_url": "https://www.youtube.com/watch?v=xmag8UI8iws",
+    "video_path": "",
+    "duration_sec": 104.33,
+    "goal": "A person is using a leaf blower to blow leaves into a pile.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A person is using a leaf blower to blow leaves into a pile.",
+        "segment": [
+          0.0,
+          104.33
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A person is using a leaf blower to blow leaves into a pile."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The leaves blow up onto a hedge.",
+        "segment": [
+          68.86,
+          80.33
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The leaves blow up onto a hedge."
+      },
+      {
+        "subtask_id": "2",
+        "name": "They walk in front of a tree.",
+        "segment": [
+          100.68,
+          104.33
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They walk in front of a tree."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_xmag8UI8iws",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_N9LTq3gYmsI",
+    "video_url": "https://www.youtube.com/watch?v=N9LTq3gYmsI",
+    "video_path": "",
+    "duration_sec": 35.55,
+    "goal": "A group of people are sitting down at the top of a snow slide in a tube.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A group of people are sitting down at the top of a snow slide in a tube.",
+        "segment": [
+          0.0,
+          14.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A group of people are sitting down at the top of a snow slide in a tube."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The person holding the camera starts his journey and he is off down the slopes of snow.",
+        "segment": [
+          13.51,
+          28.62
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The person holding the camera starts his journey and he is off down the slopes of snow."
+      },
+      {
+        "subtask_id": "2",
+        "name": "As he reaches the bottom,several black mats are placed in front of him to help slow him down.",
+        "segment": [
+          28.8,
+          35.55
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "As he reaches the bottom,several black mats are placed in front of him to help slow him down."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_N9LTq3gYmsI",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_pZ8QqpYu-H8",
+    "video_url": "https://www.youtube.com/watch?v=pZ8QqpYu-H8",
+    "video_path": "",
+    "duration_sec": 187.83,
+    "goal": "A man is seated at a piano, playing and singing into a microphone.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is seated at a piano, playing and singing into a microphone.",
+        "segment": [
+          0.0,
+          165.29
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is seated at a piano, playing and singing into a microphone."
+      },
+      {
+        "subtask_id": "1",
+        "name": "When he finishes, he looks up and smiles.",
+        "segment": [
+          171.86,
+          187.83
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "When he finishes, he looks up and smiles."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_pZ8QqpYu-H8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_4hmJfJo6UI8",
+    "video_url": "https://www.youtube.com/watch?v=4hmJfJo6UI8",
+    "video_path": "",
+    "duration_sec": 117.94,
+    "goal": "A female athlete runs quickly down a track.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A female athlete runs quickly down a track.",
+        "segment": [
+          0.0,
+          14.15
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A female athlete runs quickly down a track."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She plows into the sand before getting up and walking away.",
+        "segment": [
+          18.28,
+          27.71
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She plows into the sand before getting up and walking away."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The scene is repeated three times before ending with her cheering and clapping.",
+        "segment": [
+          41.87,
+          117.94
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The scene is repeated three times before ending with her cheering and clapping."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_4hmJfJo6UI8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_TEaugXCX1m4",
+    "video_url": "https://www.youtube.com/watch?v=TEaugXCX1m4",
+    "video_path": "",
+    "duration_sec": 150.14,
+    "goal": "A lighthouse is shown on the beach before we see a man running with a surf board.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A lighthouse is shown on the beach before we see a man running with a surf board.",
+        "segment": [
+          0.0,
+          21.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A lighthouse is shown on the beach before we see a man running with a surf board."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man rides a wave, then through it.",
+        "segment": [
+          26.27,
+          110.35
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man rides a wave, then through it."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He completes several stunts before walking onto the beach with the board under his arm.",
+        "segment": [
+          111.1,
+          150.14
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He completes several stunts before walking onto the beach with the board under his arm."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_TEaugXCX1m4",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_9rW35YTKYq8",
+    "video_url": "https://www.youtube.com/watch?v=9rW35YTKYq8",
+    "video_path": "",
+    "duration_sec": 236.98,
+    "goal": "A man is shown flipping a violin in his hands, playing a popular song on his violin.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man is shown flipping a violin in his hands, playing a popular song on his violin.",
+        "segment": [
+          14.22,
+          36.73
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man is shown flipping a violin in his hands, playing a popular song on his violin."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The camera shows the violinist from various angles playing the popular song and not breaking concentration.",
+        "segment": [
+          36.73,
+          213.28
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The camera shows the violinist from various angles playing the popular song and not breaking concentration."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The camera pans all around the player and shows him playing the complete song.",
+        "segment": [
+          94.79,
+          213.28
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The camera pans all around the player and shows him playing the complete song."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_9rW35YTKYq8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_hoisfXCLJDQ",
+    "video_url": "https://www.youtube.com/watch?v=hoisfXCLJDQ",
+    "video_path": "",
+    "duration_sec": 15.19,
+    "goal": "A camera zooms in on a person riding in a tube.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A camera zooms in on a person riding in a tube.",
+        "segment": [
+          0.15,
+          3.19
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A camera zooms in on a person riding in a tube."
+      },
+      {
+        "subtask_id": "1",
+        "name": "More people are seen riding in tubes behind the man.",
+        "segment": [
+          3.19,
+          9.79
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " More people are seen riding in tubes behind the man."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The people continue to ride around the area down the river.",
+        "segment": [
+          7.06,
+          12.53
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The people continue to ride around the area down the river."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_hoisfXCLJDQ",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_mnqSG5o84NE",
+    "video_url": "https://www.youtube.com/watch?v=mnqSG5o84NE",
+    "video_path": "",
+    "duration_sec": 139.82999999999998,
+    "goal": "A man train a boy kick box while two men watch sitting in the room.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man train a boy kick box while two men watch sitting in the room.",
+        "segment": [
+          0.0,
+          48.24
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man train a boy kick box while two men watch sitting in the room."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Then, the man stands and kick the boy who kick back then kneels.",
+        "segment": [
+          48.94,
+          62.22
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Then, the man stands and kick the boy who kick back then kneels."
+      },
+      {
+        "subtask_id": "2",
+        "name": "After, the man trains another child while showing movements.",
+        "segment": [
+          62.92,
+          111.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " After, the man trains another child while showing movements."
+      },
+      {
+        "subtask_id": "3",
+        "name": "After, the man stands to practice kicks, then the man lye down and and hug the child who continues practicing kick box.",
+        "segment": [
+          112.56,
+          138.43
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " After, the man stands to practice kicks, then the man lye down and and hug the child who continues practicing kick box."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_mnqSG5o84NE",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_IWuiVS3-Z7k",
+    "video_url": "https://www.youtube.com/watch?v=IWuiVS3-Z7k",
+    "video_path": "",
+    "duration_sec": 119.97,
+    "goal": "People are shown walking along a beach.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "People are shown walking along a beach.",
+        "segment": [
+          0.0,
+          4.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "People are shown walking along a beach."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Several people in paintball gear are running through an obstacle course.",
+        "segment": [
+          7.8,
+          52.79
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Several people in paintball gear are running through an obstacle course."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The people shoot at each other, hiding behind the obstacles.",
+        "segment": [
+          56.38,
+          103.77
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The people shoot at each other, hiding behind the obstacles."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The winner dances and runs across the field.",
+        "segment": [
+          106.17,
+          119.97
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The winner dances and runs across the field."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_IWuiVS3-Z7k",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_nvsK9ggeics",
+    "video_url": "https://www.youtube.com/watch?v=nvsK9ggeics",
+    "video_path": "",
+    "duration_sec": 73.26,
+    "goal": "A young child is seen sitting behind a drum set playing the drums.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A young child is seen sitting behind a drum set playing the drums.",
+        "segment": [
+          1.1,
+          37.36
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A young child is seen sitting behind a drum set playing the drums."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The boy continues playing the instrument while the camera zooms in on him playing.",
+        "segment": [
+          30.04,
+          71.79
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The boy continues playing the instrument while the camera zooms in on him playing."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_nvsK9ggeics",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_rAuz_Pf3lp8",
+    "video_url": "https://www.youtube.com/watch?v=rAuz_Pf3lp8",
+    "video_path": "",
+    "duration_sec": 174.92000000000002,
+    "goal": "A family has a picnic, and goes tubing on inflatable rafts in a narrow body of water surrounded by trees, on a rainy day.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A family has a picnic, and goes tubing on inflatable rafts in a narrow body of water surrounded by trees, on a rainy day.",
+        "segment": [
+          3.5,
+          167.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A family has a picnic, and goes tubing on inflatable rafts in a narrow body of water surrounded by trees, on a rainy day."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A family of people sit at an outdoor wooden picnic table, eating, waiving at the camera.",
+        "segment": [
+          3.5,
+          11.37
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  A family of people sit at an outdoor wooden picnic table, eating, waiving at the camera."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The family watch the weather outdoors as it begins to rain and a little girl runs out into the rain and dances in it.",
+        "segment": [
+          13.12,
+          31.48
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  The family watch the weather outdoors as it begins to rain and a little girl runs out into the rain and dances in it."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The family then appears, floating, talking and smiling on inflatable tubes on a narrow body of water.",
+        "segment": [
+          38.48,
+          154.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  The family then appears, floating, talking and smiling on inflatable tubes on a narrow body of water."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The event ends and the family leaves an area bordered by a wooden fence.",
+        "segment": [
+          155.68,
+          174.92
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "  The event ends and the family leaves an area bordered by a wooden fence."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_rAuz_Pf3lp8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_pxb95-aSDYo",
+    "video_url": "https://www.youtube.com/watch?v=pxb95-aSDYo",
+    "video_path": "",
+    "duration_sec": 168.75,
+    "goal": "A man plays guitar and harmonica at the same time.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man plays guitar and harmonica at the same time.",
+        "segment": [
+          4.22,
+          11.81
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man plays guitar and harmonica at the same time."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Then, the man sings while playing the guitar.",
+        "segment": [
+          12.66,
+          64.97
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Then, the man sings while playing the guitar."
+      },
+      {
+        "subtask_id": "2",
+        "name": "After, the man continues playing both the guitar and the harmonica, then sing.",
+        "segment": [
+          66.66,
+          115.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " After, the man continues playing both the guitar and the harmonica, then sing."
+      },
+      {
+        "subtask_id": "3",
+        "name": "Next, the man plays the harmonica and the guitar together.",
+        "segment": [
+          116.44,
+          168.75
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Next, the man plays the harmonica and the guitar together."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_pxb95-aSDYo",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_y7WO-8cQfO0",
+    "video_url": "https://www.youtube.com/watch?v=y7WO-8cQfO0",
+    "video_path": "",
+    "duration_sec": 191.73,
+    "goal": "The video begins with a title sequence.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "The video begins with a title sequence.",
+        "segment": [
+          0.0,
+          4.79
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The video begins with a title sequence."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A young man is shown in a gym performing tricks with a jump rope as music plays in the background.",
+        "segment": [
+          4.79,
+          191.73
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A young man is shown in a gym performing tricks with a jump rope as music plays in the background."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He then lays down and begins doing tricks on the floor.",
+        "segment": [
+          49.85,
+          70.94
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He then lays down and begins doing tricks on the floor."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The young man gets up again and does more tricks while standing.",
+        "segment": [
+          70.94,
+          191.73
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The young man gets up again and does more tricks while standing."
+      },
+      {
+        "subtask_id": "4",
+        "name": "At one point, his friends assist with the jump rope tricks.",
+        "segment": [
+          90.11,
+          97.78
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " At one point, his friends assist with the jump rope tricks."
+      },
+      {
+        "subtask_id": "5",
+        "name": "The video ends with credits showing the young man's name, along with the names of those who assisted him.",
+        "segment": [
+          156.26,
+          191.73
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The video ends with credits showing the young man's name, along with the names of those who assisted him."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_y7WO-8cQfO0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_74EoyLUbtgI",
+    "video_url": "https://www.youtube.com/watch?v=74EoyLUbtgI",
+    "video_path": "",
+    "duration_sec": 171.22,
+    "goal": "A lady is seen putting wax on a mans shoes.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A lady is seen putting wax on a mans shoes.",
+        "segment": [
+          0.0,
+          21.4
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A lady is seen putting wax on a mans shoes."
+      },
+      {
+        "subtask_id": "1",
+        "name": "We see the cloth hanging on the wall.",
+        "segment": [
+          21.4,
+          29.96
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " We see the cloth hanging on the wall."
+      },
+      {
+        "subtask_id": "2",
+        "name": "We see the footprints on the platform.",
+        "segment": [
+          34.24,
+          42.81
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " We see the footprints on the platform."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The woman rubs the mans shoes with a cloth.",
+        "segment": [
+          42.81,
+          113.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The woman rubs the mans shoes with a cloth."
+      },
+      {
+        "subtask_id": "4",
+        "name": "We see the cloth on the wall, then the lines of cloth near the shoes shine sign.",
+        "segment": [
+          114.72,
+          138.69
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " We see the cloth on the wall, then the lines of cloth near the shoes shine sign."
+      },
+      {
+        "subtask_id": "5",
+        "name": "A man is standing on a platform.",
+        "segment": [
+          141.26,
+          146.4
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man is standing on a platform."
+      },
+      {
+        "subtask_id": "6",
+        "name": "We see the holographic man on the wall with the paper.",
+        "segment": [
+          153.25,
+          171.22
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " We see the holographic man on the wall with the paper."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_74EoyLUbtgI",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_D9rHZpZoeRA",
+    "video_url": "https://www.youtube.com/watch?v=D9rHZpZoeRA",
+    "video_path": "",
+    "duration_sec": 202.5,
+    "goal": "A black two door Audi A3 is shown and then the camera zooms in on the tires.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A black two door Audi A3 is shown and then the camera zooms in on the tires.",
+        "segment": [
+          0.0,
+          29.36
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A black two door Audi A3 is shown and then the camera zooms in on the tires."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A finger then touches the emergency light and the lights on the car begin to flash.",
+        "segment": [
+          29.36,
+          66.83
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A finger then touches the emergency light and the lights on the car begin to flash."
+      },
+      {
+        "subtask_id": "2",
+        "name": "Next,the truck is opened,and the person removes the spare tire and the jack.",
+        "segment": [
+          67.84,
+          114.41
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Next,the truck is opened,and the person removes the spare tire and the jack."
+      },
+      {
+        "subtask_id": "3",
+        "name": "He then lifts the car and continues to loosen the bolts on the wheel of the car.",
+        "segment": [
+          114.41,
+          150.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "He then lifts the car and continues to loosen the bolts on the wheel of the car."
+      },
+      {
+        "subtask_id": "4",
+        "name": "Once loose,the wheel is removed and the spare is put on and the same actions are performed in reverse.",
+        "segment": [
+          149.85,
+          202.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Once loose,the wheel is removed and the spare is put on and the same actions are performed in reverse."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_D9rHZpZoeRA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_WY9zvUkK_4Y",
+    "video_url": "https://www.youtube.com/watch?v=WY9zvUkK_4Y",
+    "video_path": "",
+    "duration_sec": 203.59,
+    "goal": "Two girls stand between a girl in a hair salon stool and begin brushing her and parting her hair.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Two girls stand between a girl in a hair salon stool and begin brushing her and parting her hair.",
+        "segment": [
+          4.07,
+          54.97
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Two girls stand between a girl in a hair salon stool and begin brushing her and parting her hair."
+      },
+      {
+        "subtask_id": "1",
+        "name": "One woman braids her hair continuously to eventually create a french braid.",
+        "segment": [
+          53.95,
+          184.25
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " One woman braids her hair continuously to eventually create a french braid."
+      },
+      {
+        "subtask_id": "2",
+        "name": "Both women stand talking to the camera while presenting the braid just made.",
+        "segment": [
+          184.25,
+          192.39
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Both women stand talking to the camera while presenting the braid just made."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_WY9zvUkK_4Y",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_N-6-MdxRg50",
+    "video_url": "https://www.youtube.com/watch?v=N-6-MdxRg50",
+    "video_path": "",
+    "duration_sec": 134.49,
+    "goal": "We see a colorful opening scene.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "We see a colorful opening scene.",
+        "segment": [
+          0.0,
+          5.38
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "We see a colorful opening scene."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Kids in colorful clothes walk on a stage and get in place.",
+        "segment": [
+          4.71,
+          12.78
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Kids in colorful clothes walk on a stage and get in place."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The kids perform zumba on a stage.",
+        "segment": [
+          13.45,
+          128.44
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The kids perform zumba on a stage."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The girl second from left goes the wrong direction and almost runs into another girl.",
+        "segment": [
+          27.57,
+          35.64
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The girl second from left goes the wrong direction and almost runs into another girl."
+      },
+      {
+        "subtask_id": "4",
+        "name": "We see an an ending screen.",
+        "segment": [
+          129.78,
+          134.49
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " We see an an ending screen."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_N-6-MdxRg50",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_uFMDSiHu7g4",
+    "video_url": "https://www.youtube.com/watch?v=uFMDSiHu7g4",
+    "video_path": "",
+    "duration_sec": 181.23,
+    "goal": "A man wearing a striped shirt dances with a girl in a brown blouse at a street festival.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man wearing a striped shirt dances with a girl in a brown blouse at a street festival.",
+        "segment": [
+          0.0,
+          13.59
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man wearing a striped shirt dances with a girl in a brown blouse at a street festival."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Other couple join in and dance in a street festival while performers play on a stage.",
+        "segment": [
+          13.59,
+          141.36
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Other couple join in and dance in a street festival while performers play on a stage."
+      },
+      {
+        "subtask_id": "2",
+        "name": "Onlookers pass by while the group continues to dance.",
+        "segment": [
+          141.36,
+          181.23
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Onlookers pass by while the group continues to dance."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_uFMDSiHu7g4",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_Pu92wJ-7UTQ",
+    "video_url": "https://www.youtube.com/watch?v=Pu92wJ-7UTQ",
+    "video_path": "",
+    "duration_sec": 62.04,
+    "goal": "The man is strumming one drum.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "The man is strumming one drum.",
+        "segment": [
+          1.24,
+          12.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The man is strumming one drum."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man strum the other drum while moving his leg.",
+        "segment": [
+          11.48,
+          31.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man strum the other drum while moving his leg."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man play two drums at the same time.",
+        "segment": [
+          27.92,
+          62.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man play two drums at the same time."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_Pu92wJ-7UTQ",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_dsVvnFkGAn0",
+    "video_url": "https://www.youtube.com/watch?v=dsVvnFkGAn0",
+    "video_path": "",
+    "duration_sec": 82.8,
+    "goal": "The woman is sitting by the fireplace holding a violin.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "The woman is sitting by the fireplace holding a violin.",
+        "segment": [
+          0.0,
+          13.66
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The woman is sitting by the fireplace holding a violin."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The woman placed the violin between her neck and shoulder and began strumming the violin with the stick.",
+        "segment": [
+          12.01,
+          68.31
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The woman placed the violin between her neck and shoulder and began strumming the violin with the stick."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The lady put the violin on her lap and talked.",
+        "segment": [
+          63.76,
+          82.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The lady put the violin on her lap and talked."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_dsVvnFkGAn0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_JgHQCKz_DRc",
+    "video_url": "https://www.youtube.com/watch?v=JgHQCKz_DRc",
+    "video_path": "",
+    "duration_sec": 104.05,
+    "goal": "A man sits in a chair as he is getting his hair cut.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man sits in a chair as he is getting his hair cut.",
+        "segment": [
+          3.12,
+          88.44
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man sits in a chair as he is getting his hair cut."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A man in a black shirt moves a light around.",
+        "segment": [
+          3.64,
+          27.57
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man in a black shirt moves a light around."
+      },
+      {
+        "subtask_id": "2",
+        "name": "People scramble behind the hair stylist.",
+        "segment": [
+          3.64,
+          87.92
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " People scramble behind the hair stylist."
+      },
+      {
+        "subtask_id": "3",
+        "name": "A hair stylist continuously combs and cuts the man's hair.",
+        "segment": [
+          3.12,
+          87.4
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A hair stylist continuously combs and cuts the man's hair."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The hair stylists rubs some pomade on the man's hair.",
+        "segment": [
+          81.68,
+          84.8
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The hair stylists rubs some pomade on the man's hair."
+      },
+      {
+        "subtask_id": "5",
+        "name": "The man is seen posing.",
+        "segment": [
+          90.0,
+          98.33
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man is seen posing."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_JgHQCKz_DRc",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_DEmArEKL8gc",
+    "video_url": "https://www.youtube.com/watch?v=DEmArEKL8gc",
+    "video_path": "",
+    "duration_sec": 194.56,
+    "goal": "A teenage female cheer leading squad walks around on a mat and get in formation.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A teenage female cheer leading squad walks around on a mat and get in formation.",
+        "segment": [
+          0.0,
+          22.37
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A teenage female cheer leading squad walks around on a mat and get in formation."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The routine begins in a manikin challenge and they all begin to do a flip.",
+        "segment": [
+          22.37,
+          54.48
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "The routine begins in a manikin challenge and they all begin to do a flip."
+      },
+      {
+        "subtask_id": "2",
+        "name": "After,they do a several straddle jumps and begin thrown up in stands.",
+        "segment": [
+          54.48,
+          79.77
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "After,they do a several straddle jumps and begin thrown up in stands."
+      },
+      {
+        "subtask_id": "3",
+        "name": "Once the stunts are done,half of the team begins doing cart wheels and they all meet back in the middle to do stunts in the air.",
+        "segment": [
+          79.77,
+          143.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Once the stunts are done,half of the team begins doing cart wheels and they all meet back in the middle to do stunts in the air."
+      },
+      {
+        "subtask_id": "4",
+        "name": "More stunts are done and the girls finish by landing in a split,they then get up and hug each other in the middle of the mat.",
+        "segment": [
+          143.0,
+          194.56
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "More stunts are done and the girls finish by landing in a split,they then get up and hug each other in the middle of the mat."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_DEmArEKL8gc",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_8ikOQRbeQL8",
+    "video_url": "https://www.youtube.com/watch?v=8ikOQRbeQL8",
+    "video_path": "",
+    "duration_sec": 132.22,
+    "goal": "A woman wearing a hood and glasses is talking.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman wearing a hood and glasses is talking.",
+        "segment": [
+          0.0,
+          132.22
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman wearing a hood and glasses is talking."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She is holding a baton and twirling it in her hands.",
+        "segment": [
+          19.17,
+          132.22
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She is holding a baton and twirling it in her hands."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_8ikOQRbeQL8",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_zzz_3yWpTXo",
+    "video_url": "https://www.youtube.com/watch?v=zzz_3yWpTXo",
+    "video_path": "",
+    "duration_sec": 21.53,
+    "goal": "A woman is seen standing behind a sink and washing dishes while speaking to the camera.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman is seen standing behind a sink and washing dishes while speaking to the camera.",
+        "segment": [
+          0.22,
+          10.55
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman is seen standing behind a sink and washing dishes while speaking to the camera."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The woman continues washing silverware while looking over to the camera and smiling.",
+        "segment": [
+          8.29,
+          21.09
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The woman continues washing silverware while looking over to the camera and smiling."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_zzz_3yWpTXo",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_iMiKGoQ7RjE",
+    "video_url": "https://www.youtube.com/watch?v=iMiKGoQ7RjE",
+    "video_path": "",
+    "duration_sec": 127.9,
+    "goal": "A man in a black hat is hitting a ball on the grass with a club.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man in a black hat is hitting a ball on the grass with a club.",
+        "segment": [
+          0.0,
+          35.81
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man in a black hat is hitting a ball on the grass with a club."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He continues to talk to the camera.",
+        "segment": [
+          34.53,
+          73.54
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He continues to talk to the camera."
+      },
+      {
+        "subtask_id": "2",
+        "name": "He holds up a small trophy.",
+        "segment": [
+          102.32,
+          105.51
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He holds up a small trophy."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_iMiKGoQ7RjE",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_Vjsd6Ec6eKA",
+    "video_url": "https://www.youtube.com/watch?v=Vjsd6Ec6eKA",
+    "video_path": "",
+    "duration_sec": 152.86,
+    "goal": "A group of people are on a field.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A group of people are on a field.",
+        "segment": [
+          0.0,
+          9.94
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A group of people are on a field."
+      },
+      {
+        "subtask_id": "1",
+        "name": "They attach a camera to one of the player's heads.",
+        "segment": [
+          10.7,
+          35.16
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They attach a camera to one of the player's heads."
+      },
+      {
+        "subtask_id": "2",
+        "name": "They lift each other over their heads in cheerleading stunts that can be seen from the camera's view.",
+        "segment": [
+          37.45,
+          131.46
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They lift each other over their heads in cheerleading stunts that can be seen from the camera's view."
+      },
+      {
+        "subtask_id": "3",
+        "name": "They smile and laugh as they continue to perform stunts.",
+        "segment": [
+          133.75,
+          152.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " They smile and laugh as they continue to perform stunts."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_Vjsd6Ec6eKA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_XnUi1SG9jxA",
+    "video_url": "https://www.youtube.com/watch?v=XnUi1SG9jxA",
+    "video_path": "",
+    "duration_sec": 69.17,
+    "goal": "A large group of people are seen standing around when several clips are shown of a man attempting to jump over a bar.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A large group of people are seen standing around when several clips are shown of a man attempting to jump over a bar.",
+        "segment": [
+          1.73,
+          27.67
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A large group of people are seen standing around when several clips are shown of a man attempting to jump over a bar."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man completes the jump after a couple tries and is shown again in slow motion.",
+        "segment": [
+          24.9,
+          49.11
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man completes the jump after a couple tries and is shown again in slow motion."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man attempts jumping higher several more times and ends up knocking the bar down each time.",
+        "segment": [
+          47.04,
+          67.1
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man attempts jumping higher several more times and ends up knocking the bar down each time."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_XnUi1SG9jxA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_FeKEqUxiReA",
+    "video_url": "https://www.youtube.com/watch?v=FeKEqUxiReA",
+    "video_path": "",
+    "duration_sec": 236.64,
+    "goal": "A woman is laughing as she jumps rope inside a gym.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman is laughing as she jumps rope inside a gym.",
+        "segment": [
+          0.0,
+          86.37
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman is laughing as she jumps rope inside a gym."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She continues jumping for a long period of time, speeding up and changing positions as men with cameras record her.",
+        "segment": [
+          87.55,
+          236.64
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She continues jumping for a long period of time, speeding up and changing positions as men with cameras record her."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_FeKEqUxiReA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_BB2vrBWgXkU",
+    "video_url": "https://www.youtube.com/watch?v=BB2vrBWgXkU",
+    "video_path": "",
+    "duration_sec": 196.72,
+    "goal": "A woman wearing a leopard print shirt and a denim jacket is doing a tutorial on fake nails and how to use them.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A woman wearing a leopard print shirt and a denim jacket is doing a tutorial on fake nails and how to use them.",
+        "segment": [
+          26.56,
+          52.13
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A woman wearing a leopard print shirt and a denim jacket is doing a tutorial on fake nails and how to use them."
+      },
+      {
+        "subtask_id": "1",
+        "name": "She is holding a packet of the fake nails in her hand as she explains the process.",
+        "segment": [
+          52.13,
+          75.74
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She is holding a packet of the fake nails in her hand as she explains the process."
+      },
+      {
+        "subtask_id": "2",
+        "name": "Then she demonstrates how to place the fake nails on top of her nails.",
+        "segment": [
+          75.74,
+          99.34
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Then she demonstrates how to place the fake nails on top of her nails."
+      },
+      {
+        "subtask_id": "3",
+        "name": "Then she takes a nail file and files the ends of the nails to smooth it.",
+        "segment": [
+          99.34,
+          121.97
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Then she takes a nail file and files the ends of the nails to smooth it."
+      },
+      {
+        "subtask_id": "4",
+        "name": "She then uses some glue to glue the nails over her nails.",
+        "segment": [
+          121.97,
+          147.54
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She then uses some glue to glue the nails over her nails."
+      },
+      {
+        "subtask_id": "5",
+        "name": "Then she clips off the excess to shorten the nails, followed by filing the nails.",
+        "segment": [
+          147.54,
+          176.06
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Then she clips off the excess to shorten the nails, followed by filing the nails."
+      },
+      {
+        "subtask_id": "6",
+        "name": "She also uses some lime green nail polish and paints the nails to finish off the process and make them shiny.",
+        "segment": [
+          176.06,
+          196.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " She also uses some lime green nail polish and paints the nails to finish off the process and make them shiny."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_BB2vrBWgXkU",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_S6t9Lq1xKJk",
+    "video_url": "https://www.youtube.com/watch?v=S6t9Lq1xKJk",
+    "video_path": "",
+    "duration_sec": 30.6,
+    "goal": "A cook is standing in front of a large stove.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A cook is standing in front of a large stove.",
+        "segment": [
+          0.0,
+          3.37
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A cook is standing in front of a large stove."
+      },
+      {
+        "subtask_id": "1",
+        "name": "It is covered in ingredients and pans on burners.",
+        "segment": [
+          4.28,
+          9.49
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " It is covered in ingredients and pans on burners."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man creates a giant omelette, finally flipping it onto a plate and handing it to a patron.",
+        "segment": [
+          10.25,
+          30.6
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man creates a giant omelette, finally flipping it onto a plate and handing it to a patron."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_S6t9Lq1xKJk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_0_xap_BBDrw",
+    "video_url": "https://www.youtube.com/watch?v=0_xap_BBDrw",
+    "video_path": "",
+    "duration_sec": 48.02,
+    "goal": "An old man with gray hair, wearing red shirt and black pants is dribbling the ball in an indoor court, he dribbled the ball side by side, between his legs.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "An old man with gray hair, wearing red shirt and black pants is dribbling the ball in an indoor court, he dribbled the ball side by side, between his legs.",
+        "segment": [
+          0.72,
+          48.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "An old man with gray hair, wearing red shirt and black pants is dribbling the ball in an indoor court, he dribbled the ball side by side, between his legs."
+      },
+      {
+        "subtask_id": "1",
+        "name": "He shoot the ball into the ring, then start dribbling again to side to side and between his legs, and shoot the ball into the ring.",
+        "segment": [
+          27.61,
+          48.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " He shoot the ball into the ring, then start dribbling again to side to side and between his legs, and shoot the ball into the ring."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_0_xap_BBDrw",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_QdmUojrWdmE",
+    "video_url": "https://www.youtube.com/watch?v=QdmUojrWdmE",
+    "video_path": "",
+    "duration_sec": 228.65,
+    "goal": "Music plays as surfers ride the waves.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "Music plays as surfers ride the waves.",
+        "segment": [
+          0.0,
+          212.64
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "Music plays as surfers ride the waves."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A few men are shown preparing to surf, prepping their board and getting dressed.",
+        "segment": [
+          13.72,
+          22.86
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A few men are shown preparing to surf, prepping their board and getting dressed."
+      },
+      {
+        "subtask_id": "2",
+        "name": "A helicopter rides over the shoreline where the surfers are riding.",
+        "segment": [
+          21.72,
+          24.01
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A helicopter rides over the shoreline where the surfers are riding."
+      },
+      {
+        "subtask_id": "3",
+        "name": "A couple laughs together on the beach in a tent awaiting more surfing.",
+        "segment": [
+          52.59,
+          56.02
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A couple laughs together on the beach in a tent awaiting more surfing."
+      },
+      {
+        "subtask_id": "4",
+        "name": "A man is then shown prepping his board with surf wax.",
+        "segment": [
+          117.75,
+          126.9
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man is then shown prepping his board with surf wax."
+      },
+      {
+        "subtask_id": "5",
+        "name": "The crowd watches others riding waves.",
+        "segment": [
+          129.19,
+          185.2
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The crowd watches others riding waves."
+      },
+      {
+        "subtask_id": "6",
+        "name": "The crowd cheers multiples surfing runs on.",
+        "segment": [
+          129.19,
+          201.21
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The crowd cheers multiples surfing runs on."
+      },
+      {
+        "subtask_id": "7",
+        "name": "Kelly Slater is featured on a successful run, followed by more clips riding the waves.",
+        "segment": [
+          129.19,
+          197.78
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Kelly Slater is featured on a successful run, followed by more clips riding the waves."
+      },
+      {
+        "subtask_id": "8",
+        "name": "Kelly Slater is paused mid wave to wrap up the story line.",
+        "segment": [
+          204.64,
+          214.93
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Kelly Slater is paused mid wave to wrap up the story line."
+      },
+      {
+        "subtask_id": "9",
+        "name": "Music and producer credits are then shown.",
+        "segment": [
+          214.93,
+          228.65
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Music and producer credits are then shown."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_QdmUojrWdmE",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_L2oaUDyzWPA",
+    "video_url": "https://www.youtube.com/watch?v=L2oaUDyzWPA",
+    "video_path": "",
+    "duration_sec": 92.09,
+    "goal": "We see a golden title on a black screen.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "We see a golden title on a black screen.",
+        "segment": [
+          0.0,
+          9.21
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "We see a golden title on a black screen."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A man is playing a harmonica as arrows point to numbers above him.",
+        "segment": [
+          10.13,
+          22.56
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man is playing a harmonica as arrows point to numbers above him."
+      },
+      {
+        "subtask_id": "2",
+        "name": "We see another title screen and more arrows on numbers.",
+        "segment": [
+          23.02,
+          42.36
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " We see another title screen and more arrows on numbers."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The title screen returns and the man plays with the arrows above him again.",
+        "segment": [
+          42.36,
+          63.54
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The title screen returns and the man plays with the arrows above him again."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The fourth title screen and the man plays with arrows above.",
+        "segment": [
+          63.54,
+          87.03
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The fourth title screen and the man plays with arrows above."
+      },
+      {
+        "subtask_id": "5",
+        "name": "The name shows up and the video ends.",
+        "segment": [
+          87.03,
+          92.09
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The name shows up and the video ends."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_L2oaUDyzWPA",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_bdC2YPVHGZM",
+    "video_url": "https://www.youtube.com/watch?v=bdC2YPVHGZM",
+    "video_path": "",
+    "duration_sec": 141.04,
+    "goal": "A man puts on a helmet with a camera mounted on it.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A man puts on a helmet with a camera mounted on it.",
+        "segment": [
+          0.0,
+          4.23
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A man puts on a helmet with a camera mounted on it."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The man participates in a lacrosse match with the camera recording in first person perspective.",
+        "segment": [
+          5.64,
+          110.72
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man participates in a lacrosse match with the camera recording in first person perspective."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man makes a successful shot on goal and high fives a teammate.",
+        "segment": [
+          102.25,
+          107.19
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man makes a successful shot on goal and high fives a teammate."
+      },
+      {
+        "subtask_id": "3",
+        "name": "The two teams shake hands after the game.",
+        "segment": [
+          112.83,
+          131.17
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The two teams shake hands after the game."
+      },
+      {
+        "subtask_id": "4",
+        "name": "The man walks towards a group of people dressed in black.",
+        "segment": [
+          131.87,
+          141.04
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man walks towards a group of people dressed in black."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_bdC2YPVHGZM",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_fny1HWXezlE",
+    "video_url": "https://www.youtube.com/watch?v=fny1HWXezlE",
+    "video_path": "",
+    "duration_sec": 144.8,
+    "goal": "A small child is seen climbing on a camel as well as a woman in front of him.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A small child is seen climbing on a camel as well as a woman in front of him.",
+        "segment": [
+          0.0,
+          44.89
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A small child is seen climbing on a camel as well as a woman in front of him."
+      },
+      {
+        "subtask_id": "1",
+        "name": "A man stands the camel up on it's legs and walks around the area.",
+        "segment": [
+          30.41,
+          77.47
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " A man stands the camel up on it's legs and walks around the area."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man continues to walk around with the camels while the camera pans to their movements.",
+        "segment": [
+          60.82,
+          142.63
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man continues to walk around with the camels while the camera pans to their movements."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_fny1HWXezlE",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_pYb8jzB5vs0",
+    "video_url": "https://www.youtube.com/watch?v=pYb8jzB5vs0",
+    "video_path": "",
+    "duration_sec": 194.65,
+    "goal": "An intro leads into a man in women sitting beside a pool and talking.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "An intro leads into a man in women sitting beside a pool and talking.",
+        "segment": [
+          0.0,
+          21.41
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "An intro leads into a man in women sitting beside a pool and talking."
+      },
+      {
+        "subtask_id": "1",
+        "name": "The people are then shown underwater wearing scuba gear and teaching one another hand signals while the man speaks to the camera above the surface.",
+        "segment": [
+          22.39,
+          194.65
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The people are then shown underwater wearing scuba gear and teaching one another hand signals while the man speaks to the camera above the surface."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_pYb8jzB5vs0",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  },
+  {
+    "source_dataset": "ActivityNet Captions",
+    "source_split": "training",
+    "sample_type": "event_caption",
+    "video_id": "v_kNkYgYnJTXk",
+    "video_url": "https://www.youtube.com/watch?v=kNkYgYnJTXk",
+    "video_path": "",
+    "duration_sec": 202.53,
+    "goal": "A person is seen in various shots riding around in a canoe and smiling off into the distance.",
+    "subtasks": [
+      {
+        "subtask_id": "0",
+        "name": "A person is seen in various shots riding around in a canoe and smiling off into the distance.",
+        "segment": [
+          1.01,
+          46.58
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "A person is seen in various shots riding around in a canoe and smiling off into the distance."
+      },
+      {
+        "subtask_id": "1",
+        "name": "Another person is seen sitting in a canoe and demonstrates how to properly turn around.",
+        "segment": [
+          50.63,
+          141.77
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " Another person is seen sitting in a canoe and demonstrates how to properly turn around."
+      },
+      {
+        "subtask_id": "2",
+        "name": "The man continues moving along the water moving his paddle around while the camera captures his movements.",
+        "segment": [
+          109.36,
+          202.53
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": " The man continues moving along the water moving his paddle around while the camera captures his movements."
+      }
+    ],
+    "meta": {
+      "original_task_id": "v_kNkYgYnJTXk",
+      "original_label": "",
+      "note": "Dense event captions; goal is populated from the first caption."
+    }
+  }
+]

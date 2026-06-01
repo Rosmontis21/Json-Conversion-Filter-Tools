@@ -1,0 +1,6190 @@
+[
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "xZecGPPhbHE",
+    "video_url": "https://www.youtube.com/embed/xZecGPPhbHE",
+    "video_path": "",
+    "duration_sec": 185.085,
+    "goal": "Put On Hair Extensions.",
+    "subtasks": [
+      {
+        "subtask_id": "325",
+        "name": "Pull up the hair to reserve place for the hair extensions.",
+        "segment": [
+          25.0,
+          30.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pull up the hair to reserve place for the hair extensions"
+      },
+      {
+        "subtask_id": "326",
+        "name": "Put on the hair extensions.",
+        "segment": [
+          31.0,
+          49.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put on the hair extensions"
+      },
+      {
+        "subtask_id": "327",
+        "name": "Put down the hair and comb.",
+        "segment": [
+          107.0,
+          117.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put down the hair and comb"
+      }
+    ],
+    "meta": {
+      "original_task_id": "122",
+      "original_label": "PutOnHairExtensions",
+      "note": "source_start=19.621378525393986; source_end=134.36378671172514"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "NLy71UrHElw",
+    "video_url": "https://www.youtube.com/embed/NLy71UrHElw",
+    "video_path": "",
+    "duration_sec": 26.795,
+    "goal": "Practise Pole Vault.",
+    "subtasks": [
+      {
+        "subtask_id": "373",
+        "name": "Begin to run up.",
+        "segment": [
+          21.0,
+          22.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "begin to run up"
+      },
+      {
+        "subtask_id": "374",
+        "name": "Begin to jump up.",
+        "segment": [
+          23.0,
+          24.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "begin to jump up"
+      },
+      {
+        "subtask_id": "375",
+        "name": "Fall to the ground.",
+        "segment": [
+          25.0,
+          26.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fall to the ground"
+      }
+    ],
+    "meta": {
+      "original_task_id": "116",
+      "original_label": "PractisePoleVault",
+      "note": "source_start=20.407162179718902; source_end=26.795"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "ewmdE3DmlL0",
+    "video_url": "https://www.youtube.com/embed/ewmdE3DmlL0",
+    "video_path": "",
+    "duration_sec": 63.483333,
+    "goal": "Install Bicycle Rack.",
+    "subtasks": [
+      {
+        "subtask_id": "338",
+        "name": "Place the bicycle on the bracket.",
+        "segment": [
+          30.0,
+          34.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "place the bicycle on the bracket"
+      },
+      {
+        "subtask_id": "339",
+        "name": "Fasten the strap.",
+        "segment": [
+          35.0,
+          60.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fasten the strap"
+      }
+    ],
+    "meta": {
+      "original_task_id": "66",
+      "original_label": "InstallBicycleRack",
+      "note": "source_start=28.65146620375997; source_end=60.33288616425457"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "JTmzWWU7s1M",
+    "video_url": "https://www.youtube.com/embed/JTmzWWU7s1M",
+    "video_path": "",
+    "duration_sec": 217.199456,
+    "goal": "Make Soap.",
+    "subtasks": [
+      {
+        "subtask_id": "386",
+        "name": "Put the melted soap block into the vessel.",
+        "segment": [
+          172.0,
+          179.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the melted soap block into the vessel"
+      },
+      {
+        "subtask_id": "387",
+        "name": "Take out after freezing.",
+        "segment": [
+          180.0,
+          182.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out after freezing"
+      }
+    ],
+    "meta": {
+      "original_task_id": "94",
+      "original_label": "MakeSoap",
+      "note": "source_start=166.54583795799286; source_end=199.5820116575816"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "jXYZEb-56Wc",
+    "video_url": "https://www.youtube.com/embed/jXYZEb-56Wc",
+    "video_path": "",
+    "duration_sec": 189.59,
+    "goal": "Paste Screen Protector On Pad.",
+    "subtasks": [
+      {
+        "subtask_id": "332",
+        "name": "Wipe screen.",
+        "segment": [
+          39.5,
+          47.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wipe screen"
+      },
+      {
+        "subtask_id": "331",
+        "name": "Place label.",
+        "segment": [
+          49.5,
+          85.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "place label"
+      },
+      {
+        "subtask_id": "333",
+        "name": "Paste protector on the screen.",
+        "segment": [
+          85.5,
+          108.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "paste protector on the screen"
+      },
+      {
+        "subtask_id": "335",
+        "name": "Remove the label.",
+        "segment": [
+          108.5,
+          112.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the label"
+      },
+      {
+        "subtask_id": "334",
+        "name": "Wipe screen again.",
+        "segment": [
+          112.5,
+          120.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wipe screen again"
+      }
+    ],
+    "meta": {
+      "original_task_id": "69",
+      "original_label": "PasteScreenProtectorOnPad",
+      "note": "source_start=32.38991647599843; source_end=134.18868727439343"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "rtCpq2_HthQ",
+    "video_url": "https://www.youtube.com/embed/rtCpq2_HthQ",
+    "video_path": "",
+    "duration_sec": 67.2682,
+    "goal": "Rewrap Battery.",
+    "subtasks": [
+      {
+        "subtask_id": "709",
+        "name": "Remove the old wrapper.",
+        "segment": [
+          4.0,
+          16.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the old wrapper"
+      },
+      {
+        "subtask_id": "710",
+        "name": "Wrap with the new wrapper.",
+        "segment": [
+          20.0,
+          24.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wrap with the new wrapper"
+      }
+    ],
+    "meta": {
+      "original_task_id": "149",
+      "original_label": "RewrapBattery",
+      "note": "source_start=0.5627443595897956; source_end=29.558301275318467"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "ar2vXJj_dQI",
+    "video_url": "https://www.youtube.com/embed/ar2vXJj_dQI",
+    "video_path": "",
+    "duration_sec": 190.89,
+    "goal": "Replace Faucet.",
+    "subtasks": [
+      {
+        "subtask_id": "634",
+        "name": "Install the new faucet.",
+        "segment": [
+          25.0,
+          37.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new faucet"
+      },
+      {
+        "subtask_id": "635",
+        "name": "Connect the water pipe.",
+        "segment": [
+          38.0,
+          131.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "connect the water pipe"
+      },
+      {
+        "subtask_id": "636",
+        "name": "Open the sluice and test the new faucet.",
+        "segment": [
+          132.0,
+          179.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open the sluice and test the new faucet"
+      }
+    ],
+    "meta": {
+      "original_task_id": "136",
+      "original_label": "ReplaceFaucet",
+      "note": "source_start=23.50439034504469; source_end=184.98545619189485"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "oDAY5PMwZgU",
+    "video_url": "https://www.youtube.com/embed/oDAY5PMwZgU",
+    "video_path": "",
+    "duration_sec": 17.205978,
+    "goal": "Use Vending Machine.",
+    "subtasks": [
+      {
+        "subtask_id": "519",
+        "name": "Insert money into the vending machine.",
+        "segment": [
+          2.0,
+          7.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "insert money into the vending machine"
+      },
+      {
+        "subtask_id": "520",
+        "name": "Press the corresponding button.",
+        "segment": [
+          8.0,
+          13.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the corresponding button"
+      },
+      {
+        "subtask_id": "521",
+        "name": "Take out the goods.",
+        "segment": [
+          14.0,
+          17.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the goods"
+      }
+    ],
+    "meta": {
+      "original_task_id": "163",
+      "original_label": "UseVendingMachine",
+      "note": "source_start=0.5672238541906893; source_end=17.205978"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "4kiZIDOUQAo",
+    "video_url": "https://www.youtube.com/embed/4kiZIDOUQAo",
+    "video_path": "",
+    "duration_sec": 48.5297,
+    "goal": "Assemble Sofa.",
+    "subtasks": [
+      {
+        "subtask_id": "438",
+        "name": "Install legs of sofa.",
+        "segment": [
+          18.0,
+          22.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install legs of sofa"
+      },
+      {
+        "subtask_id": "439",
+        "name": "Put on sofa cover.",
+        "segment": [
+          28.0,
+          44.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put on sofa cover"
+      },
+      {
+        "subtask_id": "437",
+        "name": "Place cushion and backrest.",
+        "segment": [
+          45.0,
+          47.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "place cushion and backrest"
+      }
+    ],
+    "meta": {
+      "original_task_id": "3",
+      "original_label": "AssembleSofa",
+      "note": "source_start=14.034485289841813; source_end=48.5297"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "zyML-268ciU",
+    "video_url": "https://www.youtube.com/embed/zyML-268ciU",
+    "video_path": "",
+    "duration_sec": 237.121667,
+    "goal": "Replace Rearview Mirror Glass.",
+    "subtasks": [
+      {
+        "subtask_id": "8",
+        "name": "Cut off the electric wire.",
+        "segment": [
+          83.0,
+          95.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut off the electric wire"
+      },
+      {
+        "subtask_id": "7",
+        "name": "Remove the old rearview mirror.",
+        "segment": [
+          101.0,
+          113.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the old rearview mirror"
+      },
+      {
+        "subtask_id": "10",
+        "name": "Reinstall the rearview mirror.",
+        "segment": [
+          121.0,
+          150.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "reinstall the rearview mirror"
+      },
+      {
+        "subtask_id": "9",
+        "name": "Reconnect the electric wire.",
+        "segment": [
+          151.0,
+          159.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "reconnect the electric wire"
+      },
+      {
+        "subtask_id": "10",
+        "name": "Reinstall the rearview mirror.",
+        "segment": [
+          160.0,
+          189.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "reinstall the rearview mirror"
+      }
+    ],
+    "meta": {
+      "original_task_id": "143",
+      "original_label": "ReplaceRearviewMirrorGlass",
+      "note": "source_start=79.5221154268518; source_end=195.087657384878"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "r_5RtkDwNsg",
+    "video_url": "https://www.youtube.com/embed/r_5RtkDwNsg",
+    "video_path": "",
+    "duration_sec": 66.014322,
+    "goal": "Make Salad.",
+    "subtasks": [
+      {
+        "subtask_id": "265",
+        "name": "Put the ingredients into the bowl.",
+        "segment": [
+          10.0,
+          34.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the ingredients into the bowl"
+      },
+      {
+        "subtask_id": "266",
+        "name": "Stir the ingredients.",
+        "segment": [
+          35.0,
+          46.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "stir the ingredients"
+      }
+    ],
+    "meta": {
+      "original_task_id": "91",
+      "original_label": "MakeSalad",
+      "note": "source_start=5.687143777058577; source_end=46.31215684417414"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "aR615-SqEls",
+    "video_url": "https://www.youtube.com/embed/aR615-SqEls",
+    "video_path": "",
+    "duration_sec": 527.161667,
+    "goal": "Use Soy Milk Maker.",
+    "subtasks": [
+      {
+        "subtask_id": "199",
+        "name": "Pour some water to the soy milk maker.",
+        "segment": [
+          132.0,
+          139.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour some water to the soy milk maker"
+      },
+      {
+        "subtask_id": "198",
+        "name": "Pour some soy beans.",
+        "segment": [
+          140.0,
+          155.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour some soy beans"
+      },
+      {
+        "subtask_id": "200",
+        "name": "Run the soy milk maker.",
+        "segment": [
+          188.0,
+          215.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "run the soy milk maker"
+      },
+      {
+        "subtask_id": "201",
+        "name": "Filtrate with a filter.",
+        "segment": [
+          263.0,
+          309.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "filtrate with a filter"
+      },
+      {
+        "subtask_id": "202",
+        "name": "Pour into a glass.",
+        "segment": [
+          497.0,
+          507.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour into a glass"
+      }
+    ],
+    "meta": {
+      "original_task_id": "169",
+      "original_label": "UseSoyMilkMaker",
+      "note": "source_start=87.6946828199184; source_end=527.161667"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "CWmC03KVuPU",
+    "video_url": "https://www.youtube.com/embed/CWmC03KVuPU",
+    "video_path": "",
+    "duration_sec": 236.656667,
+    "goal": "Make Tea.",
+    "subtasks": [
+      {
+        "subtask_id": "309",
+        "name": "Prepare and add the tea.",
+        "segment": [
+          55.0,
+          58.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "prepare and add the tea"
+      },
+      {
+        "subtask_id": "308",
+        "name": "Prepare and boil water.",
+        "segment": [
+          59.0,
+          68.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "prepare and boil water"
+      },
+      {
+        "subtask_id": "307",
+        "name": "Heat the teapot and wash the cup.",
+        "segment": [
+          69.0,
+          76.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "heat the teapot and wash the cup"
+      },
+      {
+        "subtask_id": "311",
+        "name": "Add some ingredients to the tea.",
+        "segment": [
+          87.0,
+          99.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add some ingredients to the tea"
+      },
+      {
+        "subtask_id": "310",
+        "name": "Add some water to the tea.",
+        "segment": [
+          146.0,
+          148.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add some water to the tea"
+      },
+      {
+        "subtask_id": "311",
+        "name": "Add some ingredients to the tea.",
+        "segment": [
+          180.0,
+          185.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add some ingredients to the tea"
+      },
+      {
+        "subtask_id": "311",
+        "name": "Add some ingredients to the tea.",
+        "segment": [
+          220.0,
+          224.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add some ingredients to the tea"
+      }
+    ],
+    "meta": {
+      "original_task_id": "100",
+      "original_label": "MakeTea",
+      "note": "source_start=37.1455371455252; source_end=236.26254254844082"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "ErhvSbJZ6mg",
+    "video_url": "https://www.youtube.com/embed/ErhvSbJZ6mg",
+    "video_path": "",
+    "duration_sec": 207.307744,
+    "goal": "Do Lino Printing.",
+    "subtasks": [
+      {
+        "subtask_id": "441",
+        "name": "Draw black patterns.",
+        "segment": [
+          62.0,
+          80.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "draw black patterns"
+      },
+      {
+        "subtask_id": "446",
+        "name": "Ink the marked area.",
+        "segment": [
+          81.0,
+          101.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "ink the marked area"
+      },
+      {
+        "subtask_id": "443",
+        "name": "Scrape tarpaulin without ink.",
+        "segment": [
+          102.0,
+          174.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "scrape tarpaulin without ink"
+      },
+      {
+        "subtask_id": "446",
+        "name": "Ink the marked area.",
+        "segment": [
+          177.0,
+          178.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "ink the marked area"
+      },
+      {
+        "subtask_id": "447",
+        "name": "Transfer print.",
+        "segment": [
+          179.0,
+          185.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "transfer print"
+      },
+      {
+        "subtask_id": "447",
+        "name": "Transfer print.",
+        "segment": [
+          192.0,
+          195.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "transfer print"
+      }
+    ],
+    "meta": {
+      "original_task_id": "43",
+      "original_label": "DoLinoPrinting",
+      "note": "source_start=49.80488409695676; source_end=195.36751012947232"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "DvaCfRWskRE",
+    "video_url": "https://www.youtube.com/embed/DvaCfRWskRE",
+    "video_path": "",
+    "duration_sec": 45.72,
+    "goal": "Pack Sleeping Bag.",
+    "subtasks": [
+      {
+        "subtask_id": "297",
+        "name": "Pack the sleeping bag.",
+        "segment": [
+          16.0,
+          20.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pack the sleeping bag"
+      },
+      {
+        "subtask_id": "298",
+        "name": "Tie the bag tightly.",
+        "segment": [
+          21.0,
+          43.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tie the bag tightly"
+      }
+    ],
+    "meta": {
+      "original_task_id": "107",
+      "original_label": "PackSleepingBag",
+      "note": "source_start=12.592139436207376; source_end=45.72"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "ot_sBwstblw",
+    "video_url": "https://www.youtube.com/embed/ot_sBwstblw",
+    "video_path": "",
+    "duration_sec": 38.591556,
+    "goal": "Practise Pole Vault.",
+    "subtasks": [
+      {
+        "subtask_id": "373",
+        "name": "Begin to run up.",
+        "segment": [
+          8.0,
+          12.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "begin to run up"
+      },
+      {
+        "subtask_id": "374",
+        "name": "Begin to jump up.",
+        "segment": [
+          13.0,
+          22.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "begin to jump up"
+      },
+      {
+        "subtask_id": "375",
+        "name": "Fall to the ground.",
+        "segment": [
+          26.0,
+          38.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fall to the ground"
+      }
+    ],
+    "meta": {
+      "original_task_id": "116",
+      "original_label": "PractisePoleVault",
+      "note": "source_start=4.761005501500538; source_end=38.591556"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "gnlUBK-cvfc",
+    "video_url": "https://www.youtube.com/embed/gnlUBK-cvfc",
+    "video_path": "",
+    "duration_sec": 60.255778,
+    "goal": "Make Burger.",
+    "subtasks": [
+      {
+        "subtask_id": "22",
+        "name": "Knead the meat.",
+        "segment": [
+          10.0,
+          15.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "knead the meat"
+      },
+      {
+        "subtask_id": "23",
+        "name": "Fry meat.",
+        "segment": [
+          25.5,
+          29.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fry meat"
+      },
+      {
+        "subtask_id": "24",
+        "name": "Combine meat and bread to make burger.",
+        "segment": [
+          45.0,
+          55.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "combine meat and bread to make burger"
+      }
+    ],
+    "meta": {
+      "original_task_id": "79",
+      "original_label": "MakeBurger",
+      "note": "source_start=5.253975978894716; source_end=57.79217488708839"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "cPEFskCrdhQ",
+    "video_url": "https://www.youtube.com/embed/cPEFskCrdhQ",
+    "video_path": "",
+    "duration_sec": 211.788333,
+    "goal": "Perform CPR.",
+    "subtasks": [
+      {
+        "subtask_id": "449",
+        "name": "Check the breath of the patient.",
+        "segment": [
+          26.0,
+          36.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "check the breath of the patient"
+      },
+      {
+        "subtask_id": "453",
+        "name": "Press the chest of the patient.",
+        "segment": [
+          81.0,
+          104.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the chest of the patient"
+      },
+      {
+        "subtask_id": "451",
+        "name": "Do artificial breathing to the patient.",
+        "segment": [
+          107.0,
+          113.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "do artificial breathing to the patient"
+      },
+      {
+        "subtask_id": "453",
+        "name": "Press the chest of the patient.",
+        "segment": [
+          115.0,
+          139.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the chest of the patient"
+      },
+      {
+        "subtask_id": "451",
+        "name": "Do artificial breathing to the patient.",
+        "segment": [
+          140.0,
+          146.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "do artificial breathing to the patient"
+      },
+      {
+        "subtask_id": "449",
+        "name": "Check the breath of the patient.",
+        "segment": [
+          162.0,
+          166.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "check the breath of the patient"
+      },
+      {
+        "subtask_id": "451",
+        "name": "Do artificial breathing to the patient.",
+        "segment": [
+          169.0,
+          173.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "do artificial breathing to the patient"
+      },
+      {
+        "subtask_id": "451",
+        "name": "Do artificial breathing to the patient.",
+        "segment": [
+          178.0,
+          183.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "do artificial breathing to the patient"
+      }
+    ],
+    "meta": {
+      "original_task_id": "112",
+      "original_label": "PerformCPR",
+      "note": "source_start=20.171258115746454; source_end=191.34631276405727"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "n0HdUsT48p8",
+    "video_url": "https://www.youtube.com/embed/n0HdUsT48p8",
+    "video_path": "",
+    "duration_sec": 65.480267,
+    "goal": "Perform Paper To Money Trick.",
+    "subtasks": [
+      {
+        "subtask_id": "535",
+        "name": "Show the blank paper.",
+        "segment": [
+          5.0,
+          18.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "show the blank paper"
+      },
+      {
+        "subtask_id": "536",
+        "name": "Fold or fire the blank paper.",
+        "segment": [
+          26.0,
+          33.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fold or fire the blank paper"
+      },
+      {
+        "subtask_id": "537",
+        "name": "Show the money to the audience.",
+        "segment": [
+          37.0,
+          51.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "show the money to the audience"
+      }
+    ],
+    "meta": {
+      "original_task_id": "108",
+      "original_label": "PerformPaperToMoneyTrick",
+      "note": "source_start=0.07878948953556719; source_end=52.58512884274174"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "v4z4s8a7YqE",
+    "video_url": "https://www.youtube.com/embed/v4z4s8a7YqE",
+    "video_path": "",
+    "duration_sec": 55.263489,
+    "goal": "Tie Boat To Dock.",
+    "subtasks": [
+      {
+        "subtask_id": "284",
+        "name": "Cross the rope to wrap the bolt.",
+        "segment": [
+          17.0,
+          18.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cross the rope to wrap the bolt"
+      },
+      {
+        "subtask_id": "283",
+        "name": "Circle the rope under the bolt.",
+        "segment": [
+          21.0,
+          24.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "circle the rope under the bolt"
+      },
+      {
+        "subtask_id": "284",
+        "name": "Cross the rope to wrap the bolt.",
+        "segment": [
+          25.0,
+          27.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cross the rope to wrap the bolt"
+      }
+    ],
+    "meta": {
+      "original_task_id": "158",
+      "original_label": "TieBoatToDock",
+      "note": "source_start=13.730787430041277; source_end=29.02046912755338"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "WE9j6r3s7OY",
+    "video_url": "https://www.youtube.com/embed/WE9j6r3s7OY",
+    "video_path": "",
+    "duration_sec": 136.161667,
+    "goal": "Make Sandwich.",
+    "subtasks": [
+      {
+        "subtask_id": "524",
+        "name": "Put the filler on the bread slice.",
+        "segment": [
+          18.0,
+          79.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the filler on the bread slice"
+      },
+      {
+        "subtask_id": "525",
+        "name": "Fry or grill.",
+        "segment": [
+          80.0,
+          113.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fry or grill"
+      }
+    ],
+    "meta": {
+      "original_task_id": "93",
+      "original_label": "MakeSandwich",
+      "note": "source_start=16.588356908079327; source_end=121.89799589517635"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "iD9JmUkGpOA",
+    "video_url": "https://www.youtube.com/embed/iD9JmUkGpOA",
+    "video_path": "",
+    "duration_sec": 166.651667,
+    "goal": "Clean Shrimp.",
+    "subtasks": [
+      {
+        "subtask_id": "705",
+        "name": "Remove the head.",
+        "segment": [
+          70.0,
+          75.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the head"
+      },
+      {
+        "subtask_id": "708",
+        "name": "Remove the vein.",
+        "segment": [
+          85.0,
+          89.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the vein"
+      },
+      {
+        "subtask_id": "705",
+        "name": "Remove the head.",
+        "segment": [
+          103.0,
+          116.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the head"
+      },
+      {
+        "subtask_id": "708",
+        "name": "Remove the vein.",
+        "segment": [
+          117.0,
+          122.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the vein"
+      }
+    ],
+    "meta": {
+      "original_task_id": "23",
+      "original_label": "CleanShrimp",
+      "note": "source_start=69.86755146701566; source_end=130.81324685018063"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "SN_IhH4PDPo",
+    "video_url": "https://www.youtube.com/embed/SN_IhH4PDPo",
+    "video_path": "",
+    "duration_sec": 85.728067,
+    "goal": "Refill ALighter.",
+    "subtasks": [
+      {
+        "subtask_id": "481",
+        "name": "Press the fuel nozzle.",
+        "segment": [
+          24.0,
+          32.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the fuel nozzle"
+      },
+      {
+        "subtask_id": "482",
+        "name": "Pump up the fuel.",
+        "segment": [
+          50.0,
+          57.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pump up the fuel"
+      },
+      {
+        "subtask_id": "483",
+        "name": "Lighten the lighter to check.",
+        "segment": [
+          63.0,
+          65.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "lighten the lighter to check"
+      }
+    ],
+    "meta": {
+      "original_task_id": "124",
+      "original_label": "RefillALighter",
+      "note": "source_start=23.42718956108583; source_end=70.94552698694886"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "cK55Meyf3ss",
+    "video_url": "https://www.youtube.com/embed/cK55Meyf3ss",
+    "video_path": "",
+    "duration_sec": 219.428333,
+    "goal": "Install Shower Head.",
+    "subtasks": [
+      {
+        "subtask_id": "663",
+        "name": "Replace the old shower head.",
+        "segment": [
+          36.0,
+          61.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "replace the old shower head"
+      },
+      {
+        "subtask_id": "664",
+        "name": "Wrap the pipe band.",
+        "segment": [
+          64.0,
+          91.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wrap the pipe band"
+      },
+      {
+        "subtask_id": "665",
+        "name": "Install the new shower head.",
+        "segment": [
+          92.0,
+          176.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new shower head"
+      }
+    ],
+    "meta": {
+      "original_task_id": "71",
+      "original_label": "InstallShowerHead",
+      "note": "source_start=26.037943119145698; source_end=176.6545939741724"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "WjjexIlQg6k",
+    "video_url": "https://www.youtube.com/embed/WjjexIlQg6k",
+    "video_path": "",
+    "duration_sec": 111.571878,
+    "goal": "Boil Noodles.",
+    "subtasks": [
+      {
+        "subtask_id": "548",
+        "name": "Add seasoning to the boiling water.",
+        "segment": [
+          51.5,
+          53.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add seasoning to the boiling water"
+      },
+      {
+        "subtask_id": "548",
+        "name": "Add seasoning to the boiling water.",
+        "segment": [
+          56.0,
+          67.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add seasoning to the boiling water"
+      },
+      {
+        "subtask_id": "549",
+        "name": "Pour the noodles into the water and stir.",
+        "segment": [
+          80.0,
+          83.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the noodles into the water and stir"
+      },
+      {
+        "subtask_id": "551",
+        "name": "Pour the cooked noodles.",
+        "segment": [
+          89.0,
+          92.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the cooked noodles"
+      }
+    ],
+    "meta": {
+      "original_task_id": "10",
+      "original_label": "BoilNoodles",
+      "note": "source_start=47.286445082266; source_end=103.02395253157596"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "EWrpjhOtuss",
+    "video_url": "https://www.youtube.com/embed/EWrpjhOtuss",
+    "video_path": "",
+    "duration_sec": 188.035189,
+    "goal": "Make Salmon.",
+    "subtasks": [
+      {
+        "subtask_id": "26",
+        "name": "Fry salmon.",
+        "segment": [
+          115.0,
+          126.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fry salmon"
+      },
+      {
+        "subtask_id": "25",
+        "name": "Add seasoning on the salmon.",
+        "segment": [
+          127.0,
+          130.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add seasoning on the salmon"
+      },
+      {
+        "subtask_id": "26",
+        "name": "Fry salmon.",
+        "segment": [
+          132.0,
+          139.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fry salmon"
+      },
+      {
+        "subtask_id": "28",
+        "name": "Load the dish.",
+        "segment": [
+          151.0,
+          158.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "load the dish"
+      }
+    ],
+    "meta": {
+      "original_task_id": "92",
+      "original_label": "MakeSalmon",
+      "note": "source_start=112.53158516530361; source_end=160.84760917752735"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "8TVl3Ui-WHg",
+    "video_url": "https://www.youtube.com/embed/8TVl3Ui-WHg",
+    "video_path": "",
+    "duration_sec": 91.533056,
+    "goal": "Pump Up Bicycle Tire.",
+    "subtasks": [
+      {
+        "subtask_id": "246",
+        "name": "Install the air nozzle.",
+        "segment": [
+          26.0,
+          34.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the air nozzle"
+      },
+      {
+        "subtask_id": "247",
+        "name": "Pump up to the tire.",
+        "segment": [
+          48.0,
+          55.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pump up to the tire"
+      },
+      {
+        "subtask_id": "248",
+        "name": "Remove the air nozzle.",
+        "segment": [
+          55.0,
+          58.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the air nozzle"
+      }
+    ],
+    "meta": {
+      "original_task_id": "120",
+      "original_label": "PumpUpBicycleTire",
+      "note": "source_start=25.101166742302624; source_end=59.06329582766119"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "NKItrqXhycE",
+    "video_url": "https://www.youtube.com/embed/NKItrqXhycE",
+    "video_path": "",
+    "duration_sec": 140.293333,
+    "goal": "Transplant.",
+    "subtasks": [
+      {
+        "subtask_id": "389",
+        "name": "Take out the plant.",
+        "segment": [
+          84.0,
+          89.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the plant"
+      },
+      {
+        "subtask_id": "390",
+        "name": "Put in the plant.",
+        "segment": [
+          105.5,
+          110.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put in the plant"
+      },
+      {
+        "subtask_id": "391",
+        "name": "Fill with some soil.",
+        "segment": [
+          110.5,
+          121.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fill with some soil"
+      }
+    ],
+    "meta": {
+      "original_task_id": "159",
+      "original_label": "Transplant",
+      "note": "source_start=72.42429128461298; source_end=126.89018649657069"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "WlV0MTSuzOk",
+    "video_url": "https://www.youtube.com/embed/WlV0MTSuzOk",
+    "video_path": "",
+    "duration_sec": 41.076089,
+    "goal": "Replace Filter For Air Purifier.",
+    "subtasks": [
+      {
+        "subtask_id": "392",
+        "name": "Take out the shell.",
+        "segment": [
+          1.0,
+          8.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the shell"
+      },
+      {
+        "subtask_id": "393",
+        "name": "Take out the filter.",
+        "segment": [
+          9.0,
+          12.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the filter"
+      },
+      {
+        "subtask_id": "394",
+        "name": "Clean up the filter.",
+        "segment": [
+          13.0,
+          26.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "clean up the filter"
+      },
+      {
+        "subtask_id": "395",
+        "name": "Fit on the filter.",
+        "segment": [
+          27.0,
+          32.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fit on the filter"
+      },
+      {
+        "subtask_id": "396",
+        "name": "Fit on the shell.",
+        "segment": [
+          33.0,
+          39.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fit on the shell"
+      }
+    ],
+    "meta": {
+      "original_task_id": "137",
+      "original_label": "ReplaceFilterForAirPurifier",
+      "note": "source_start=0.06713412845000732; source_end=39.95357800641755"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "j93MBbx7HAw",
+    "video_url": "https://www.youtube.com/embed/j93MBbx7HAw",
+    "video_path": "",
+    "duration_sec": 129.845,
+    "goal": "Use Vending Machine.",
+    "subtasks": [
+      {
+        "subtask_id": "519",
+        "name": "Insert money into the vending machine.",
+        "segment": [
+          60.0,
+          67.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "insert money into the vending machine"
+      },
+      {
+        "subtask_id": "520",
+        "name": "Press the corresponding button.",
+        "segment": [
+          104.0,
+          112.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the corresponding button"
+      },
+      {
+        "subtask_id": "521",
+        "name": "Take out the goods.",
+        "segment": [
+          113.0,
+          116.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the goods"
+      }
+    ],
+    "meta": {
+      "original_task_id": "163",
+      "original_label": "UseVendingMachine",
+      "note": "source_start=52.14495819591069; source_end=124.50296592624017"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "LMoGwLqPM64",
+    "video_url": "https://www.youtube.com/embed/LMoGwLqPM64",
+    "video_path": "",
+    "duration_sec": 197.508933,
+    "goal": "Boil Noodles.",
+    "subtasks": [
+      {
+        "subtask_id": "548",
+        "name": "Add seasoning to the boiling water.",
+        "segment": [
+          69.0,
+          93.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add seasoning to the boiling water"
+      },
+      {
+        "subtask_id": "549",
+        "name": "Pour the noodles into the water and stir.",
+        "segment": [
+          114.0,
+          121.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the noodles into the water and stir"
+      },
+      {
+        "subtask_id": "551",
+        "name": "Pour the cooked noodles.",
+        "segment": [
+          122.0,
+          130.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the cooked noodles"
+      }
+    ],
+    "meta": {
+      "original_task_id": "10",
+      "original_label": "BoilNoodles",
+      "note": "source_start=53.55897426317331; source_end=141.39964667807277"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "1lip9rOA79c",
+    "video_url": "https://www.youtube.com/embed/1lip9rOA79c",
+    "video_path": "",
+    "duration_sec": 91.742033,
+    "goal": "Prepare Standard Solution.",
+    "subtasks": [
+      {
+        "subtask_id": "289",
+        "name": "Weigh up the solute.",
+        "segment": [
+          5.0,
+          35.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "weigh up the solute"
+      },
+      {
+        "subtask_id": "290",
+        "name": "Transfer and dissolve the solute.",
+        "segment": [
+          36.0,
+          41.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "transfer and dissolve the solute"
+      },
+      {
+        "subtask_id": "290",
+        "name": "Transfer and dissolve the solute.",
+        "segment": [
+          49.0,
+          64.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "transfer and dissolve the solute"
+      },
+      {
+        "subtask_id": "292",
+        "name": "Transfer the solution and label.",
+        "segment": [
+          75.5,
+          84.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "transfer the solution and label"
+      }
+    ],
+    "meta": {
+      "original_task_id": "118",
+      "original_label": "PrepareStandardSolution",
+      "note": "source_start=3.7113972401082806; source_end=88.4013447355827"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "U-s6EYzqjmA",
+    "video_url": "https://www.youtube.com/embed/U-s6EYzqjmA",
+    "video_path": "",
+    "duration_sec": 180.975,
+    "goal": "Use Rice Cooker To Cook Rice.",
+    "subtasks": [
+      {
+        "subtask_id": "217",
+        "name": "Take out some rice.",
+        "segment": [
+          5.0,
+          11.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out some rice"
+      },
+      {
+        "subtask_id": "218",
+        "name": "Soak and wash the rice.",
+        "segment": [
+          23.0,
+          64.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "soak and wash the rice"
+      },
+      {
+        "subtask_id": "219",
+        "name": "Put the washed rice into the rice cooker.",
+        "segment": [
+          65.0,
+          107.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the washed rice into the rice cooker"
+      },
+      {
+        "subtask_id": "220",
+        "name": "Cook the rice by rice cooker.",
+        "segment": [
+          109.0,
+          120.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cook the rice by rice cooker"
+      },
+      {
+        "subtask_id": "220",
+        "name": "Cook the rice by rice cooker.",
+        "segment": [
+          127.0,
+          133.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cook the rice by rice cooker"
+      },
+      {
+        "subtask_id": "220",
+        "name": "Cook the rice by rice cooker.",
+        "segment": [
+          137.0,
+          154.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cook the rice by rice cooker"
+      },
+      {
+        "subtask_id": "220",
+        "name": "Cook the rice by rice cooker.",
+        "segment": [
+          159.0,
+          164.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cook the rice by rice cooker"
+      }
+    ],
+    "meta": {
+      "original_task_id": "168",
+      "original_label": "UseRiceCookerToCookRice",
+      "note": "source_start=0; source_end=175.06425478452564"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "Ntzsfe0xzF8",
+    "video_url": "https://www.youtube.com/embed/Ntzsfe0xzF8",
+    "video_path": "",
+    "duration_sec": 30.161667,
+    "goal": "Install Closestool.",
+    "subtasks": [
+      {
+        "subtask_id": "412",
+        "name": "Remove the old wax ring and clean.",
+        "segment": [
+          0.0,
+          21.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the old wax ring and clean"
+      },
+      {
+        "subtask_id": "413",
+        "name": "Install the new wax ring.",
+        "segment": [
+          22.0,
+          29.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new wax ring"
+      }
+    ],
+    "meta": {
+      "original_task_id": "72",
+      "original_label": "InstallClosestool",
+      "note": "source_start=0; source_end=29.704276584991767"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "633OkWbwLt4",
+    "video_url": "https://www.youtube.com/embed/633OkWbwLt4",
+    "video_path": "",
+    "duration_sec": 173.940678,
+    "goal": "Boil Noodles.",
+    "subtasks": [
+      {
+        "subtask_id": "549",
+        "name": "Pour the noodles into the water and stir.",
+        "segment": [
+          52.0,
+          93.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the noodles into the water and stir"
+      },
+      {
+        "subtask_id": "550",
+        "name": "Take a little bit noodles and taste it.",
+        "segment": [
+          96.0,
+          111.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take a little bit noodles and taste it"
+      },
+      {
+        "subtask_id": "551",
+        "name": "Pour the cooked noodles.",
+        "segment": [
+          115.0,
+          118.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the cooked noodles"
+      }
+    ],
+    "meta": {
+      "original_task_id": "10",
+      "original_label": "BoilNoodles",
+      "note": "source_start=50.89024791488685; source_end=131.4759998302379"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "X_GBesuwrAI",
+    "video_url": "https://www.youtube.com/embed/X_GBesuwrAI",
+    "video_path": "",
+    "duration_sec": 165.813689,
+    "goal": "Make Salad.",
+    "subtasks": [
+      {
+        "subtask_id": "265",
+        "name": "Put the ingredients into the bowl.",
+        "segment": [
+          56.0,
+          74.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the ingredients into the bowl"
+      },
+      {
+        "subtask_id": "266",
+        "name": "Stir the ingredients.",
+        "segment": [
+          121.0,
+          124.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "stir the ingredients"
+      }
+    ],
+    "meta": {
+      "original_task_id": "91",
+      "original_label": "MakeSalad",
+      "note": "source_start=55.82052033720513; source_end=128.8081046104714"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "8M5mt7pfO2A",
+    "video_url": "https://www.youtube.com/embed/8M5mt7pfO2A",
+    "video_path": "",
+    "duration_sec": 123.576589,
+    "goal": "Park Parallel.",
+    "subtasks": [
+      {
+        "subtask_id": "689",
+        "name": "Drive the car forward.",
+        "segment": [
+          38.0,
+          44.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "drive the car forward"
+      },
+      {
+        "subtask_id": "690",
+        "name": "Drive the car backward.",
+        "segment": [
+          97.0,
+          119.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "drive the car backward"
+      }
+    ],
+    "meta": {
+      "original_task_id": "110",
+      "original_label": "ParkParallel",
+      "note": "source_start=27.43661582423724; source_end=122.48962799960842"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "Cg6RAPmJDSM",
+    "video_url": "https://www.youtube.com/embed/Cg6RAPmJDSM",
+    "video_path": "",
+    "duration_sec": 189.498044,
+    "goal": "Make Hummus.",
+    "subtasks": [
+      {
+        "subtask_id": "194",
+        "name": "Add raw materials.",
+        "segment": [
+          29.0,
+          97.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add raw materials"
+      },
+      {
+        "subtask_id": "195",
+        "name": "Mix raw materials.",
+        "segment": [
+          98.0,
+          123.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix raw materials"
+      },
+      {
+        "subtask_id": "194",
+        "name": "Add raw materials.",
+        "segment": [
+          124.0,
+          128.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add raw materials"
+      },
+      {
+        "subtask_id": "195",
+        "name": "Mix raw materials.",
+        "segment": [
+          129.0,
+          141.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix raw materials"
+      },
+      {
+        "subtask_id": "196",
+        "name": "Pour bean paste into plate.",
+        "segment": [
+          142.0,
+          167.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour bean paste into plate"
+      }
+    ],
+    "meta": {
+      "original_task_id": "51",
+      "original_label": "MakeHummus",
+      "note": "source_start=10.692127172361804; source_end=168.40093065603648"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "KcmZK7_oMIk",
+    "video_url": "https://www.youtube.com/embed/KcmZK7_oMIk",
+    "video_path": "",
+    "duration_sec": 117.283989,
+    "goal": "Cut Cantaloupe.",
+    "subtasks": [
+      {
+        "subtask_id": "604",
+        "name": "Peel.",
+        "segment": [
+          12.0,
+          30.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "peel"
+      },
+      {
+        "subtask_id": "605",
+        "name": "Cut in half.",
+        "segment": [
+          31.0,
+          43.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut in half"
+      },
+      {
+        "subtask_id": "606",
+        "name": "Dig out the seeds with spoon.",
+        "segment": [
+          44.0,
+          50.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "dig out the seeds with spoon"
+      },
+      {
+        "subtask_id": "607",
+        "name": "Slice the pulp.",
+        "segment": [
+          52.0,
+          79.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "slice the pulp"
+      }
+    ],
+    "meta": {
+      "original_task_id": "32",
+      "original_label": "CutCantaloupe",
+      "note": "source_start=2.030039436385959; source_end=82.30092895560229"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "GR7PhXtVtQA",
+    "video_url": "https://www.youtube.com/embed/GR7PhXtVtQA",
+    "video_path": "",
+    "duration_sec": 124.714367,
+    "goal": "Change Toner Cartridge.",
+    "subtasks": [
+      {
+        "subtask_id": "608",
+        "name": "Open the front door or cover of the printer.",
+        "segment": [
+          21.0,
+          23.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open the front door or cover of the printer"
+      },
+      {
+        "subtask_id": "609",
+        "name": "Take out the toner cartridge.",
+        "segment": [
+          28.0,
+          42.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the toner cartridge"
+      },
+      {
+        "subtask_id": "610",
+        "name": "Insert a new toner cartridge.",
+        "segment": [
+          77.0,
+          103.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "insert a new toner cartridge"
+      },
+      {
+        "subtask_id": "611",
+        "name": "Close the front door or cover of the printer.",
+        "segment": [
+          105.0,
+          111.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "close the front door or cover of the printer"
+      }
+    ],
+    "meta": {
+      "original_task_id": "18",
+      "original_label": "ChangeTonerCartridge",
+      "note": "source_start=11.725411813958155; source_end=119.78153663098945"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "PDele0Lq-iM",
+    "video_url": "https://www.youtube.com/embed/PDele0Lq-iM",
+    "video_path": "",
+    "duration_sec": 96.246667,
+    "goal": "Assemble Office Chair.",
+    "subtasks": [
+      {
+        "subtask_id": "501",
+        "name": "Install the wheels for the base.",
+        "segment": [
+          23.0,
+          74.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the wheels for the base"
+      },
+      {
+        "subtask_id": "502",
+        "name": "Assemble the cushion and the backrest.",
+        "segment": [
+          77.0,
+          86.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "assemble the cushion and the backrest"
+      },
+      {
+        "subtask_id": "503",
+        "name": "Connect the chair and the base.",
+        "segment": [
+          87.0,
+          90.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "connect the chair and the base"
+      }
+    ],
+    "meta": {
+      "original_task_id": "157",
+      "original_label": "AssembleOfficeChair",
+      "note": "source_start=14.753140249551707; source_end=96.246667"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "h1Bts872T0Q",
+    "video_url": "https://www.youtube.com/embed/h1Bts872T0Q",
+    "video_path": "",
+    "duration_sec": 93.9,
+    "goal": "Clean Hamster Cage.",
+    "subtasks": [
+      {
+        "subtask_id": "594",
+        "name": "Remove the toy and paper bed from the hamster cage.",
+        "segment": [
+          29.0,
+          38.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the toy and paper bed from the hamster cage"
+      },
+      {
+        "subtask_id": "595",
+        "name": "Clean toys and hamster cages.",
+        "segment": [
+          43.0,
+          45.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "clean toys and hamster cages"
+      },
+      {
+        "subtask_id": "595",
+        "name": "Clean toys and hamster cages.",
+        "segment": [
+          52.0,
+          57.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "clean toys and hamster cages"
+      },
+      {
+        "subtask_id": "596",
+        "name": "Move the toy and paper bed into the hamster cage.",
+        "segment": [
+          68.0,
+          70.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "move the toy and paper bed into the hamster cage"
+      }
+    ],
+    "meta": {
+      "original_task_id": "21",
+      "original_label": "CleanHamsterCage",
+      "note": "source_start=21.04269802647285; source_end=76.21665873583284"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "wEXFa9wRSn0",
+    "video_url": "https://www.youtube.com/embed/wEXFa9wRSn0",
+    "video_path": "",
+    "duration_sec": 201.409878,
+    "goal": "Make Hummus.",
+    "subtasks": [
+      {
+        "subtask_id": "194",
+        "name": "Add raw materials.",
+        "segment": [
+          34.0,
+          47.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add raw materials"
+      },
+      {
+        "subtask_id": "195",
+        "name": "Mix raw materials.",
+        "segment": [
+          48.0,
+          52.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix raw materials"
+      },
+      {
+        "subtask_id": "194",
+        "name": "Add raw materials.",
+        "segment": [
+          53.0,
+          65.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add raw materials"
+      },
+      {
+        "subtask_id": "195",
+        "name": "Mix raw materials.",
+        "segment": [
+          66.0,
+          75.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix raw materials"
+      },
+      {
+        "subtask_id": "194",
+        "name": "Add raw materials.",
+        "segment": [
+          113.0,
+          120.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add raw materials"
+      },
+      {
+        "subtask_id": "195",
+        "name": "Mix raw materials.",
+        "segment": [
+          121.0,
+          128.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix raw materials"
+      },
+      {
+        "subtask_id": "194",
+        "name": "Add raw materials.",
+        "segment": [
+          135.0,
+          145.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add raw materials"
+      },
+      {
+        "subtask_id": "195",
+        "name": "Mix raw materials.",
+        "segment": [
+          146.0,
+          152.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix raw materials"
+      },
+      {
+        "subtask_id": "196",
+        "name": "Pour bean paste into plate.",
+        "segment": [
+          153.0,
+          160.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour bean paste into plate"
+      },
+      {
+        "subtask_id": "197",
+        "name": "Invert seasoning.",
+        "segment": [
+          161.0,
+          172.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "invert seasoning"
+      }
+    ],
+    "meta": {
+      "original_task_id": "51",
+      "original_label": "MakeHummus",
+      "note": "source_start=26.157697690646106; source_end=173.63639209563746"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "p0zXvzHhX5w",
+    "video_url": "https://www.youtube.com/embed/p0zXvzHhX5w",
+    "video_path": "",
+    "duration_sec": 225.326433,
+    "goal": "Make Pickles.",
+    "subtasks": [
+      {
+        "subtask_id": "484",
+        "name": "Put the ingredients into the can.",
+        "segment": [
+          81.0,
+          115.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the ingredients into the can"
+      },
+      {
+        "subtask_id": "485",
+        "name": "Pour the soup in.",
+        "segment": [
+          117.0,
+          128.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the soup in"
+      },
+      {
+        "subtask_id": "486",
+        "name": "Close cans.",
+        "segment": [
+          129.0,
+          185.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "close cans"
+      }
+    ],
+    "meta": {
+      "original_task_id": "88",
+      "original_label": "MakePickles",
+      "note": "source_start=58.93021987443957; source_end=198.20276346890324"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "9OqJyxVCUiA",
+    "video_url": "https://www.youtube.com/embed/9OqJyxVCUiA",
+    "video_path": "",
+    "duration_sec": 142.222222,
+    "goal": "Practise Weight Lift.",
+    "subtasks": [
+      {
+        "subtask_id": "458",
+        "name": "Lift the barbell directly over the head.",
+        "segment": [
+          27.0,
+          31.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "lift the barbell directly over the head"
+      },
+      {
+        "subtask_id": "457",
+        "name": "Stand up with straight legs.",
+        "segment": [
+          32.0,
+          37.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "stand up with straight legs"
+      },
+      {
+        "subtask_id": "455",
+        "name": "Pull the barbell to the chin.",
+        "segment": [
+          38.0,
+          44.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pull the barbell to the chin"
+      },
+      {
+        "subtask_id": "456",
+        "name": "Lift the barbell from the chin over the head.",
+        "segment": [
+          45.0,
+          50.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "lift the barbell from the chin over the head"
+      },
+      {
+        "subtask_id": "457",
+        "name": "Stand up with straight legs.",
+        "segment": [
+          51.0,
+          57.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "stand up with straight legs"
+      }
+    ],
+    "meta": {
+      "original_task_id": "178",
+      "original_label": "PractiseWeightLift",
+      "note": "source_start=14.406676664331632; source_end=65.77225482261149"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "H8nfm8aF_i8",
+    "video_url": "https://www.youtube.com/embed/H8nfm8aF_i8",
+    "video_path": "",
+    "duration_sec": 197.276733,
+    "goal": "Change Toner Cartridge.",
+    "subtasks": [
+      {
+        "subtask_id": "608",
+        "name": "Open the front door or cover of the printer.",
+        "segment": [
+          25.0,
+          28.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open the front door or cover of the printer"
+      },
+      {
+        "subtask_id": "609",
+        "name": "Take out the toner cartridge.",
+        "segment": [
+          76.0,
+          85.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the toner cartridge"
+      },
+      {
+        "subtask_id": "610",
+        "name": "Insert a new toner cartridge.",
+        "segment": [
+          88.0,
+          94.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "insert a new toner cartridge"
+      },
+      {
+        "subtask_id": "609",
+        "name": "Take out the toner cartridge.",
+        "segment": [
+          99.0,
+          111.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the toner cartridge"
+      },
+      {
+        "subtask_id": "610",
+        "name": "Insert a new toner cartridge.",
+        "segment": [
+          112.0,
+          116.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "insert a new toner cartridge"
+      },
+      {
+        "subtask_id": "611",
+        "name": "Close the front door or cover of the printer.",
+        "segment": [
+          129.0,
+          134.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "close the front door or cover of the printer"
+      }
+    ],
+    "meta": {
+      "original_task_id": "18",
+      "original_label": "ChangeTonerCartridge",
+      "note": "source_start=13.525413490325292; source_end=148.29632409964762"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "I3tfxWUIHts",
+    "video_url": "https://www.youtube.com/embed/I3tfxWUIHts",
+    "video_path": "",
+    "duration_sec": 186.571667,
+    "goal": "Paste Car Sticker.",
+    "subtasks": [
+      {
+        "subtask_id": "462",
+        "name": "Put the sticker on the window.",
+        "segment": [
+          0.0,
+          18.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the sticker on the window"
+      },
+      {
+        "subtask_id": "461",
+        "name": "Tear off the front of the sticker.",
+        "segment": [
+          31.0,
+          55.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tear off the front of the sticker"
+      },
+      {
+        "subtask_id": "463",
+        "name": "Press the sticker.",
+        "segment": [
+          73.0,
+          95.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the sticker"
+      },
+      {
+        "subtask_id": "461",
+        "name": "Tear off the front of the sticker.",
+        "segment": [
+          97.0,
+          103.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tear off the front of the sticker"
+      },
+      {
+        "subtask_id": "463",
+        "name": "Press the sticker.",
+        "segment": [
+          104.0,
+          165.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the sticker"
+      },
+      {
+        "subtask_id": "464",
+        "name": "Tear off the other side of the sticker.",
+        "segment": [
+          166.0,
+          183.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tear off the other side of the sticker"
+      }
+    ],
+    "meta": {
+      "original_task_id": "1",
+      "original_label": "PasteCarSticker",
+      "note": "source_start=0; source_end=186.571667"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "ajnTL-7mr3o",
+    "video_url": "https://www.youtube.com/embed/ajnTL-7mr3o",
+    "video_path": "",
+    "duration_sec": 120.9063,
+    "goal": "Replace ABulb.",
+    "subtasks": [
+      {
+        "subtask_id": "75",
+        "name": "Remove the light shell/housing/support.",
+        "segment": [
+          31.5,
+          42.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the light shell/housing/support"
+      },
+      {
+        "subtask_id": "76",
+        "name": "Take out the old bulb.",
+        "segment": [
+          64.0,
+          73.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the old bulb"
+      },
+      {
+        "subtask_id": "77",
+        "name": "Install the new bulb.",
+        "segment": [
+          73.5,
+          85.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new bulb"
+      }
+    ],
+    "meta": {
+      "original_task_id": "128",
+      "original_label": "ReplaceABulb",
+      "note": "source_start=22.127396272189664; source_end=89.33964414801112"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "1nQp_Yb8YW0",
+    "video_url": "https://www.youtube.com/embed/1nQp_Yb8YW0",
+    "video_path": "",
+    "duration_sec": 165.604711,
+    "goal": "Replace Memory Chip.",
+    "subtasks": [
+      {
+        "subtask_id": "369",
+        "name": "Take out the shell.",
+        "segment": [
+          64.0,
+          73.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the shell"
+      },
+      {
+        "subtask_id": "370",
+        "name": "Remove the old memory chip.",
+        "segment": [
+          74.0,
+          90.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the old memory chip"
+      },
+      {
+        "subtask_id": "371",
+        "name": "Install the new memory chip.",
+        "segment": [
+          95.0,
+          125.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new memory chip"
+      },
+      {
+        "subtask_id": "372",
+        "name": "Fit on the shell.",
+        "segment": [
+          126.0,
+          135.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fit on the shell"
+      }
+    ],
+    "meta": {
+      "original_task_id": "146",
+      "original_label": "ReplaceMemoryChip",
+      "note": "source_start=62.33947498454616; source_end=150.58583587259594"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "zys9YejztPE",
+    "video_url": "https://www.youtube.com/embed/zys9YejztPE",
+    "video_path": "",
+    "duration_sec": 233.011667,
+    "goal": "Transplant.",
+    "subtasks": [
+      {
+        "subtask_id": "389",
+        "name": "Take out the plant.",
+        "segment": [
+          118.0,
+          135.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the plant"
+      },
+      {
+        "subtask_id": "390",
+        "name": "Put in the plant.",
+        "segment": [
+          135.5,
+          139.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put in the plant"
+      },
+      {
+        "subtask_id": "391",
+        "name": "Fill with some soil.",
+        "segment": [
+          140.0,
+          152.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fill with some soil"
+      },
+      {
+        "subtask_id": "391",
+        "name": "Fill with some soil.",
+        "segment": [
+          157.5,
+          160.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fill with some soil"
+      }
+    ],
+    "meta": {
+      "original_task_id": "159",
+      "original_label": "Transplant",
+      "note": "source_start=115.23834297194344; source_end=178.26586123993926"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "5bLHouFLlbY",
+    "video_url": "https://www.youtube.com/embed/5bLHouFLlbY",
+    "video_path": "",
+    "duration_sec": 200.28,
+    "goal": "Use Epinephrine Auto injector.",
+    "subtasks": [
+      {
+        "subtask_id": "674",
+        "name": "Plunge into thigh.",
+        "segment": [
+          70.0,
+          84.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "plunge into thigh"
+      },
+      {
+        "subtask_id": "675",
+        "name": "Pull out after a period of time.",
+        "segment": [
+          100.0,
+          106.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pull out after a period of time"
+      }
+    ],
+    "meta": {
+      "original_task_id": "61",
+      "original_label": "UseEpinephrineAuto-injector",
+      "note": "source_start=50.58967603970046; source_end=113.65994680054622"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "cjWBEQC3n3Q",
+    "video_url": "https://www.youtube.com/embed/cjWBEQC3n3Q",
+    "video_path": "",
+    "duration_sec": 201.873333,
+    "goal": "Change Guitar Strings.",
+    "subtasks": [
+      {
+        "subtask_id": "278",
+        "name": "Adjust the tightness of the new string.",
+        "segment": [
+          5.0,
+          21.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "adjust the tightness of the new string"
+      },
+      {
+        "subtask_id": "275",
+        "name": "Cut off and remove the old string.",
+        "segment": [
+          22.0,
+          68.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut off and remove the old string"
+      },
+      {
+        "subtask_id": "276",
+        "name": "Fix the new string on the lower part of the guitar.",
+        "segment": [
+          99.0,
+          110.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fix the new string on the lower part of the guitar"
+      },
+      {
+        "subtask_id": "277",
+        "name": "Fix the new string on the head of the guitar.",
+        "segment": [
+          110.0,
+          135.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fix the new string on the head of the guitar"
+      },
+      {
+        "subtask_id": "278",
+        "name": "Adjust the tightness of the new string.",
+        "segment": [
+          136.0,
+          144.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "adjust the tightness of the new string"
+      },
+      {
+        "subtask_id": "277",
+        "name": "Fix the new string on the head of the guitar.",
+        "segment": [
+          145.0,
+          182.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fix the new string on the head of the guitar"
+      }
+    ],
+    "meta": {
+      "original_task_id": "17",
+      "original_label": "ChangeGuitarStrings",
+      "note": "source_start=4.330303835890879; source_end=192.87349825162997"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "fXUkskdp8X0",
+    "video_url": "https://www.youtube.com/embed/fXUkskdp8X0",
+    "video_path": "",
+    "duration_sec": 77.484978,
+    "goal": "Replace Refrigerator Water Filter.",
+    "subtasks": [
+      {
+        "subtask_id": "696",
+        "name": "Take out the old filter.",
+        "segment": [
+          20.0,
+          24.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the old filter"
+      },
+      {
+        "subtask_id": "698",
+        "name": "Install the new filter.",
+        "segment": [
+          31.0,
+          37.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new filter"
+      }
+    ],
+    "meta": {
+      "original_task_id": "140",
+      "original_label": "ReplaceRefrigeratorWaterFilter",
+      "note": "source_start=16.520011164041772; source_end=37.38536238745476"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "kihwJ0yueGE",
+    "video_url": "https://www.youtube.com/embed/kihwJ0yueGE",
+    "video_path": "",
+    "duration_sec": 155.875,
+    "goal": "Set Up AHamster Cage.",
+    "subtasks": [
+      {
+        "subtask_id": "422",
+        "name": "Pave the box bottom with paper scraps.",
+        "segment": [
+          9.0,
+          17.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pave the box bottom with paper scraps"
+      },
+      {
+        "subtask_id": "423",
+        "name": "Set different kinds of hamster toys.",
+        "segment": [
+          36.0,
+          126.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "set different kinds of hamster toys"
+      }
+    ],
+    "meta": {
+      "original_task_id": "151",
+      "original_label": "SetUpAHamsterCage",
+      "note": "source_start=0; source_end=127.84704564381978"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "yottnIJfW3M",
+    "video_url": "https://www.youtube.com/embed/yottnIJfW3M",
+    "video_path": "",
+    "duration_sec": 137.020944,
+    "goal": "Make Sandwich.",
+    "subtasks": [
+      {
+        "subtask_id": "522",
+        "name": "Prepare the filler.",
+        "segment": [
+          21.0,
+          97.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "prepare the filler"
+      },
+      {
+        "subtask_id": "524",
+        "name": "Put the filler on the bread slice.",
+        "segment": [
+          103.0,
+          135.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the filler on the bread slice"
+      }
+    ],
+    "meta": {
+      "original_task_id": "93",
+      "original_label": "MakeSandwich",
+      "note": "source_start=17.948888325143944; source_end=137.020944"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "xEal3npbaQs",
+    "video_url": "https://www.youtube.com/embed/xEal3npbaQs",
+    "video_path": "",
+    "duration_sec": 202.848333,
+    "goal": "Clean Hamster Cage.",
+    "subtasks": [
+      {
+        "subtask_id": "593",
+        "name": "Remove the hamster from the hamster cage.",
+        "segment": [
+          23.0,
+          29.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the hamster from the hamster cage"
+      },
+      {
+        "subtask_id": "594",
+        "name": "Remove the toy and paper bed from the hamster cage.",
+        "segment": [
+          30.0,
+          63.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the toy and paper bed from the hamster cage"
+      },
+      {
+        "subtask_id": "595",
+        "name": "Clean toys and hamster cages.",
+        "segment": [
+          64.0,
+          96.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "clean toys and hamster cages"
+      },
+      {
+        "subtask_id": "596",
+        "name": "Move the toy and paper bed into the hamster cage.",
+        "segment": [
+          97.0,
+          156.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "move the toy and paper bed into the hamster cage"
+      },
+      {
+        "subtask_id": "597",
+        "name": "Put the hamster back into the hamster cage.",
+        "segment": [
+          157.0,
+          163.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the hamster back into the hamster cage"
+      },
+      {
+        "subtask_id": "597",
+        "name": "Put the hamster back into the hamster cage.",
+        "segment": [
+          182.0,
+          183.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the hamster back into the hamster cage"
+      }
+    ],
+    "meta": {
+      "original_task_id": "21",
+      "original_label": "CleanHamsterCage",
+      "note": "source_start=19.09584958794388; source_end=183.1229742683976"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "0R9pdc9dO3Q",
+    "video_url": "https://www.youtube.com/embed/0R9pdc9dO3Q",
+    "video_path": "",
+    "duration_sec": 122.4156,
+    "goal": "Replace Battery On TVControl.",
+    "subtasks": [
+      {
+        "subtask_id": "692",
+        "name": "Open cover.",
+        "segment": [
+          14.0,
+          16.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open cover"
+      },
+      {
+        "subtask_id": "693",
+        "name": "Remove battery.",
+        "segment": [
+          16.5,
+          19.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove battery"
+      },
+      {
+        "subtask_id": "694",
+        "name": "Put battery in.",
+        "segment": [
+          108.0,
+          113.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put battery in"
+      },
+      {
+        "subtask_id": "695",
+        "name": "Close cover.",
+        "segment": [
+          114.0,
+          121.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "close cover"
+      }
+    ],
+    "meta": {
+      "original_task_id": "59",
+      "original_label": "ReplaceBatteryOnTVControl",
+      "note": "source_start=2.6392932791709818; source_end=122.4156"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "szjig3wmORM",
+    "video_url": "https://www.youtube.com/embed/szjig3wmORM",
+    "video_path": "",
+    "duration_sec": 52.035,
+    "goal": "Pack Sleeping Bag.",
+    "subtasks": [
+      {
+        "subtask_id": "297",
+        "name": "Pack the sleeping bag.",
+        "segment": [
+          4.0,
+          39.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pack the sleeping bag"
+      },
+      {
+        "subtask_id": "298",
+        "name": "Tie the bag tightly.",
+        "segment": [
+          40.0,
+          51.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tie the bag tightly"
+      }
+    ],
+    "meta": {
+      "original_task_id": "107",
+      "original_label": "PackSleepingBag",
+      "note": "source_start=2.2971856935754964; source_end=52.035"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "lKBwkhmx8qI",
+    "video_url": "https://www.youtube.com/embed/lKBwkhmx8qI",
+    "video_path": "",
+    "duration_sec": 68.568522,
+    "goal": "Replace SIMCard.",
+    "subtasks": [
+      {
+        "subtask_id": "532",
+        "name": "Use the needle to open the SIM card slot.",
+        "segment": [
+          23.0,
+          32.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "use the needle to open the SIM card slot"
+      },
+      {
+        "subtask_id": "533",
+        "name": "Put the SIM card into the SIM card slot.",
+        "segment": [
+          46.0,
+          50.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the SIM card into the SIM card slot"
+      },
+      {
+        "subtask_id": "534",
+        "name": "Press the SIM card slot back.",
+        "segment": [
+          53.0,
+          63.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the SIM card slot back"
+      }
+    ],
+    "meta": {
+      "original_task_id": "141",
+      "original_label": "ReplaceSIMCard",
+      "note": "source_start=16.566128705716707; source_end=66.14934102701946"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "JMqMKF2eVk0",
+    "video_url": "https://www.youtube.com/embed/JMqMKF2eVk0",
+    "video_path": "",
+    "duration_sec": 178.861667,
+    "goal": "Change Battery Of Watch.",
+    "subtasks": [
+      {
+        "subtask_id": "79",
+        "name": "Check the type of the back cover.",
+        "segment": [
+          42.0,
+          56.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "check the type of the back cover"
+      },
+      {
+        "subtask_id": "80",
+        "name": "Open the back cover.",
+        "segment": [
+          57.0,
+          84.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open the back cover"
+      },
+      {
+        "subtask_id": "81",
+        "name": "Replace the battery.",
+        "segment": [
+          95.0,
+          107.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "replace the battery"
+      },
+      {
+        "subtask_id": "82",
+        "name": "Install the back cover and waterproof ring.",
+        "segment": [
+          109.0,
+          121.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the back cover and waterproof ring"
+      }
+    ],
+    "meta": {
+      "original_task_id": "15",
+      "original_label": "ChangeBatteryOfWatch",
+      "note": "source_start=34.73581528489318; source_end=129.58280379999042"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "_dJ6KwVqj1s",
+    "video_url": "https://www.youtube.com/embed/_dJ6KwVqj1s",
+    "video_path": "",
+    "duration_sec": 201.501667,
+    "goal": "Replace Door Knob.",
+    "subtasks": [
+      {
+        "subtask_id": "418",
+        "name": "Install the new pin board.",
+        "segment": [
+          14.0,
+          21.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new pin board"
+      },
+      {
+        "subtask_id": "419",
+        "name": "Install the new bolt.",
+        "segment": [
+          23.0,
+          47.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new bolt"
+      },
+      {
+        "subtask_id": "420",
+        "name": "Install the new door knob.",
+        "segment": [
+          55.5,
+          186.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new door knob"
+      }
+    ],
+    "meta": {
+      "original_task_id": "133",
+      "original_label": "ReplaceDoorKnob",
+      "note": "source_start=12.603867335698192; source_end=186.95490173601408"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "Xk1NwqfgF0I",
+    "video_url": "https://www.youtube.com/embed/Xk1NwqfgF0I",
+    "video_path": "",
+    "duration_sec": 146.586667,
+    "goal": "Replace Mobile Screen Protector.",
+    "subtasks": [
+      {
+        "subtask_id": "757",
+        "name": "Wipe the screen.",
+        "segment": [
+          13.0,
+          21.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wipe the screen"
+      },
+      {
+        "subtask_id": "758",
+        "name": "Line up the protector and the cellphone.",
+        "segment": [
+          28.0,
+          32.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "line up the protector and the cellphone"
+      },
+      {
+        "subtask_id": "758",
+        "name": "Line up the protector and the cellphone.",
+        "segment": [
+          47.0,
+          57.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "line up the protector and the cellphone"
+      },
+      {
+        "subtask_id": "757",
+        "name": "Wipe the screen.",
+        "segment": [
+          102.0,
+          108.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wipe the screen"
+      },
+      {
+        "subtask_id": "756",
+        "name": "Remove the original protector.",
+        "segment": [
+          110.0,
+          116.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the original protector"
+      },
+      {
+        "subtask_id": "757",
+        "name": "Wipe the screen.",
+        "segment": [
+          121.0,
+          128.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wipe the screen"
+      },
+      {
+        "subtask_id": "758",
+        "name": "Line up the protector and the cellphone.",
+        "segment": [
+          129.0,
+          133.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "line up the protector and the cellphone"
+      },
+      {
+        "subtask_id": "759",
+        "name": "Paste protector on the screen.",
+        "segment": [
+          134.0,
+          146.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "paste protector on the screen"
+      }
+    ],
+    "meta": {
+      "original_task_id": "102",
+      "original_label": "ReplaceMobileScreenProtector",
+      "note": "source_start=1.390108811687659; source_end=146.586667"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "a4MRvyxGF5M",
+    "video_url": "https://www.youtube.com/embed/a4MRvyxGF5M",
+    "video_path": "",
+    "duration_sec": 145.796667,
+    "goal": "Practise Karate.",
+    "subtasks": [
+      {
+        "subtask_id": "494",
+        "name": "March into the area and salute.",
+        "segment": [
+          8.0,
+          14.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "march into the area and salute"
+      },
+      {
+        "subtask_id": "495",
+        "name": "Begin to practise karate.",
+        "segment": [
+          15.0,
+          140.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "begin to practise karate"
+      },
+      {
+        "subtask_id": "496",
+        "name": "Exit from the area and salute.",
+        "segment": [
+          141.0,
+          144.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "exit from the area and salute"
+      }
+    ],
+    "meta": {
+      "original_task_id": "76",
+      "original_label": "PractiseKarate",
+      "note": "source_start=7.248072546251535; source_end=145.796667"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "wlfpQjEWmu0",
+    "video_url": "https://www.youtube.com/embed/wlfpQjEWmu0",
+    "video_path": "",
+    "duration_sec": 120.603333,
+    "goal": "Sow.",
+    "subtasks": [
+      {
+        "subtask_id": "583",
+        "name": "Cover with some soil.",
+        "segment": [
+          9.0,
+          36.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cover with some soil"
+      },
+      {
+        "subtask_id": "582",
+        "name": "Sow on the soil.",
+        "segment": [
+          37.0,
+          120.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "sow on the soil"
+      }
+    ],
+    "meta": {
+      "original_task_id": "156",
+      "original_label": "Sow",
+      "note": "source_start=1.8631916845536365; source_end=120.603333"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "9KCy9ZKK2Nc",
+    "video_url": "https://www.youtube.com/embed/9KCy9ZKK2Nc",
+    "video_path": "",
+    "duration_sec": 113.800989,
+    "goal": "Replace Laptop Screen.",
+    "subtasks": [
+      {
+        "subtask_id": "504",
+        "name": "Take out the battery.",
+        "segment": [
+          6.0,
+          8.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the battery"
+      },
+      {
+        "subtask_id": "505",
+        "name": "Unscrew the screws used to fix the screen.",
+        "segment": [
+          22.0,
+          28.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "unscrew the screws used to fix the screen"
+      },
+      {
+        "subtask_id": "506",
+        "name": "Pull out the screen connector and remove the screen.",
+        "segment": [
+          28.5,
+          41.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pull out the screen connector and remove the screen"
+      },
+      {
+        "subtask_id": "507",
+        "name": "Install the new screen.",
+        "segment": [
+          52.0,
+          69.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new screen"
+      },
+      {
+        "subtask_id": "508",
+        "name": "Reset and screw on the screws.",
+        "segment": [
+          71.0,
+          75.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "reset and screw on the screws"
+      },
+      {
+        "subtask_id": "508",
+        "name": "Reset and screw on the screws.",
+        "segment": [
+          89.5,
+          101.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "reset and screw on the screws"
+      }
+    ],
+    "meta": {
+      "original_task_id": "138",
+      "original_label": "ReplaceLaptopScreen",
+      "note": "source_start=5.257179615475239; source_end=108.37437068134741"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "BSrpqBbA4hc",
+    "video_url": "https://www.youtube.com/embed/BSrpqBbA4hc",
+    "video_path": "",
+    "duration_sec": 188.360267,
+    "goal": "Shave Beard.",
+    "subtasks": [
+      {
+        "subtask_id": "701",
+        "name": "Apply shaving cream to the face.",
+        "segment": [
+          69.0,
+          90.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "apply shaving cream to the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          90.0,
+          96.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          99.0,
+          101.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          104.0,
+          109.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          116.0,
+          125.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          129.0,
+          131.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          134.0,
+          141.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          147.0,
+          151.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "702",
+        "name": "Shave carefully on the face.",
+        "segment": [
+          166.0,
+          169.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "shave carefully on the face"
+      },
+      {
+        "subtask_id": "703",
+        "name": "Wipe up the face.",
+        "segment": [
+          173.0,
+          174.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wipe up the face"
+      }
+    ],
+    "meta": {
+      "original_task_id": "153",
+      "original_label": "ShaveBeard",
+      "note": "source_start=57.109831977761786; source_end=188.360267"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "t-4MEjgRcLY",
+    "video_url": "https://www.youtube.com/embed/t-4MEjgRcLY",
+    "video_path": "",
+    "duration_sec": 207.655,
+    "goal": "Make Homemade Ice Cream.",
+    "subtasks": [
+      {
+        "subtask_id": "680",
+        "name": "Pour the ingredients into the bowl.",
+        "segment": [
+          87.0,
+          90.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the ingredients into the bowl"
+      },
+      {
+        "subtask_id": "682",
+        "name": "Package and freeze.",
+        "segment": [
+          95.0,
+          107.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "package and freeze"
+      },
+      {
+        "subtask_id": "682",
+        "name": "Package and freeze.",
+        "segment": [
+          124.0,
+          146.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "package and freeze"
+      }
+    ],
+    "meta": {
+      "original_task_id": "84",
+      "original_label": "MakeHomemadeIceCream",
+      "note": "source_start=79.54111877184198; source_end=156.01879410080963"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "N5wOzlDvpVM",
+    "video_url": "https://www.youtube.com/embed/N5wOzlDvpVM",
+    "video_path": "",
+    "duration_sec": 119.326667,
+    "goal": "Replace Graphics Card.",
+    "subtasks": [
+      {
+        "subtask_id": "182",
+        "name": "Take out the shell.",
+        "segment": [
+          31.0,
+          43.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the shell"
+      },
+      {
+        "subtask_id": "184",
+        "name": "Install the new graphics card.",
+        "segment": [
+          48.0,
+          63.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new graphics card"
+      },
+      {
+        "subtask_id": "185",
+        "name": "Fit on the shell.",
+        "segment": [
+          85.0,
+          98.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fit on the shell"
+      }
+    ],
+    "meta": {
+      "original_task_id": "144",
+      "original_label": "ReplaceGraphicsCard",
+      "note": "source_start=19.833687122837603; source_end=109.23459949512042"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "udV9bizPwiU",
+    "video_url": "https://www.youtube.com/embed/udV9bizPwiU",
+    "video_path": "",
+    "duration_sec": 133.607611,
+    "goal": "Clean Fish.",
+    "subtasks": [
+      {
+        "subtask_id": "107",
+        "name": "Scratch scales.",
+        "segment": [
+          18.0,
+          26.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "scratch scales"
+      },
+      {
+        "subtask_id": "105",
+        "name": "Cut the head.",
+        "segment": [
+          45.0,
+          50.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut the head"
+      },
+      {
+        "subtask_id": "106",
+        "name": "Remove the intestines and blood vessels.",
+        "segment": [
+          72.0,
+          81.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the intestines and blood vessels"
+      }
+    ],
+    "meta": {
+      "original_task_id": "22",
+      "original_label": "CleanFish",
+      "note": "source_start=9.027980023548013; source_end=82.88756341244107"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "uSu6-R-6Cms",
+    "video_url": "https://www.youtube.com/embed/uSu6-R-6Cms",
+    "video_path": "",
+    "duration_sec": 156.665033,
+    "goal": "Use Epinephrine Auto injector.",
+    "subtasks": [
+      {
+        "subtask_id": "673",
+        "name": "Unplug protection head.",
+        "segment": [
+          35.0,
+          39.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "unplug protection head"
+      },
+      {
+        "subtask_id": "674",
+        "name": "Plunge into thigh.",
+        "segment": [
+          40.0,
+          45.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "plunge into thigh"
+      },
+      {
+        "subtask_id": "675",
+        "name": "Pull out after a period of time.",
+        "segment": [
+          50.0,
+          66.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pull out after a period of time"
+      },
+      {
+        "subtask_id": "674",
+        "name": "Plunge into thigh.",
+        "segment": [
+          129.0,
+          134.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "plunge into thigh"
+      }
+    ],
+    "meta": {
+      "original_task_id": "61",
+      "original_label": "UseEpinephrineAuto-injector",
+      "note": "source_start=33.70026224786813; source_end=140.52216126031425"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "RozBliBcXlA",
+    "video_url": "https://www.youtube.com/embed/RozBliBcXlA",
+    "video_path": "",
+    "duration_sec": 75.418411,
+    "goal": "Replace SIMCard.",
+    "subtasks": [
+      {
+        "subtask_id": "532",
+        "name": "Use the needle to open the SIM card slot.",
+        "segment": [
+          29.0,
+          41.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "use the needle to open the SIM card slot"
+      },
+      {
+        "subtask_id": "533",
+        "name": "Put the SIM card into the SIM card slot.",
+        "segment": [
+          52.0,
+          56.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the SIM card into the SIM card slot"
+      },
+      {
+        "subtask_id": "534",
+        "name": "Press the SIM card slot back.",
+        "segment": [
+          59.0,
+          60.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the SIM card slot back"
+      }
+    ],
+    "meta": {
+      "original_task_id": "141",
+      "original_label": "ReplaceSIMCard",
+      "note": "source_start=28.726402990848904; source_end=66.65176483594512"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "TY6fWUgkEKQ",
+    "video_url": "https://www.youtube.com/embed/TY6fWUgkEKQ",
+    "video_path": "",
+    "duration_sec": 75.138333,
+    "goal": "Practise Karate.",
+    "subtasks": [
+      {
+        "subtask_id": "494",
+        "name": "March into the area and salute.",
+        "segment": [
+          4.0,
+          10.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "march into the area and salute"
+      },
+      {
+        "subtask_id": "495",
+        "name": "Begin to practise karate.",
+        "segment": [
+          11.0,
+          70.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "begin to practise karate"
+      },
+      {
+        "subtask_id": "496",
+        "name": "Exit from the area and salute.",
+        "segment": [
+          71.0,
+          74.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "exit from the area and salute"
+      }
+    ],
+    "meta": {
+      "original_task_id": "76",
+      "original_label": "PractiseKarate",
+      "note": "source_start=0.0907687186848225; source_end=75.138333"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "SExfbacM9YY",
+    "video_url": "https://www.youtube.com/embed/SExfbacM9YY",
+    "video_path": "",
+    "duration_sec": 160.0087,
+    "goal": "Glue Ping Pong Rubber.",
+    "subtasks": [
+      {
+        "subtask_id": "70",
+        "name": "Glue on the back of the rubber.",
+        "segment": [
+          12.0,
+          23.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "glue on the back of the rubber"
+      },
+      {
+        "subtask_id": "71",
+        "name": "Glue on the paddle.",
+        "segment": [
+          27.0,
+          43.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "glue on the paddle"
+      },
+      {
+        "subtask_id": "72",
+        "name": "Put rubber on paddle.",
+        "segment": [
+          59.0,
+          91.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put rubber on paddle"
+      },
+      {
+        "subtask_id": "73",
+        "name": "Cut the rubber.",
+        "segment": [
+          94.0,
+          137.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut the rubber"
+      }
+    ],
+    "meta": {
+      "original_task_id": "36",
+      "original_label": "GluePingPongRubber",
+      "note": "source_start=0; source_end=149.763008873591"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "i5K-DXt9djA",
+    "video_url": "https://www.youtube.com/embed/i5K-DXt9djA",
+    "video_path": "",
+    "duration_sec": 164.861667,
+    "goal": "Change Bike Tires.",
+    "subtasks": [
+      {
+        "subtask_id": "232",
+        "name": "Unload the wheel.",
+        "segment": [
+          35.0,
+          49.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "unload the wheel"
+      },
+      {
+        "subtask_id": "233",
+        "name": "Remove the inner tube.",
+        "segment": [
+          71.0,
+          73.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the inner tube"
+      },
+      {
+        "subtask_id": "237",
+        "name": "Pump up the tire.",
+        "segment": [
+          84.0,
+          91.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pump up the tire"
+      },
+      {
+        "subtask_id": "236",
+        "name": "Load the inner tube.",
+        "segment": [
+          93.0,
+          115.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "load the inner tube"
+      },
+      {
+        "subtask_id": "238",
+        "name": "Load the wheel.",
+        "segment": [
+          134.0,
+          148.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "load the wheel"
+      }
+    ],
+    "meta": {
+      "original_task_id": "16",
+      "original_label": "ChangeBikeTires",
+      "note": "source_start=18.681561201832476; source_end=161.90258976440808"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "4bgWwnZQPaA",
+    "video_url": "https://www.youtube.com/embed/4bgWwnZQPaA",
+    "video_path": "",
+    "duration_sec": 157.3572,
+    "goal": "Refill Fountain Pen.",
+    "subtasks": [
+      {
+        "subtask_id": "732",
+        "name": "Take off the shell.",
+        "segment": [
+          27.0,
+          30.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take off the shell"
+      },
+      {
+        "subtask_id": "733",
+        "name": "Absorb some ink slowly.",
+        "segment": [
+          61.0,
+          76.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "absorb some ink slowly"
+      }
+    ],
+    "meta": {
+      "original_task_id": "123",
+      "original_label": "RefillFountainPen",
+      "note": "source_start=18.825225575716537; source_end=82.57506729443901"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "nX8oPykt6fk",
+    "video_url": "https://www.youtube.com/embed/nX8oPykt6fk",
+    "video_path": "",
+    "duration_sec": 66.686667,
+    "goal": "Perform Paper To Money Trick.",
+    "subtasks": [
+      {
+        "subtask_id": "535",
+        "name": "Show the blank paper.",
+        "segment": [
+          0.0,
+          16.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "show the blank paper"
+      },
+      {
+        "subtask_id": "536",
+        "name": "Fold or fire the blank paper.",
+        "segment": [
+          19.0,
+          20.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fold or fire the blank paper"
+      },
+      {
+        "subtask_id": "537",
+        "name": "Show the money to the audience.",
+        "segment": [
+          21.0,
+          63.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "show the money to the audience"
+      }
+    ],
+    "meta": {
+      "original_task_id": "108",
+      "original_label": "PerformPaperToMoneyTrick",
+      "note": "source_start=0; source_end=65.70727732120325"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "tJOoUC_rQyI",
+    "video_url": "https://www.youtube.com/embed/tJOoUC_rQyI",
+    "video_path": "",
+    "duration_sec": 57.539044,
+    "goal": "Clean Wooden Floor.",
+    "subtasks": [
+      {
+        "subtask_id": "642",
+        "name": "Use vacuum cleaner to clean.",
+        "segment": [
+          13.0,
+          18.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "use vacuum cleaner to clean"
+      },
+      {
+        "subtask_id": "644",
+        "name": "Make the detergent.",
+        "segment": [
+          20.0,
+          29.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "make the  detergent"
+      },
+      {
+        "subtask_id": "643",
+        "name": "Wet the mop.",
+        "segment": [
+          31.0,
+          35.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wet the mop"
+      },
+      {
+        "subtask_id": "646",
+        "name": "Mop the floor.",
+        "segment": [
+          37.0,
+          46.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mop the floor"
+      }
+    ],
+    "meta": {
+      "original_task_id": "27",
+      "original_label": "CleanWoodenFloor",
+      "note": "source_start=9.528024913933312; source_end=48.05628782111604"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "wSuqLdYqlp8",
+    "video_url": "https://www.youtube.com/embed/wSuqLdYqlp8",
+    "video_path": "",
+    "duration_sec": 19.411878,
+    "goal": "Remove Crayon From Walls.",
+    "subtasks": [
+      {
+        "subtask_id": "135",
+        "name": "Wipe wall with detergent.",
+        "segment": [
+          9.0,
+          12.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "wipe wall with detergent"
+      },
+      {
+        "subtask_id": "136",
+        "name": "Clean wall with a clean cloth.",
+        "segment": [
+          13.0,
+          14.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "clean wall with a clean cloth"
+      }
+    ],
+    "meta": {
+      "original_task_id": "56",
+      "original_label": "RemoveCrayonFromWalls",
+      "note": "source_start=7.089618460023005; source_end=15.213968186261338"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "RnLcsM-QmuU",
+    "video_url": "https://www.youtube.com/embed/RnLcsM-QmuU",
+    "video_path": "",
+    "duration_sec": 124.713333,
+    "goal": "Make RJ45 Cable.",
+    "subtasks": [
+      {
+        "subtask_id": "655",
+        "name": "Strip the insulation.",
+        "segment": [
+          0.0,
+          14.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "strip the insulation"
+      },
+      {
+        "subtask_id": "656",
+        "name": "Arrange the seperated wire.",
+        "segment": [
+          17.0,
+          56.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "arrange the seperated wire"
+      },
+      {
+        "subtask_id": "657",
+        "name": "Cut a certain length.",
+        "segment": [
+          69.0,
+          75.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut a certain length"
+      },
+      {
+        "subtask_id": "658",
+        "name": "Insert it into the crystal head.",
+        "segment": [
+          86.0,
+          90.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "insert it into the crystal head"
+      },
+      {
+        "subtask_id": "658",
+        "name": "Insert it into the crystal head.",
+        "segment": [
+          91.0,
+          108.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "insert it into the crystal head"
+      },
+      {
+        "subtask_id": "659",
+        "name": "Fixe it with a crimping pliers.",
+        "segment": [
+          110.0,
+          114.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fixe it with a crimping pliers"
+      }
+    ],
+    "meta": {
+      "original_task_id": "90",
+      "original_label": "MakeRJ45Cable",
+      "note": "source_start=0; source_end=123.50937998893545"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "pcvs3Tp_BeU",
+    "video_url": "https://www.youtube.com/embed/pcvs3Tp_BeU",
+    "video_path": "",
+    "duration_sec": 134.745,
+    "goal": "Paste Car Sticker.",
+    "subtasks": [
+      {
+        "subtask_id": "460",
+        "name": "Clean the window surface.",
+        "segment": [
+          9.0,
+          27.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "clean the window surface"
+      },
+      {
+        "subtask_id": "461",
+        "name": "Tear off the front of the sticker.",
+        "segment": [
+          32.0,
+          73.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tear off the front of the sticker"
+      },
+      {
+        "subtask_id": "462",
+        "name": "Put the sticker on the window.",
+        "segment": [
+          76.0,
+          81.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the sticker on the window"
+      },
+      {
+        "subtask_id": "463",
+        "name": "Press the sticker.",
+        "segment": [
+          82.0,
+          96.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the sticker"
+      },
+      {
+        "subtask_id": "464",
+        "name": "Tear off the other side of the sticker.",
+        "segment": [
+          97.0,
+          102.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tear off the other side of the sticker"
+      }
+    ],
+    "meta": {
+      "original_task_id": "1",
+      "original_label": "PasteCarSticker",
+      "note": "source_start=8.130452615146986; source_end=113.0931965458706"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "prvaXwYkn_E",
+    "video_url": "https://www.youtube.com/embed/prvaXwYkn_E",
+    "video_path": "",
+    "duration_sec": 147.051967,
+    "goal": "Replace Graphics Card.",
+    "subtasks": [
+      {
+        "subtask_id": "182",
+        "name": "Take out the shell.",
+        "segment": [
+          4.0,
+          13.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the shell"
+      },
+      {
+        "subtask_id": "184",
+        "name": "Install the new graphics card.",
+        "segment": [
+          84.0,
+          109.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new graphics card"
+      }
+    ],
+    "meta": {
+      "original_task_id": "144",
+      "original_label": "ReplaceGraphicsCard",
+      "note": "source_start=3.471034196924903; source_end=120.10512529711207"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "Jjj8FN4r6Ms",
+    "video_url": "https://www.youtube.com/embed/Jjj8FN4r6Ms",
+    "video_path": "",
+    "duration_sec": 25.704489,
+    "goal": "Use Vending Machine.",
+    "subtasks": [
+      {
+        "subtask_id": "520",
+        "name": "Press the corresponding button.",
+        "segment": [
+          5.0,
+          12.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "press the corresponding button"
+      },
+      {
+        "subtask_id": "521",
+        "name": "Take out the goods.",
+        "segment": [
+          12.5,
+          16.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the goods"
+      }
+    ],
+    "meta": {
+      "original_task_id": "163",
+      "original_label": "UseVendingMachine",
+      "note": "source_start=3.016239249239447; source_end=18.50114405725967"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "UBo-039ur3g",
+    "video_url": "https://www.youtube.com/embed/UBo-039ur3g",
+    "video_path": "",
+    "duration_sec": 162.956667,
+    "goal": "Boil Noodles.",
+    "subtasks": [
+      {
+        "subtask_id": "549",
+        "name": "Pour the noodles into the water and stir.",
+        "segment": [
+          62.0,
+          83.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the noodles into the water and stir"
+      },
+      {
+        "subtask_id": "550",
+        "name": "Take a little bit noodles and taste it.",
+        "segment": [
+          86.0,
+          87.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take a little bit noodles and taste it"
+      },
+      {
+        "subtask_id": "551",
+        "name": "Pour the cooked noodles.",
+        "segment": [
+          95.0,
+          101.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the cooked noodles"
+      }
+    ],
+    "meta": {
+      "original_task_id": "10",
+      "original_label": "BoilNoodles",
+      "note": "source_start=58.52397771242645; source_end=104.00249304758184"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "TH23bzKmbdI",
+    "video_url": "https://www.youtube.com/embed/TH23bzKmbdI",
+    "video_path": "",
+    "duration_sec": 150.952922,
+    "goal": "Replace Faucet.",
+    "subtasks": [
+      {
+        "subtask_id": "634",
+        "name": "Install the new faucet.",
+        "segment": [
+          5.0,
+          45.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new faucet"
+      },
+      {
+        "subtask_id": "635",
+        "name": "Connect the water pipe.",
+        "segment": [
+          46.0,
+          109.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "connect the water pipe"
+      }
+    ],
+    "meta": {
+      "original_task_id": "136",
+      "original_label": "ReplaceFaucet",
+      "note": "source_start=0; source_end=123.94724612873424"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "Xth6hlbZnAE",
+    "video_url": "https://www.youtube.com/embed/Xth6hlbZnAE",
+    "video_path": "",
+    "duration_sec": 140.411056,
+    "goal": "Replace Car Fuse.",
+    "subtasks": [
+      {
+        "subtask_id": "465",
+        "name": "Open up the cover.",
+        "segment": [
+          72.0,
+          78.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open up the cover"
+      },
+      {
+        "subtask_id": "466",
+        "name": "Take out the fuse.",
+        "segment": [
+          93.0,
+          97.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the fuse"
+      },
+      {
+        "subtask_id": "467",
+        "name": "Fit on the fuse.",
+        "segment": [
+          114.0,
+          120.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fit on the fuse"
+      },
+      {
+        "subtask_id": "468",
+        "name": "Close up the cover.",
+        "segment": [
+          131.0,
+          140.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "close up the cover"
+      }
+    ],
+    "meta": {
+      "original_task_id": "132",
+      "original_label": "ReplaceCarFuse",
+      "note": "source_start=63.986497663400776; source_end=140.16036741218844"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "XZDC23QNF-4",
+    "video_url": "https://www.youtube.com/embed/XZDC23QNF-4",
+    "video_path": "",
+    "duration_sec": 155.341489,
+    "goal": "Boil Noodles.",
+    "subtasks": [
+      {
+        "subtask_id": "549",
+        "name": "Pour the noodles into the water and stir.",
+        "segment": [
+          0.5,
+          23.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the noodles into the water and stir"
+      },
+      {
+        "subtask_id": "551",
+        "name": "Pour the cooked noodles.",
+        "segment": [
+          25.5,
+          29.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the cooked noodles"
+      },
+      {
+        "subtask_id": "551",
+        "name": "Pour the cooked noodles.",
+        "segment": [
+          32.5,
+          35.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "pour the cooked noodles"
+      }
+    ],
+    "meta": {
+      "original_task_id": "10",
+      "original_label": "BoilNoodles",
+      "note": "source_start=0; source_end=45.621466630000384"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "9NWFMwhEZg8",
+    "video_url": "https://www.youtube.com/embed/9NWFMwhEZg8",
+    "video_path": "",
+    "duration_sec": 91.393733,
+    "goal": "Install License Plate Frame.",
+    "subtasks": [
+      {
+        "subtask_id": "738",
+        "name": "Place license plate cover.",
+        "segment": [
+          45.0,
+          54.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "place license plate cover"
+      },
+      {
+        "subtask_id": "739",
+        "name": "Screw and fix the cover.",
+        "segment": [
+          58.0,
+          70.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "screw and fix the cover"
+      }
+    ],
+    "meta": {
+      "original_task_id": "70",
+      "original_label": "InstallLicensePlateFrame",
+      "note": "source_start=44.844644891462465; source_end=70.4553040594847"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "s4rtLerCYqU",
+    "video_url": "https://www.youtube.com/embed/s4rtLerCYqU",
+    "video_path": "",
+    "duration_sec": 238.258333,
+    "goal": "Make Salmon.",
+    "subtasks": [
+      {
+        "subtask_id": "27",
+        "name": "Add seasoning.",
+        "segment": [
+          101.0,
+          107.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add seasoning"
+      },
+      {
+        "subtask_id": "25",
+        "name": "Add seasoning on the salmon.",
+        "segment": [
+          114.0,
+          128.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add seasoning on the salmon"
+      },
+      {
+        "subtask_id": "29",
+        "name": "Add decoration.",
+        "segment": [
+          137.0,
+          142.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add decoration"
+      },
+      {
+        "subtask_id": "28",
+        "name": "Load the dish.",
+        "segment": [
+          207.0,
+          211.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "load the dish"
+      }
+    ],
+    "meta": {
+      "original_task_id": "92",
+      "original_label": "MakeSalmon",
+      "note": "source_start=77.40178962076916; source_end=211.33272921526984"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "qW8dEosgTyE",
+    "video_url": "https://www.youtube.com/embed/qW8dEosgTyE",
+    "video_path": "",
+    "duration_sec": 72.933867,
+    "goal": "Replace Blade Of ASaw.",
+    "subtasks": [
+      {
+        "subtask_id": "720",
+        "name": "Turn off the balde screw.",
+        "segment": [
+          0.0,
+          14.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "turn off the balde screw"
+      },
+      {
+        "subtask_id": "721",
+        "name": "Take out the blade.",
+        "segment": [
+          15.0,
+          17.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the blade"
+      },
+      {
+        "subtask_id": "722",
+        "name": "Install the new blade.",
+        "segment": [
+          18.0,
+          22.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "install the new blade"
+      },
+      {
+        "subtask_id": "723",
+        "name": "Tighten the blade screw.",
+        "segment": [
+          23.0,
+          45.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tighten the blade screw"
+      }
+    ],
+    "meta": {
+      "original_task_id": "130",
+      "original_label": "ReplaceBladeOfASaw",
+      "note": "source_start=0; source_end=46.87814209603731"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "5aDqNwMVEyc",
+    "video_url": "https://www.youtube.com/embed/5aDqNwMVEyc",
+    "video_path": "",
+    "duration_sec": 122.113733,
+    "goal": "Make Coffee.",
+    "subtasks": [
+      {
+        "subtask_id": "187",
+        "name": "Grind the coffee beans.",
+        "segment": [
+          66.0,
+          69.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "grind the coffee beans"
+      },
+      {
+        "subtask_id": "188",
+        "name": "Filtrate the coffee beans.",
+        "segment": [
+          86.0,
+          105.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "filtrate the coffee beans"
+      },
+      {
+        "subtask_id": "190",
+        "name": "Add some ingredients in the coffee.",
+        "segment": [
+          110.0,
+          113.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add some ingredients in the coffee"
+      }
+    ],
+    "meta": {
+      "original_task_id": "99",
+      "original_label": "MakeCoffee",
+      "note": "source_start=58.494341207754246; source_end=118.97900645096698"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "0xybXrdeSTk",
+    "video_url": "https://www.youtube.com/embed/0xybXrdeSTk",
+    "video_path": "",
+    "duration_sec": 92.694056,
+    "goal": "Cut Mango.",
+    "subtasks": [
+      {
+        "subtask_id": "340",
+        "name": "Cut the wide side.",
+        "segment": [
+          5.0,
+          12.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut the wide side"
+      },
+      {
+        "subtask_id": "341",
+        "name": "Remove the core.",
+        "segment": [
+          21.0,
+          34.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the core"
+      },
+      {
+        "subtask_id": "340",
+        "name": "Cut the wide side.",
+        "segment": [
+          54.0,
+          58.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut the wide side"
+      },
+      {
+        "subtask_id": "341",
+        "name": "Remove the core.",
+        "segment": [
+          60.0,
+          72.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the core"
+      },
+      {
+        "subtask_id": "342",
+        "name": "Cut into strips and pieces.",
+        "segment": [
+          75.0,
+          85.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut into strips and pieces"
+      }
+    ],
+    "meta": {
+      "original_task_id": "30",
+      "original_label": "CutMango",
+      "note": "source_start=0; source_end=87.84647091655637"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "zHHSOKFzmYQ",
+    "video_url": "https://www.youtube.com/embed/zHHSOKFzmYQ",
+    "video_path": "",
+    "duration_sec": 63.436667,
+    "goal": "Open Champagne Bottle.",
+    "subtasks": [
+      {
+        "subtask_id": "179",
+        "name": "Tear out the foil.",
+        "segment": [
+          28.5,
+          32.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "tear out the foil"
+      },
+      {
+        "subtask_id": "180",
+        "name": "Turn the suspension link.",
+        "segment": [
+          34.0,
+          44.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "turn the suspension link"
+      },
+      {
+        "subtask_id": "181",
+        "name": "Open the bottle carefully.",
+        "segment": [
+          51.0,
+          54.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open the bottle carefully"
+      }
+    ],
+    "meta": {
+      "original_task_id": "105",
+      "original_label": "OpenChampagneBottle",
+      "note": "source_start=26.469556746131975; source_end=55.77949156279706"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "hjUSPlhPpT0",
+    "video_url": "https://www.youtube.com/embed/hjUSPlhPpT0",
+    "video_path": "",
+    "duration_sec": 123.506667,
+    "goal": "Make Chinese Lantern.",
+    "subtasks": [
+      {
+        "subtask_id": "54",
+        "name": "Draw pictures on the materials.",
+        "segment": [
+          10.0,
+          66.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "draw pictures on the materials"
+      },
+      {
+        "subtask_id": "52",
+        "name": "Nail down or stick together.",
+        "segment": [
+          68.0,
+          90.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "nail down or stick together"
+      },
+      {
+        "subtask_id": "51",
+        "name": "Fold or bent the paper.",
+        "segment": [
+          98.0,
+          110.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "fold or bent the paper"
+      }
+    ],
+    "meta": {
+      "original_task_id": "81",
+      "original_label": "MakeChineseLantern",
+      "note": "source_start=4.589278723496543; source_end=110.32507291920864"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "CK_9Bn3DZdw",
+    "video_url": "https://www.youtube.com/embed/CK_9Bn3DZdw",
+    "video_path": "",
+    "duration_sec": 106.045522,
+    "goal": "Clean Fish.",
+    "subtasks": [
+      {
+        "subtask_id": "108",
+        "name": "Cut off the tail and fin.",
+        "segment": [
+          21.0,
+          36.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "cut off the tail and fin"
+      },
+      {
+        "subtask_id": "107",
+        "name": "Scratch scales.",
+        "segment": [
+          48.0,
+          55.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "scratch scales"
+      },
+      {
+        "subtask_id": "109",
+        "name": "Remove the gill.",
+        "segment": [
+          66.0,
+          71.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the gill"
+      },
+      {
+        "subtask_id": "106",
+        "name": "Remove the intestines and blood vessels.",
+        "segment": [
+          75.0,
+          79.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the intestines and blood vessels"
+      }
+    ],
+    "meta": {
+      "original_task_id": "22",
+      "original_label": "CleanFish",
+      "note": "source_start=13.479668296805322; source_end=84.27487800195135"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "8nHt7kyu36c",
+    "video_url": "https://www.youtube.com/embed/8nHt7kyu36c",
+    "video_path": "",
+    "duration_sec": 110.55,
+    "goal": "Make Bed.",
+    "subtasks": [
+      {
+        "subtask_id": "124",
+        "name": "Put the sheet on the bed.",
+        "segment": [
+          56.0,
+          60.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the sheet on the bed"
+      },
+      {
+        "subtask_id": "128",
+        "name": "Put the pillow on the bed.",
+        "segment": [
+          61.0,
+          63.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the pillow on the bed"
+      },
+      {
+        "subtask_id": "128",
+        "name": "Put the pillow on the bed.",
+        "segment": [
+          68.0,
+          71.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put the pillow on the bed"
+      }
+    ],
+    "meta": {
+      "original_task_id": "98",
+      "original_label": "MakeBed",
+      "note": "source_start=48.78799876759851; source_end=72.74387019403957"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "utvg54Ft3yE",
+    "video_url": "https://www.youtube.com/embed/utvg54Ft3yE",
+    "video_path": "",
+    "duration_sec": 141.084444,
+    "goal": "Make Slime With Glue.",
+    "subtasks": [
+      {
+        "subtask_id": "670",
+        "name": "Add different kinds of ingredients.",
+        "segment": [
+          61.0,
+          67.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add different kinds of ingredients"
+      },
+      {
+        "subtask_id": "671",
+        "name": "Mix the raw materials.",
+        "segment": [
+          68.0,
+          75.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix the raw materials"
+      },
+      {
+        "subtask_id": "670",
+        "name": "Add different kinds of ingredients.",
+        "segment": [
+          79.0,
+          86.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add different kinds of ingredients"
+      },
+      {
+        "subtask_id": "671",
+        "name": "Mix the raw materials.",
+        "segment": [
+          87.0,
+          97.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix the raw materials"
+      },
+      {
+        "subtask_id": "670",
+        "name": "Add different kinds of ingredients.",
+        "segment": [
+          109.0,
+          114.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "add different kinds of ingredients"
+      },
+      {
+        "subtask_id": "671",
+        "name": "Mix the raw materials.",
+        "segment": [
+          115.0,
+          122.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "mix the raw materials"
+      },
+      {
+        "subtask_id": "672",
+        "name": "Rub and drag the materials.",
+        "segment": [
+          123.0,
+          137.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "rub and drag the materials"
+      }
+    ],
+    "meta": {
+      "original_task_id": "165",
+      "original_label": "MakeSlimeWithGlue",
+      "note": "source_start=59.66702096008892; source_end=141.084444"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "testing",
+    "sample_type": "procedural",
+    "video_id": "pCND3sgJh-E",
+    "video_url": "https://www.youtube.com/embed/pCND3sgJh-E",
+    "video_path": "",
+    "duration_sec": 74.14,
+    "goal": "Replace Drumhead.",
+    "subtasks": [
+      {
+        "subtask_id": "621",
+        "name": "Remove the drumhead.",
+        "segment": [
+          0.5,
+          9.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the drumhead"
+      },
+      {
+        "subtask_id": "622",
+        "name": "Replace with the new drumhead.",
+        "segment": [
+          10.5,
+          54.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "replace with the new drumhead"
+      }
+    ],
+    "meta": {
+      "original_task_id": "134",
+      "original_label": "ReplaceDrumhead",
+      "note": "source_start=0; source_end=55.08367420008441"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "TS0dZccs0N0",
+    "video_url": "https://www.youtube.com/embed/TS0dZccs0N0",
+    "video_path": "",
+    "duration_sec": 96.989744,
+    "goal": "Make Coffee.",
+    "subtasks": [
+      {
+        "subtask_id": "187",
+        "name": "Grind the coffee beans.",
+        "segment": [
+          0.0,
+          7.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "grind the coffee beans"
+      },
+      {
+        "subtask_id": "188",
+        "name": "Filtrate the coffee beans.",
+        "segment": [
+          31.0,
+          35.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "filtrate the coffee beans"
+      },
+      {
+        "subtask_id": "187",
+        "name": "Grind the coffee beans.",
+        "segment": [
+          45.0,
+          50.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "grind the coffee beans"
+      },
+      {
+        "subtask_id": "188",
+        "name": "Filtrate the coffee beans.",
+        "segment": [
+          84.0,
+          85.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "filtrate the coffee beans"
+      }
+    ],
+    "meta": {
+      "original_task_id": "99",
+      "original_label": "MakeCoffee",
+      "note": "source_start=0; source_end=86.74383843666047"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "ofRVyP4PAzg",
+    "video_url": "https://www.youtube.com/embed/ofRVyP4PAzg",
+    "video_path": "",
+    "duration_sec": 193.492,
+    "goal": "Replace Battery On Key To Car.",
+    "subtasks": [
+      {
+        "subtask_id": "120",
+        "name": "Open the car key cover.",
+        "segment": [
+          36.0,
+          60.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open the car key cover"
+      },
+      {
+        "subtask_id": "120",
+        "name": "Open the car key cover.",
+        "segment": [
+          96.0,
+          107.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "open the car key cover"
+      },
+      {
+        "subtask_id": "121",
+        "name": "Take out the car key battery.",
+        "segment": [
+          115.0,
+          122.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "take out the car key battery"
+      },
+      {
+        "subtask_id": "122",
+        "name": "Put in the battery.",
+        "segment": [
+          144.0,
+          162.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "put in the battery"
+      },
+      {
+        "subtask_id": "123",
+        "name": "Close the car key cover.",
+        "segment": [
+          167.0,
+          174.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "close the car key cover"
+      }
+    ],
+    "meta": {
+      "original_task_id": "58",
+      "original_label": "ReplaceBatteryOnKeyToCar",
+      "note": "source_start=35.6532772192517; source_end=184.73711382925347"
+    }
+  },
+  {
+    "source_dataset": "COIN",
+    "source_split": "training",
+    "sample_type": "procedural",
+    "video_id": "huFjPGrq1Og",
+    "video_url": "https://www.youtube.com/embed/huFjPGrq1Og",
+    "video_path": "",
+    "duration_sec": 176.936044,
+    "goal": "Cut Grape Fruit.",
+    "subtasks": [
+      {
+        "subtask_id": "638",
+        "name": "Remove the peel.",
+        "segment": [
+          5.5,
+          9.5
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the peel"
+      },
+      {
+        "subtask_id": "638",
+        "name": "Remove the peel.",
+        "segment": [
+          42.0,
+          77.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "remove the peel"
+      },
+      {
+        "subtask_id": "639",
+        "name": "Slice the pulp.",
+        "segment": [
+          82.0,
+          119.0
+        ],
+        "segment_unit": "seconds",
+        "exists": true,
+        "completed": true,
+        "source_text": "slice the pulp"
+      }
+    ],
+    "meta": {
+      "original_task_id": "33",
+      "original_label": "CutGrapeFruit",
+      "note": "source_start=0; source_end=125.63128357074899"
+    }
+  }
+]

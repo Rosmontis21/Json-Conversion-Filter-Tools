@@ -1,0 +1,4394 @@
+[
+  {
+    "video_id": "xZecGPPhbHE",
+    "record": {
+      "recipe_type": 122,
+      "annotation": [
+        {
+          "id": "325",
+          "segment": [
+            25.0,
+            30.0
+          ],
+          "label": "pull up the hair to reserve place for the hair extensions"
+        },
+        {
+          "id": "326",
+          "segment": [
+            31.0,
+            49.0
+          ],
+          "label": "put on the hair extensions"
+        },
+        {
+          "id": "327",
+          "segment": [
+            107.0,
+            117.0
+          ],
+          "label": "put down the hair and comb"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/xZecGPPhbHE",
+      "start": 19.621378525393986,
+      "end": 134.36378671172514,
+      "duration": 185.085,
+      "class": "PutOnHairExtensions",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "NLy71UrHElw",
+    "record": {
+      "recipe_type": 116,
+      "annotation": [
+        {
+          "id": "373",
+          "segment": [
+            21.0,
+            22.0
+          ],
+          "label": "begin to run up"
+        },
+        {
+          "id": "374",
+          "segment": [
+            23.0,
+            24.0
+          ],
+          "label": "begin to jump up"
+        },
+        {
+          "id": "375",
+          "segment": [
+            25.0,
+            26.0
+          ],
+          "label": "fall to the ground"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/NLy71UrHElw",
+      "start": 20.407162179718902,
+      "end": 26.795,
+      "duration": 26.795,
+      "class": "PractisePoleVault",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "ewmdE3DmlL0",
+    "record": {
+      "recipe_type": 66,
+      "annotation": [
+        {
+          "id": "338",
+          "segment": [
+            30.0,
+            34.0
+          ],
+          "label": "place the bicycle on the bracket"
+        },
+        {
+          "id": "339",
+          "segment": [
+            35.0,
+            60.0
+          ],
+          "label": "fasten the strap"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/ewmdE3DmlL0",
+      "start": 28.65146620375997,
+      "end": 60.33288616425457,
+      "duration": 63.483333,
+      "class": "InstallBicycleRack",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "JTmzWWU7s1M",
+    "record": {
+      "recipe_type": 94,
+      "annotation": [
+        {
+          "id": "386",
+          "segment": [
+            172.0,
+            179.0
+          ],
+          "label": "put the melted soap block into the vessel"
+        },
+        {
+          "id": "387",
+          "segment": [
+            180.0,
+            182.0
+          ],
+          "label": "take out after freezing"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/JTmzWWU7s1M",
+      "start": 166.54583795799286,
+      "end": 199.5820116575816,
+      "duration": 217.199456,
+      "class": "MakeSoap",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "jXYZEb-56Wc",
+    "record": {
+      "recipe_type": 69,
+      "annotation": [
+        {
+          "id": "332",
+          "segment": [
+            39.5,
+            47.5
+          ],
+          "label": "wipe screen"
+        },
+        {
+          "id": "331",
+          "segment": [
+            49.5,
+            85.0
+          ],
+          "label": "place label"
+        },
+        {
+          "id": "333",
+          "segment": [
+            85.5,
+            108.0
+          ],
+          "label": "paste protector on the screen"
+        },
+        {
+          "id": "335",
+          "segment": [
+            108.5,
+            112.0
+          ],
+          "label": "remove the label"
+        },
+        {
+          "id": "334",
+          "segment": [
+            112.5,
+            120.5
+          ],
+          "label": "wipe screen again"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/jXYZEb-56Wc",
+      "start": 32.38991647599843,
+      "end": 134.18868727439343,
+      "duration": 189.59,
+      "class": "PasteScreenProtectorOnPad",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "rtCpq2_HthQ",
+    "record": {
+      "recipe_type": 149,
+      "annotation": [
+        {
+          "id": "709",
+          "segment": [
+            4.0,
+            16.0
+          ],
+          "label": "remove the old wrapper"
+        },
+        {
+          "id": "710",
+          "segment": [
+            20.0,
+            24.0
+          ],
+          "label": "wrap with the new wrapper"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/rtCpq2_HthQ",
+      "start": 0.5627443595897956,
+      "end": 29.558301275318467,
+      "duration": 67.2682,
+      "class": "RewrapBattery",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "ar2vXJj_dQI",
+    "record": {
+      "recipe_type": 136,
+      "annotation": [
+        {
+          "id": "634",
+          "segment": [
+            25.0,
+            37.0
+          ],
+          "label": "install the new faucet"
+        },
+        {
+          "id": "635",
+          "segment": [
+            38.0,
+            131.0
+          ],
+          "label": "connect the water pipe"
+        },
+        {
+          "id": "636",
+          "segment": [
+            132.0,
+            179.0
+          ],
+          "label": "open the sluice and test the new faucet"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/ar2vXJj_dQI",
+      "start": 23.50439034504469,
+      "end": 184.98545619189485,
+      "duration": 190.89,
+      "class": "ReplaceFaucet",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "oDAY5PMwZgU",
+    "record": {
+      "recipe_type": 163,
+      "annotation": [
+        {
+          "id": "519",
+          "segment": [
+            2.0,
+            7.0
+          ],
+          "label": "insert money into the vending machine"
+        },
+        {
+          "id": "520",
+          "segment": [
+            8.0,
+            13.0
+          ],
+          "label": "press the corresponding button"
+        },
+        {
+          "id": "521",
+          "segment": [
+            14.0,
+            17.0
+          ],
+          "label": "take out the goods"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/oDAY5PMwZgU",
+      "start": 0.5672238541906893,
+      "end": 17.205978,
+      "duration": 17.205978,
+      "class": "UseVendingMachine",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "4kiZIDOUQAo",
+    "record": {
+      "recipe_type": 3,
+      "annotation": [
+        {
+          "id": "438",
+          "segment": [
+            18.0,
+            22.0
+          ],
+          "label": "install legs of sofa"
+        },
+        {
+          "id": "439",
+          "segment": [
+            28.0,
+            44.0
+          ],
+          "label": "put on sofa cover"
+        },
+        {
+          "id": "437",
+          "segment": [
+            45.0,
+            47.0
+          ],
+          "label": "place cushion and backrest"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/4kiZIDOUQAo",
+      "start": 14.034485289841813,
+      "end": 48.5297,
+      "duration": 48.5297,
+      "class": "AssembleSofa",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "zyML-268ciU",
+    "record": {
+      "recipe_type": 143,
+      "annotation": [
+        {
+          "id": "8",
+          "segment": [
+            83.0,
+            95.0
+          ],
+          "label": "cut off the electric wire"
+        },
+        {
+          "id": "7",
+          "segment": [
+            101.0,
+            113.0
+          ],
+          "label": "remove the old rearview mirror"
+        },
+        {
+          "id": "10",
+          "segment": [
+            121.0,
+            150.0
+          ],
+          "label": "reinstall the rearview mirror"
+        },
+        {
+          "id": "9",
+          "segment": [
+            151.0,
+            159.0
+          ],
+          "label": "reconnect the electric wire"
+        },
+        {
+          "id": "10",
+          "segment": [
+            160.0,
+            189.0
+          ],
+          "label": "reinstall the rearview mirror"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/zyML-268ciU",
+      "start": 79.5221154268518,
+      "end": 195.087657384878,
+      "duration": 237.121667,
+      "class": "ReplaceRearviewMirrorGlass",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "r_5RtkDwNsg",
+    "record": {
+      "recipe_type": 91,
+      "annotation": [
+        {
+          "id": "265",
+          "segment": [
+            10.0,
+            34.0
+          ],
+          "label": "put the ingredients into the bowl"
+        },
+        {
+          "id": "266",
+          "segment": [
+            35.0,
+            46.0
+          ],
+          "label": "stir the ingredients"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/r_5RtkDwNsg",
+      "start": 5.687143777058577,
+      "end": 46.31215684417414,
+      "duration": 66.014322,
+      "class": "MakeSalad",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "aR615-SqEls",
+    "record": {
+      "recipe_type": 169,
+      "annotation": [
+        {
+          "id": "199",
+          "segment": [
+            132.0,
+            139.0
+          ],
+          "label": "pour some water to the soy milk maker"
+        },
+        {
+          "id": "198",
+          "segment": [
+            140.0,
+            155.0
+          ],
+          "label": "pour some soy beans"
+        },
+        {
+          "id": "200",
+          "segment": [
+            188.0,
+            215.0
+          ],
+          "label": "run the soy milk maker"
+        },
+        {
+          "id": "201",
+          "segment": [
+            263.0,
+            309.0
+          ],
+          "label": "filtrate with a filter"
+        },
+        {
+          "id": "202",
+          "segment": [
+            497.0,
+            507.0
+          ],
+          "label": "pour into a glass"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/aR615-SqEls",
+      "start": 87.6946828199184,
+      "end": 527.161667,
+      "duration": 527.161667,
+      "class": "UseSoyMilkMaker",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "CWmC03KVuPU",
+    "record": {
+      "recipe_type": 100,
+      "annotation": [
+        {
+          "id": "309",
+          "segment": [
+            55.0,
+            58.0
+          ],
+          "label": "prepare and add the tea"
+        },
+        {
+          "id": "308",
+          "segment": [
+            59.0,
+            68.0
+          ],
+          "label": "prepare and boil water"
+        },
+        {
+          "id": "307",
+          "segment": [
+            69.0,
+            76.0
+          ],
+          "label": "heat the teapot and wash the cup"
+        },
+        {
+          "id": "311",
+          "segment": [
+            87.0,
+            99.0
+          ],
+          "label": "add some ingredients to the tea"
+        },
+        {
+          "id": "310",
+          "segment": [
+            146.0,
+            148.0
+          ],
+          "label": "add some water to the tea"
+        },
+        {
+          "id": "311",
+          "segment": [
+            180.0,
+            185.0
+          ],
+          "label": "add some ingredients to the tea"
+        },
+        {
+          "id": "311",
+          "segment": [
+            220.0,
+            224.0
+          ],
+          "label": "add some ingredients to the tea"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/CWmC03KVuPU",
+      "start": 37.1455371455252,
+      "end": 236.26254254844082,
+      "duration": 236.656667,
+      "class": "MakeTea",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "ErhvSbJZ6mg",
+    "record": {
+      "recipe_type": 43,
+      "annotation": [
+        {
+          "id": "441",
+          "segment": [
+            62.0,
+            80.5
+          ],
+          "label": "draw black patterns"
+        },
+        {
+          "id": "446",
+          "segment": [
+            81.0,
+            101.0
+          ],
+          "label": "ink the marked area"
+        },
+        {
+          "id": "443",
+          "segment": [
+            102.0,
+            174.5
+          ],
+          "label": "scrape tarpaulin without ink"
+        },
+        {
+          "id": "446",
+          "segment": [
+            177.0,
+            178.5
+          ],
+          "label": "ink the marked area"
+        },
+        {
+          "id": "447",
+          "segment": [
+            179.0,
+            185.5
+          ],
+          "label": "transfer print"
+        },
+        {
+          "id": "447",
+          "segment": [
+            192.0,
+            195.0
+          ],
+          "label": "transfer print"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/ErhvSbJZ6mg",
+      "start": 49.80488409695676,
+      "end": 195.36751012947232,
+      "duration": 207.307744,
+      "class": "DoLinoPrinting",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "DvaCfRWskRE",
+    "record": {
+      "recipe_type": 107,
+      "annotation": [
+        {
+          "id": "297",
+          "segment": [
+            16.0,
+            20.0
+          ],
+          "label": "pack the sleeping bag"
+        },
+        {
+          "id": "298",
+          "segment": [
+            21.0,
+            43.0
+          ],
+          "label": "tie the bag tightly"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/DvaCfRWskRE",
+      "start": 12.592139436207376,
+      "end": 45.72,
+      "duration": 45.72,
+      "class": "PackSleepingBag",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "ot_sBwstblw",
+    "record": {
+      "recipe_type": 116,
+      "annotation": [
+        {
+          "id": "373",
+          "segment": [
+            8.0,
+            12.0
+          ],
+          "label": "begin to run up"
+        },
+        {
+          "id": "374",
+          "segment": [
+            13.0,
+            22.0
+          ],
+          "label": "begin to jump up"
+        },
+        {
+          "id": "375",
+          "segment": [
+            26.0,
+            38.0
+          ],
+          "label": "fall to the ground"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/ot_sBwstblw",
+      "start": 4.761005501500538,
+      "end": 38.591556,
+      "duration": 38.591556,
+      "class": "PractisePoleVault",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "gnlUBK-cvfc",
+    "record": {
+      "recipe_type": 79,
+      "annotation": [
+        {
+          "id": "22",
+          "segment": [
+            10.0,
+            15.0
+          ],
+          "label": "knead the meat"
+        },
+        {
+          "id": "23",
+          "segment": [
+            25.5,
+            29.0
+          ],
+          "label": "fry meat"
+        },
+        {
+          "id": "24",
+          "segment": [
+            45.0,
+            55.0
+          ],
+          "label": "combine meat and bread to make burger"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/gnlUBK-cvfc",
+      "start": 5.253975978894716,
+      "end": 57.79217488708839,
+      "duration": 60.255778,
+      "class": "MakeBurger",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "cPEFskCrdhQ",
+    "record": {
+      "recipe_type": 112,
+      "annotation": [
+        {
+          "id": "449",
+          "segment": [
+            26.0,
+            36.0
+          ],
+          "label": "check the breath of the patient"
+        },
+        {
+          "id": "453",
+          "segment": [
+            81.0,
+            104.0
+          ],
+          "label": "press the chest of the patient"
+        },
+        {
+          "id": "451",
+          "segment": [
+            107.0,
+            113.0
+          ],
+          "label": "do artificial breathing to the patient"
+        },
+        {
+          "id": "453",
+          "segment": [
+            115.0,
+            139.0
+          ],
+          "label": "press the chest of the patient"
+        },
+        {
+          "id": "451",
+          "segment": [
+            140.0,
+            146.0
+          ],
+          "label": "do artificial breathing to the patient"
+        },
+        {
+          "id": "449",
+          "segment": [
+            162.0,
+            166.0
+          ],
+          "label": "check the breath of the patient"
+        },
+        {
+          "id": "451",
+          "segment": [
+            169.0,
+            173.0
+          ],
+          "label": "do artificial breathing to the patient"
+        },
+        {
+          "id": "451",
+          "segment": [
+            178.0,
+            183.0
+          ],
+          "label": "do artificial breathing to the patient"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/cPEFskCrdhQ",
+      "start": 20.171258115746454,
+      "end": 191.34631276405727,
+      "duration": 211.788333,
+      "class": "PerformCPR",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "n0HdUsT48p8",
+    "record": {
+      "recipe_type": 108,
+      "annotation": [
+        {
+          "id": "535",
+          "segment": [
+            5.0,
+            18.0
+          ],
+          "label": "show the blank paper"
+        },
+        {
+          "id": "536",
+          "segment": [
+            26.0,
+            33.0
+          ],
+          "label": "fold or fire the blank paper"
+        },
+        {
+          "id": "537",
+          "segment": [
+            37.0,
+            51.0
+          ],
+          "label": "show the money to the audience"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/n0HdUsT48p8",
+      "start": 0.07878948953556719,
+      "end": 52.58512884274174,
+      "duration": 65.480267,
+      "class": "PerformPaperToMoneyTrick",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "v4z4s8a7YqE",
+    "record": {
+      "recipe_type": 158,
+      "annotation": [
+        {
+          "id": "284",
+          "segment": [
+            17.0,
+            18.0
+          ],
+          "label": "cross the rope to wrap the bolt"
+        },
+        {
+          "id": "283",
+          "segment": [
+            21.0,
+            24.0
+          ],
+          "label": "circle the rope under the bolt"
+        },
+        {
+          "id": "284",
+          "segment": [
+            25.0,
+            27.0
+          ],
+          "label": "cross the rope to wrap the bolt"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/v4z4s8a7YqE",
+      "start": 13.730787430041277,
+      "end": 29.02046912755338,
+      "duration": 55.263489,
+      "class": "TieBoatToDock",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "WE9j6r3s7OY",
+    "record": {
+      "recipe_type": 93,
+      "annotation": [
+        {
+          "id": "524",
+          "segment": [
+            18.0,
+            79.0
+          ],
+          "label": "put the filler on the bread slice"
+        },
+        {
+          "id": "525",
+          "segment": [
+            80.0,
+            113.0
+          ],
+          "label": "fry or grill"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/WE9j6r3s7OY",
+      "start": 16.588356908079327,
+      "end": 121.89799589517635,
+      "duration": 136.161667,
+      "class": "MakeSandwich",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "iD9JmUkGpOA",
+    "record": {
+      "recipe_type": 23,
+      "annotation": [
+        {
+          "id": "705",
+          "segment": [
+            70.0,
+            75.5
+          ],
+          "label": "remove the head"
+        },
+        {
+          "id": "708",
+          "segment": [
+            85.0,
+            89.0
+          ],
+          "label": "remove the vein"
+        },
+        {
+          "id": "705",
+          "segment": [
+            103.0,
+            116.5
+          ],
+          "label": "remove the head"
+        },
+        {
+          "id": "708",
+          "segment": [
+            117.0,
+            122.5
+          ],
+          "label": "remove the vein"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/iD9JmUkGpOA",
+      "start": 69.86755146701566,
+      "end": 130.81324685018063,
+      "duration": 166.651667,
+      "class": "CleanShrimp",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "SN_IhH4PDPo",
+    "record": {
+      "recipe_type": 124,
+      "annotation": [
+        {
+          "id": "481",
+          "segment": [
+            24.0,
+            32.0
+          ],
+          "label": "press the fuel nozzle"
+        },
+        {
+          "id": "482",
+          "segment": [
+            50.0,
+            57.0
+          ],
+          "label": "pump up the fuel"
+        },
+        {
+          "id": "483",
+          "segment": [
+            63.0,
+            65.0
+          ],
+          "label": "lighten the lighter to check"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/SN_IhH4PDPo",
+      "start": 23.42718956108583,
+      "end": 70.94552698694886,
+      "duration": 85.728067,
+      "class": "RefillALighter",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "cK55Meyf3ss",
+    "record": {
+      "recipe_type": 71,
+      "annotation": [
+        {
+          "id": "663",
+          "segment": [
+            36.0,
+            61.0
+          ],
+          "label": "replace the old shower head"
+        },
+        {
+          "id": "664",
+          "segment": [
+            64.0,
+            91.0
+          ],
+          "label": "wrap the pipe band"
+        },
+        {
+          "id": "665",
+          "segment": [
+            92.0,
+            176.0
+          ],
+          "label": "install the new shower head"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/cK55Meyf3ss",
+      "start": 26.037943119145698,
+      "end": 176.6545939741724,
+      "duration": 219.428333,
+      "class": "InstallShowerHead",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "WjjexIlQg6k",
+    "record": {
+      "recipe_type": 10,
+      "annotation": [
+        {
+          "id": "548",
+          "segment": [
+            51.5,
+            53.5
+          ],
+          "label": "add seasoning to the boiling water"
+        },
+        {
+          "id": "548",
+          "segment": [
+            56.0,
+            67.0
+          ],
+          "label": "add seasoning to the boiling water"
+        },
+        {
+          "id": "549",
+          "segment": [
+            80.0,
+            83.5
+          ],
+          "label": "pour the noodles into the water and stir"
+        },
+        {
+          "id": "551",
+          "segment": [
+            89.0,
+            92.0
+          ],
+          "label": "pour the cooked noodles"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/WjjexIlQg6k",
+      "start": 47.286445082266,
+      "end": 103.02395253157596,
+      "duration": 111.571878,
+      "class": "BoilNoodles",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "EWrpjhOtuss",
+    "record": {
+      "recipe_type": 92,
+      "annotation": [
+        {
+          "id": "26",
+          "segment": [
+            115.0,
+            126.0
+          ],
+          "label": "fry salmon"
+        },
+        {
+          "id": "25",
+          "segment": [
+            127.0,
+            130.0
+          ],
+          "label": "add seasoning on the salmon"
+        },
+        {
+          "id": "26",
+          "segment": [
+            132.0,
+            139.0
+          ],
+          "label": "fry salmon"
+        },
+        {
+          "id": "28",
+          "segment": [
+            151.0,
+            158.0
+          ],
+          "label": "load the dish"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/EWrpjhOtuss",
+      "start": 112.53158516530361,
+      "end": 160.84760917752735,
+      "duration": 188.035189,
+      "class": "MakeSalmon",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "8TVl3Ui-WHg",
+    "record": {
+      "recipe_type": 120,
+      "annotation": [
+        {
+          "id": "246",
+          "segment": [
+            26.0,
+            34.0
+          ],
+          "label": "install the air nozzle"
+        },
+        {
+          "id": "247",
+          "segment": [
+            48.0,
+            55.0
+          ],
+          "label": "pump up to the tire"
+        },
+        {
+          "id": "248",
+          "segment": [
+            55.0,
+            58.0
+          ],
+          "label": "remove the air nozzle"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/8TVl3Ui-WHg",
+      "start": 25.101166742302624,
+      "end": 59.06329582766119,
+      "duration": 91.533056,
+      "class": "PumpUpBicycleTire",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "NKItrqXhycE",
+    "record": {
+      "recipe_type": 159,
+      "annotation": [
+        {
+          "id": "389",
+          "segment": [
+            84.0,
+            89.0
+          ],
+          "label": "take out the plant"
+        },
+        {
+          "id": "390",
+          "segment": [
+            105.5,
+            110.0
+          ],
+          "label": "put in the plant"
+        },
+        {
+          "id": "391",
+          "segment": [
+            110.5,
+            121.5
+          ],
+          "label": "fill with some soil"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/NKItrqXhycE",
+      "start": 72.42429128461298,
+      "end": 126.89018649657069,
+      "duration": 140.293333,
+      "class": "Transplant",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "WlV0MTSuzOk",
+    "record": {
+      "recipe_type": 137,
+      "annotation": [
+        {
+          "id": "392",
+          "segment": [
+            1.0,
+            8.0
+          ],
+          "label": "take out the shell"
+        },
+        {
+          "id": "393",
+          "segment": [
+            9.0,
+            12.0
+          ],
+          "label": "take out the filter"
+        },
+        {
+          "id": "394",
+          "segment": [
+            13.0,
+            26.0
+          ],
+          "label": "clean up the filter"
+        },
+        {
+          "id": "395",
+          "segment": [
+            27.0,
+            32.0
+          ],
+          "label": "fit on the filter"
+        },
+        {
+          "id": "396",
+          "segment": [
+            33.0,
+            39.0
+          ],
+          "label": "fit on the shell"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/WlV0MTSuzOk",
+      "start": 0.06713412845000732,
+      "end": 39.95357800641755,
+      "duration": 41.076089,
+      "class": "ReplaceFilterForAirPurifier",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "j93MBbx7HAw",
+    "record": {
+      "recipe_type": 163,
+      "annotation": [
+        {
+          "id": "519",
+          "segment": [
+            60.0,
+            67.5
+          ],
+          "label": "insert money into the vending machine"
+        },
+        {
+          "id": "520",
+          "segment": [
+            104.0,
+            112.5
+          ],
+          "label": "press the corresponding button"
+        },
+        {
+          "id": "521",
+          "segment": [
+            113.0,
+            116.5
+          ],
+          "label": "take out the goods"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/j93MBbx7HAw",
+      "start": 52.14495819591069,
+      "end": 124.50296592624017,
+      "duration": 129.845,
+      "class": "UseVendingMachine",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "LMoGwLqPM64",
+    "record": {
+      "recipe_type": 10,
+      "annotation": [
+        {
+          "id": "548",
+          "segment": [
+            69.0,
+            93.0
+          ],
+          "label": "add seasoning to the boiling water"
+        },
+        {
+          "id": "549",
+          "segment": [
+            114.0,
+            121.5
+          ],
+          "label": "pour the noodles into the water and stir"
+        },
+        {
+          "id": "551",
+          "segment": [
+            122.0,
+            130.0
+          ],
+          "label": "pour the cooked noodles"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/LMoGwLqPM64",
+      "start": 53.55897426317331,
+      "end": 141.39964667807277,
+      "duration": 197.508933,
+      "class": "BoilNoodles",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "1lip9rOA79c",
+    "record": {
+      "recipe_type": 118,
+      "annotation": [
+        {
+          "id": "289",
+          "segment": [
+            5.0,
+            35.5
+          ],
+          "label": "weigh up the solute"
+        },
+        {
+          "id": "290",
+          "segment": [
+            36.0,
+            41.5
+          ],
+          "label": "transfer and dissolve the solute"
+        },
+        {
+          "id": "290",
+          "segment": [
+            49.0,
+            64.5
+          ],
+          "label": "transfer and dissolve the solute"
+        },
+        {
+          "id": "292",
+          "segment": [
+            75.5,
+            84.0
+          ],
+          "label": "transfer the solution and label"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/1lip9rOA79c",
+      "start": 3.7113972401082806,
+      "end": 88.4013447355827,
+      "duration": 91.742033,
+      "class": "PrepareStandardSolution",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "U-s6EYzqjmA",
+    "record": {
+      "recipe_type": 168,
+      "annotation": [
+        {
+          "id": "217",
+          "segment": [
+            5.0,
+            11.0
+          ],
+          "label": "take out some rice"
+        },
+        {
+          "id": "218",
+          "segment": [
+            23.0,
+            64.0
+          ],
+          "label": "soak and wash the rice"
+        },
+        {
+          "id": "219",
+          "segment": [
+            65.0,
+            107.0
+          ],
+          "label": "put the washed rice into the rice cooker"
+        },
+        {
+          "id": "220",
+          "segment": [
+            109.0,
+            120.0
+          ],
+          "label": "cook the rice by rice cooker"
+        },
+        {
+          "id": "220",
+          "segment": [
+            127.0,
+            133.0
+          ],
+          "label": "cook the rice by rice cooker"
+        },
+        {
+          "id": "220",
+          "segment": [
+            137.0,
+            154.0
+          ],
+          "label": "cook the rice by rice cooker"
+        },
+        {
+          "id": "220",
+          "segment": [
+            159.0,
+            164.0
+          ],
+          "label": "cook the rice by rice cooker"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/U-s6EYzqjmA",
+      "start": 0,
+      "end": 175.06425478452564,
+      "duration": 180.975,
+      "class": "UseRiceCookerToCookRice",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "Ntzsfe0xzF8",
+    "record": {
+      "recipe_type": 72,
+      "annotation": [
+        {
+          "id": "412",
+          "segment": [
+            0.0,
+            21.0
+          ],
+          "label": "remove the old wax ring and clean"
+        },
+        {
+          "id": "413",
+          "segment": [
+            22.0,
+            29.0
+          ],
+          "label": "install the new wax ring"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/Ntzsfe0xzF8",
+      "start": 0,
+      "end": 29.704276584991767,
+      "duration": 30.161667,
+      "class": "InstallClosestool",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "633OkWbwLt4",
+    "record": {
+      "recipe_type": 10,
+      "annotation": [
+        {
+          "id": "549",
+          "segment": [
+            52.0,
+            93.0
+          ],
+          "label": "pour the noodles into the water and stir"
+        },
+        {
+          "id": "550",
+          "segment": [
+            96.0,
+            111.0
+          ],
+          "label": "take a little bit noodles and taste it"
+        },
+        {
+          "id": "551",
+          "segment": [
+            115.0,
+            118.0
+          ],
+          "label": "pour the cooked noodles"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/633OkWbwLt4",
+      "start": 50.89024791488685,
+      "end": 131.4759998302379,
+      "duration": 173.940678,
+      "class": "BoilNoodles",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "X_GBesuwrAI",
+    "record": {
+      "recipe_type": 91,
+      "annotation": [
+        {
+          "id": "265",
+          "segment": [
+            56.0,
+            74.0
+          ],
+          "label": "put the ingredients into the bowl"
+        },
+        {
+          "id": "266",
+          "segment": [
+            121.0,
+            124.0
+          ],
+          "label": "stir the ingredients"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/X_GBesuwrAI",
+      "start": 55.82052033720513,
+      "end": 128.8081046104714,
+      "duration": 165.813689,
+      "class": "MakeSalad",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "8M5mt7pfO2A",
+    "record": {
+      "recipe_type": 110,
+      "annotation": [
+        {
+          "id": "689",
+          "segment": [
+            38.0,
+            44.0
+          ],
+          "label": "drive the car forward"
+        },
+        {
+          "id": "690",
+          "segment": [
+            97.0,
+            119.0
+          ],
+          "label": "drive the car backward"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/8M5mt7pfO2A",
+      "start": 27.43661582423724,
+      "end": 122.48962799960842,
+      "duration": 123.576589,
+      "class": "ParkParallel",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "Cg6RAPmJDSM",
+    "record": {
+      "recipe_type": 51,
+      "annotation": [
+        {
+          "id": "194",
+          "segment": [
+            29.0,
+            97.0
+          ],
+          "label": "add raw materials"
+        },
+        {
+          "id": "195",
+          "segment": [
+            98.0,
+            123.0
+          ],
+          "label": "mix raw materials"
+        },
+        {
+          "id": "194",
+          "segment": [
+            124.0,
+            128.0
+          ],
+          "label": "add raw materials"
+        },
+        {
+          "id": "195",
+          "segment": [
+            129.0,
+            141.0
+          ],
+          "label": "mix raw materials"
+        },
+        {
+          "id": "196",
+          "segment": [
+            142.0,
+            167.0
+          ],
+          "label": "pour bean paste into plate"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/Cg6RAPmJDSM",
+      "start": 10.692127172361804,
+      "end": 168.40093065603648,
+      "duration": 189.498044,
+      "class": "MakeHummus",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "KcmZK7_oMIk",
+    "record": {
+      "recipe_type": 32,
+      "annotation": [
+        {
+          "id": "604",
+          "segment": [
+            12.0,
+            30.0
+          ],
+          "label": "peel"
+        },
+        {
+          "id": "605",
+          "segment": [
+            31.0,
+            43.0
+          ],
+          "label": "cut in half"
+        },
+        {
+          "id": "606",
+          "segment": [
+            44.0,
+            50.0
+          ],
+          "label": "dig out the seeds with spoon"
+        },
+        {
+          "id": "607",
+          "segment": [
+            52.0,
+            79.0
+          ],
+          "label": "slice the pulp"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/KcmZK7_oMIk",
+      "start": 2.030039436385959,
+      "end": 82.30092895560229,
+      "duration": 117.283989,
+      "class": "CutCantaloupe",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "GR7PhXtVtQA",
+    "record": {
+      "recipe_type": 18,
+      "annotation": [
+        {
+          "id": "608",
+          "segment": [
+            21.0,
+            23.0
+          ],
+          "label": "open the front door or cover of the printer"
+        },
+        {
+          "id": "609",
+          "segment": [
+            28.0,
+            42.0
+          ],
+          "label": "take out the toner cartridge"
+        },
+        {
+          "id": "610",
+          "segment": [
+            77.0,
+            103.0
+          ],
+          "label": "insert a new toner cartridge"
+        },
+        {
+          "id": "611",
+          "segment": [
+            105.0,
+            111.0
+          ],
+          "label": "close the front door or cover of the printer"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/GR7PhXtVtQA",
+      "start": 11.725411813958155,
+      "end": 119.78153663098945,
+      "duration": 124.714367,
+      "class": "ChangeTonerCartridge",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "PDele0Lq-iM",
+    "record": {
+      "recipe_type": 157,
+      "annotation": [
+        {
+          "id": "501",
+          "segment": [
+            23.0,
+            74.0
+          ],
+          "label": "install the wheels for the base"
+        },
+        {
+          "id": "502",
+          "segment": [
+            77.0,
+            86.0
+          ],
+          "label": "assemble the cushion and the backrest"
+        },
+        {
+          "id": "503",
+          "segment": [
+            87.0,
+            90.0
+          ],
+          "label": "connect the chair and the base"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/PDele0Lq-iM",
+      "start": 14.753140249551707,
+      "end": 96.246667,
+      "duration": 96.246667,
+      "class": "AssembleOfficeChair",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "h1Bts872T0Q",
+    "record": {
+      "recipe_type": 21,
+      "annotation": [
+        {
+          "id": "594",
+          "segment": [
+            29.0,
+            38.0
+          ],
+          "label": "remove the toy and paper bed from the hamster cage"
+        },
+        {
+          "id": "595",
+          "segment": [
+            43.0,
+            45.0
+          ],
+          "label": "clean toys and hamster cages"
+        },
+        {
+          "id": "595",
+          "segment": [
+            52.0,
+            57.0
+          ],
+          "label": "clean toys and hamster cages"
+        },
+        {
+          "id": "596",
+          "segment": [
+            68.0,
+            70.0
+          ],
+          "label": "move the toy and paper bed into the hamster cage"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/h1Bts872T0Q",
+      "start": 21.04269802647285,
+      "end": 76.21665873583284,
+      "duration": 93.9,
+      "class": "CleanHamsterCage",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "wEXFa9wRSn0",
+    "record": {
+      "recipe_type": 51,
+      "annotation": [
+        {
+          "id": "194",
+          "segment": [
+            34.0,
+            47.0
+          ],
+          "label": "add raw materials"
+        },
+        {
+          "id": "195",
+          "segment": [
+            48.0,
+            52.0
+          ],
+          "label": "mix raw materials"
+        },
+        {
+          "id": "194",
+          "segment": [
+            53.0,
+            65.0
+          ],
+          "label": "add raw materials"
+        },
+        {
+          "id": "195",
+          "segment": [
+            66.0,
+            75.0
+          ],
+          "label": "mix raw materials"
+        },
+        {
+          "id": "194",
+          "segment": [
+            113.0,
+            120.0
+          ],
+          "label": "add raw materials"
+        },
+        {
+          "id": "195",
+          "segment": [
+            121.0,
+            128.0
+          ],
+          "label": "mix raw materials"
+        },
+        {
+          "id": "194",
+          "segment": [
+            135.0,
+            145.0
+          ],
+          "label": "add raw materials"
+        },
+        {
+          "id": "195",
+          "segment": [
+            146.0,
+            152.0
+          ],
+          "label": "mix raw materials"
+        },
+        {
+          "id": "196",
+          "segment": [
+            153.0,
+            160.0
+          ],
+          "label": "pour bean paste into plate"
+        },
+        {
+          "id": "197",
+          "segment": [
+            161.0,
+            172.0
+          ],
+          "label": "invert seasoning"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/wEXFa9wRSn0",
+      "start": 26.157697690646106,
+      "end": 173.63639209563746,
+      "duration": 201.409878,
+      "class": "MakeHummus",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "p0zXvzHhX5w",
+    "record": {
+      "recipe_type": 88,
+      "annotation": [
+        {
+          "id": "484",
+          "segment": [
+            81.0,
+            115.0
+          ],
+          "label": "put the ingredients into the can"
+        },
+        {
+          "id": "485",
+          "segment": [
+            117.0,
+            128.0
+          ],
+          "label": "pour the soup in"
+        },
+        {
+          "id": "486",
+          "segment": [
+            129.0,
+            185.0
+          ],
+          "label": "close cans"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/p0zXvzHhX5w",
+      "start": 58.93021987443957,
+      "end": 198.20276346890324,
+      "duration": 225.326433,
+      "class": "MakePickles",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "9OqJyxVCUiA",
+    "record": {
+      "recipe_type": 178,
+      "annotation": [
+        {
+          "id": "458",
+          "segment": [
+            27.0,
+            31.0
+          ],
+          "label": "lift the barbell directly over the head"
+        },
+        {
+          "id": "457",
+          "segment": [
+            32.0,
+            37.0
+          ],
+          "label": "stand up with straight legs"
+        },
+        {
+          "id": "455",
+          "segment": [
+            38.0,
+            44.0
+          ],
+          "label": "pull the barbell to the chin"
+        },
+        {
+          "id": "456",
+          "segment": [
+            45.0,
+            50.0
+          ],
+          "label": "lift the barbell from the chin over the head"
+        },
+        {
+          "id": "457",
+          "segment": [
+            51.0,
+            57.0
+          ],
+          "label": "stand up with straight legs"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/9OqJyxVCUiA",
+      "start": 14.406676664331632,
+      "end": 65.77225482261149,
+      "duration": 142.222222,
+      "class": "PractiseWeightLift",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "H8nfm8aF_i8",
+    "record": {
+      "recipe_type": 18,
+      "annotation": [
+        {
+          "id": "608",
+          "segment": [
+            25.0,
+            28.0
+          ],
+          "label": "open the front door or cover of the printer"
+        },
+        {
+          "id": "609",
+          "segment": [
+            76.0,
+            85.0
+          ],
+          "label": "take out the toner cartridge"
+        },
+        {
+          "id": "610",
+          "segment": [
+            88.0,
+            94.0
+          ],
+          "label": "insert a new toner cartridge"
+        },
+        {
+          "id": "609",
+          "segment": [
+            99.0,
+            111.0
+          ],
+          "label": "take out the toner cartridge"
+        },
+        {
+          "id": "610",
+          "segment": [
+            112.0,
+            116.0
+          ],
+          "label": "insert a new toner cartridge"
+        },
+        {
+          "id": "611",
+          "segment": [
+            129.0,
+            134.0
+          ],
+          "label": "close the front door or cover of the printer"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/H8nfm8aF_i8",
+      "start": 13.525413490325292,
+      "end": 148.29632409964762,
+      "duration": 197.276733,
+      "class": "ChangeTonerCartridge",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "I3tfxWUIHts",
+    "record": {
+      "recipe_type": 1,
+      "annotation": [
+        {
+          "id": "462",
+          "segment": [
+            0.0,
+            18.0
+          ],
+          "label": "put the sticker on the window"
+        },
+        {
+          "id": "461",
+          "segment": [
+            31.0,
+            55.0
+          ],
+          "label": "tear off the front of the sticker"
+        },
+        {
+          "id": "463",
+          "segment": [
+            73.0,
+            95.0
+          ],
+          "label": "press the sticker"
+        },
+        {
+          "id": "461",
+          "segment": [
+            97.0,
+            103.0
+          ],
+          "label": "tear off the front of the sticker"
+        },
+        {
+          "id": "463",
+          "segment": [
+            104.0,
+            165.0
+          ],
+          "label": "press the sticker"
+        },
+        {
+          "id": "464",
+          "segment": [
+            166.0,
+            183.0
+          ],
+          "label": "tear off the other side of the sticker"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/I3tfxWUIHts",
+      "start": 0,
+      "end": 186.571667,
+      "duration": 186.571667,
+      "class": "PasteCarSticker",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "ajnTL-7mr3o",
+    "record": {
+      "recipe_type": 128,
+      "annotation": [
+        {
+          "id": "75",
+          "segment": [
+            31.5,
+            42.0
+          ],
+          "label": "remove the light shell/housing/support"
+        },
+        {
+          "id": "76",
+          "segment": [
+            64.0,
+            73.0
+          ],
+          "label": "take out the old bulb"
+        },
+        {
+          "id": "77",
+          "segment": [
+            73.5,
+            85.5
+          ],
+          "label": "install the new bulb"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/ajnTL-7mr3o",
+      "start": 22.127396272189664,
+      "end": 89.33964414801112,
+      "duration": 120.9063,
+      "class": "ReplaceABulb",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "1nQp_Yb8YW0",
+    "record": {
+      "recipe_type": 146,
+      "annotation": [
+        {
+          "id": "369",
+          "segment": [
+            64.0,
+            73.0
+          ],
+          "label": "take out the shell"
+        },
+        {
+          "id": "370",
+          "segment": [
+            74.0,
+            90.0
+          ],
+          "label": "remove the old memory chip"
+        },
+        {
+          "id": "371",
+          "segment": [
+            95.0,
+            125.0
+          ],
+          "label": "install the new memory chip"
+        },
+        {
+          "id": "372",
+          "segment": [
+            126.0,
+            135.0
+          ],
+          "label": "fit on the shell"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/1nQp_Yb8YW0",
+      "start": 62.33947498454616,
+      "end": 150.58583587259594,
+      "duration": 165.604711,
+      "class": "ReplaceMemoryChip",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "zys9YejztPE",
+    "record": {
+      "recipe_type": 159,
+      "annotation": [
+        {
+          "id": "389",
+          "segment": [
+            118.0,
+            135.0
+          ],
+          "label": "take out the plant"
+        },
+        {
+          "id": "390",
+          "segment": [
+            135.5,
+            139.5
+          ],
+          "label": "put in the plant"
+        },
+        {
+          "id": "391",
+          "segment": [
+            140.0,
+            152.0
+          ],
+          "label": "fill with some soil"
+        },
+        {
+          "id": "391",
+          "segment": [
+            157.5,
+            160.0
+          ],
+          "label": "fill with some soil"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/zys9YejztPE",
+      "start": 115.23834297194344,
+      "end": 178.26586123993926,
+      "duration": 233.011667,
+      "class": "Transplant",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "5bLHouFLlbY",
+    "record": {
+      "recipe_type": 61,
+      "annotation": [
+        {
+          "id": "674",
+          "segment": [
+            70.0,
+            84.0
+          ],
+          "label": "plunge into thigh"
+        },
+        {
+          "id": "675",
+          "segment": [
+            100.0,
+            106.0
+          ],
+          "label": "pull out after a period of time"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/5bLHouFLlbY",
+      "start": 50.58967603970046,
+      "end": 113.65994680054622,
+      "duration": 200.28,
+      "class": "UseEpinephrineAuto-injector",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "cjWBEQC3n3Q",
+    "record": {
+      "recipe_type": 17,
+      "annotation": [
+        {
+          "id": "278",
+          "segment": [
+            5.0,
+            21.0
+          ],
+          "label": "adjust the tightness of the new string"
+        },
+        {
+          "id": "275",
+          "segment": [
+            22.0,
+            68.0
+          ],
+          "label": "cut off and remove the old string"
+        },
+        {
+          "id": "276",
+          "segment": [
+            99.0,
+            110.0
+          ],
+          "label": "fix the new string on the lower part of the guitar"
+        },
+        {
+          "id": "277",
+          "segment": [
+            110.0,
+            135.0
+          ],
+          "label": "fix the new string on the head of the guitar"
+        },
+        {
+          "id": "278",
+          "segment": [
+            136.0,
+            144.0
+          ],
+          "label": "adjust the tightness of the new string"
+        },
+        {
+          "id": "277",
+          "segment": [
+            145.0,
+            182.0
+          ],
+          "label": "fix the new string on the head of the guitar"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/cjWBEQC3n3Q",
+      "start": 4.330303835890879,
+      "end": 192.87349825162997,
+      "duration": 201.873333,
+      "class": "ChangeGuitarStrings",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "fXUkskdp8X0",
+    "record": {
+      "recipe_type": 140,
+      "annotation": [
+        {
+          "id": "696",
+          "segment": [
+            20.0,
+            24.5
+          ],
+          "label": "take out the old filter"
+        },
+        {
+          "id": "698",
+          "segment": [
+            31.0,
+            37.0
+          ],
+          "label": "install the new filter"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/fXUkskdp8X0",
+      "start": 16.520011164041772,
+      "end": 37.38536238745476,
+      "duration": 77.484978,
+      "class": "ReplaceRefrigeratorWaterFilter",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "kihwJ0yueGE",
+    "record": {
+      "recipe_type": 151,
+      "annotation": [
+        {
+          "id": "422",
+          "segment": [
+            9.0,
+            17.0
+          ],
+          "label": "pave the box bottom with paper scraps"
+        },
+        {
+          "id": "423",
+          "segment": [
+            36.0,
+            126.0
+          ],
+          "label": "set different kinds of hamster toys"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/kihwJ0yueGE",
+      "start": 0,
+      "end": 127.84704564381978,
+      "duration": 155.875,
+      "class": "SetUpAHamsterCage",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "yottnIJfW3M",
+    "record": {
+      "recipe_type": 93,
+      "annotation": [
+        {
+          "id": "522",
+          "segment": [
+            21.0,
+            97.0
+          ],
+          "label": "prepare the filler"
+        },
+        {
+          "id": "524",
+          "segment": [
+            103.0,
+            135.0
+          ],
+          "label": "put the filler on the bread slice"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/yottnIJfW3M",
+      "start": 17.948888325143944,
+      "end": 137.020944,
+      "duration": 137.020944,
+      "class": "MakeSandwich",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "xEal3npbaQs",
+    "record": {
+      "recipe_type": 21,
+      "annotation": [
+        {
+          "id": "593",
+          "segment": [
+            23.0,
+            29.0
+          ],
+          "label": "remove the hamster from the hamster cage"
+        },
+        {
+          "id": "594",
+          "segment": [
+            30.0,
+            63.0
+          ],
+          "label": "remove the toy and paper bed from the hamster cage"
+        },
+        {
+          "id": "595",
+          "segment": [
+            64.0,
+            96.0
+          ],
+          "label": "clean toys and hamster cages"
+        },
+        {
+          "id": "596",
+          "segment": [
+            97.0,
+            156.0
+          ],
+          "label": "move the toy and paper bed into the hamster cage"
+        },
+        {
+          "id": "597",
+          "segment": [
+            157.0,
+            163.0
+          ],
+          "label": "put the hamster back into the hamster cage"
+        },
+        {
+          "id": "597",
+          "segment": [
+            182.0,
+            183.0
+          ],
+          "label": "put the hamster back into the hamster cage"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/xEal3npbaQs",
+      "start": 19.09584958794388,
+      "end": 183.1229742683976,
+      "duration": 202.848333,
+      "class": "CleanHamsterCage",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "0R9pdc9dO3Q",
+    "record": {
+      "recipe_type": 59,
+      "annotation": [
+        {
+          "id": "692",
+          "segment": [
+            14.0,
+            16.0
+          ],
+          "label": "open cover"
+        },
+        {
+          "id": "693",
+          "segment": [
+            16.5,
+            19.0
+          ],
+          "label": "remove battery"
+        },
+        {
+          "id": "694",
+          "segment": [
+            108.0,
+            113.5
+          ],
+          "label": "put battery in"
+        },
+        {
+          "id": "695",
+          "segment": [
+            114.0,
+            121.5
+          ],
+          "label": "close cover"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/0R9pdc9dO3Q",
+      "start": 2.6392932791709818,
+      "end": 122.4156,
+      "duration": 122.4156,
+      "class": "ReplaceBatteryOnTVControl",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "szjig3wmORM",
+    "record": {
+      "recipe_type": 107,
+      "annotation": [
+        {
+          "id": "297",
+          "segment": [
+            4.0,
+            39.0
+          ],
+          "label": "pack the sleeping bag"
+        },
+        {
+          "id": "298",
+          "segment": [
+            40.0,
+            51.0
+          ],
+          "label": "tie the bag tightly"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/szjig3wmORM",
+      "start": 2.2971856935754964,
+      "end": 52.035,
+      "duration": 52.035,
+      "class": "PackSleepingBag",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "lKBwkhmx8qI",
+    "record": {
+      "recipe_type": 141,
+      "annotation": [
+        {
+          "id": "532",
+          "segment": [
+            23.0,
+            32.0
+          ],
+          "label": "use the needle to open the SIM card slot"
+        },
+        {
+          "id": "533",
+          "segment": [
+            46.0,
+            50.0
+          ],
+          "label": "put the SIM card into the SIM card slot"
+        },
+        {
+          "id": "534",
+          "segment": [
+            53.0,
+            63.0
+          ],
+          "label": "press the SIM card slot back"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/lKBwkhmx8qI",
+      "start": 16.566128705716707,
+      "end": 66.14934102701946,
+      "duration": 68.568522,
+      "class": "ReplaceSIMCard",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "JMqMKF2eVk0",
+    "record": {
+      "recipe_type": 15,
+      "annotation": [
+        {
+          "id": "79",
+          "segment": [
+            42.0,
+            56.0
+          ],
+          "label": "check the type of the back cover"
+        },
+        {
+          "id": "80",
+          "segment": [
+            57.0,
+            84.0
+          ],
+          "label": "open the back cover"
+        },
+        {
+          "id": "81",
+          "segment": [
+            95.0,
+            107.0
+          ],
+          "label": "replace the battery"
+        },
+        {
+          "id": "82",
+          "segment": [
+            109.0,
+            121.0
+          ],
+          "label": "install the back cover and waterproof ring"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/JMqMKF2eVk0",
+      "start": 34.73581528489318,
+      "end": 129.58280379999042,
+      "duration": 178.861667,
+      "class": "ChangeBatteryOfWatch",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "_dJ6KwVqj1s",
+    "record": {
+      "recipe_type": 133,
+      "annotation": [
+        {
+          "id": "418",
+          "segment": [
+            14.0,
+            21.5
+          ],
+          "label": "install the new pin board"
+        },
+        {
+          "id": "419",
+          "segment": [
+            23.0,
+            47.5
+          ],
+          "label": "install the new bolt"
+        },
+        {
+          "id": "420",
+          "segment": [
+            55.5,
+            186.5
+          ],
+          "label": "install the new door knob"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/_dJ6KwVqj1s",
+      "start": 12.603867335698192,
+      "end": 186.95490173601408,
+      "duration": 201.501667,
+      "class": "ReplaceDoorKnob",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "Xk1NwqfgF0I",
+    "record": {
+      "recipe_type": 102,
+      "annotation": [
+        {
+          "id": "757",
+          "segment": [
+            13.0,
+            21.0
+          ],
+          "label": "wipe the screen"
+        },
+        {
+          "id": "758",
+          "segment": [
+            28.0,
+            32.0
+          ],
+          "label": "line up the protector and the cellphone"
+        },
+        {
+          "id": "758",
+          "segment": [
+            47.0,
+            57.0
+          ],
+          "label": "line up the protector and the cellphone"
+        },
+        {
+          "id": "757",
+          "segment": [
+            102.0,
+            108.0
+          ],
+          "label": "wipe the screen"
+        },
+        {
+          "id": "756",
+          "segment": [
+            110.0,
+            116.0
+          ],
+          "label": "remove the original protector"
+        },
+        {
+          "id": "757",
+          "segment": [
+            121.0,
+            128.0
+          ],
+          "label": "wipe the screen"
+        },
+        {
+          "id": "758",
+          "segment": [
+            129.0,
+            133.0
+          ],
+          "label": "line up the protector and the cellphone"
+        },
+        {
+          "id": "759",
+          "segment": [
+            134.0,
+            146.0
+          ],
+          "label": "paste protector on the screen"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/Xk1NwqfgF0I",
+      "start": 1.390108811687659,
+      "end": 146.586667,
+      "duration": 146.586667,
+      "class": "ReplaceMobileScreenProtector",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "a4MRvyxGF5M",
+    "record": {
+      "recipe_type": 76,
+      "annotation": [
+        {
+          "id": "494",
+          "segment": [
+            8.0,
+            14.0
+          ],
+          "label": "march into the area and salute"
+        },
+        {
+          "id": "495",
+          "segment": [
+            15.0,
+            140.0
+          ],
+          "label": "begin to practise karate"
+        },
+        {
+          "id": "496",
+          "segment": [
+            141.0,
+            144.0
+          ],
+          "label": "exit from the area and salute"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/a4MRvyxGF5M",
+      "start": 7.248072546251535,
+      "end": 145.796667,
+      "duration": 145.796667,
+      "class": "PractiseKarate",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "wlfpQjEWmu0",
+    "record": {
+      "recipe_type": 156,
+      "annotation": [
+        {
+          "id": "583",
+          "segment": [
+            9.0,
+            36.0
+          ],
+          "label": "cover with some soil"
+        },
+        {
+          "id": "582",
+          "segment": [
+            37.0,
+            120.0
+          ],
+          "label": "sow on the soil"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/wlfpQjEWmu0",
+      "start": 1.8631916845536365,
+      "end": 120.603333,
+      "duration": 120.603333,
+      "class": "Sow",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "9KCy9ZKK2Nc",
+    "record": {
+      "recipe_type": 138,
+      "annotation": [
+        {
+          "id": "504",
+          "segment": [
+            6.0,
+            8.5
+          ],
+          "label": "take out the battery"
+        },
+        {
+          "id": "505",
+          "segment": [
+            22.0,
+            28.0
+          ],
+          "label": "unscrew the screws used to fix the screen"
+        },
+        {
+          "id": "506",
+          "segment": [
+            28.5,
+            41.5
+          ],
+          "label": "pull out the screen connector and remove the screen"
+        },
+        {
+          "id": "507",
+          "segment": [
+            52.0,
+            69.5
+          ],
+          "label": "install the new screen"
+        },
+        {
+          "id": "508",
+          "segment": [
+            71.0,
+            75.5
+          ],
+          "label": "reset and screw on the screws"
+        },
+        {
+          "id": "508",
+          "segment": [
+            89.5,
+            101.5
+          ],
+          "label": "reset and screw on the screws"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/9KCy9ZKK2Nc",
+      "start": 5.257179615475239,
+      "end": 108.37437068134741,
+      "duration": 113.800989,
+      "class": "ReplaceLaptopScreen",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "BSrpqBbA4hc",
+    "record": {
+      "recipe_type": 153,
+      "annotation": [
+        {
+          "id": "701",
+          "segment": [
+            69.0,
+            90.0
+          ],
+          "label": "apply shaving cream to the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            90.0,
+            96.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            99.0,
+            101.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            104.0,
+            109.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            116.0,
+            125.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            129.0,
+            131.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            134.0,
+            141.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            147.0,
+            151.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "702",
+          "segment": [
+            166.0,
+            169.0
+          ],
+          "label": "shave carefully on the face"
+        },
+        {
+          "id": "703",
+          "segment": [
+            173.0,
+            174.0
+          ],
+          "label": "wipe up the face"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/BSrpqBbA4hc",
+      "start": 57.109831977761786,
+      "end": 188.360267,
+      "duration": 188.360267,
+      "class": "ShaveBeard",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "t-4MEjgRcLY",
+    "record": {
+      "recipe_type": 84,
+      "annotation": [
+        {
+          "id": "680",
+          "segment": [
+            87.0,
+            90.0
+          ],
+          "label": "pour the ingredients into the bowl"
+        },
+        {
+          "id": "682",
+          "segment": [
+            95.0,
+            107.0
+          ],
+          "label": "package and freeze"
+        },
+        {
+          "id": "682",
+          "segment": [
+            124.0,
+            146.0
+          ],
+          "label": "package and freeze"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/t-4MEjgRcLY",
+      "start": 79.54111877184198,
+      "end": 156.01879410080963,
+      "duration": 207.655,
+      "class": "MakeHomemadeIceCream",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "N5wOzlDvpVM",
+    "record": {
+      "recipe_type": 144,
+      "annotation": [
+        {
+          "id": "182",
+          "segment": [
+            31.0,
+            43.0
+          ],
+          "label": "take out the shell"
+        },
+        {
+          "id": "184",
+          "segment": [
+            48.0,
+            63.0
+          ],
+          "label": "install the new graphics card"
+        },
+        {
+          "id": "185",
+          "segment": [
+            85.0,
+            98.0
+          ],
+          "label": "fit on the shell"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/N5wOzlDvpVM",
+      "start": 19.833687122837603,
+      "end": 109.23459949512042,
+      "duration": 119.326667,
+      "class": "ReplaceGraphicsCard",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "udV9bizPwiU",
+    "record": {
+      "recipe_type": 22,
+      "annotation": [
+        {
+          "id": "107",
+          "segment": [
+            18.0,
+            26.0
+          ],
+          "label": "scratch scales"
+        },
+        {
+          "id": "105",
+          "segment": [
+            45.0,
+            50.0
+          ],
+          "label": "cut the head"
+        },
+        {
+          "id": "106",
+          "segment": [
+            72.0,
+            81.0
+          ],
+          "label": "remove the intestines and blood vessels"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/udV9bizPwiU",
+      "start": 9.027980023548013,
+      "end": 82.88756341244107,
+      "duration": 133.607611,
+      "class": "CleanFish",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "uSu6-R-6Cms",
+    "record": {
+      "recipe_type": 61,
+      "annotation": [
+        {
+          "id": "673",
+          "segment": [
+            35.0,
+            39.0
+          ],
+          "label": "unplug protection head"
+        },
+        {
+          "id": "674",
+          "segment": [
+            40.0,
+            45.0
+          ],
+          "label": "plunge into thigh"
+        },
+        {
+          "id": "675",
+          "segment": [
+            50.0,
+            66.0
+          ],
+          "label": "pull out after a period of time"
+        },
+        {
+          "id": "674",
+          "segment": [
+            129.0,
+            134.0
+          ],
+          "label": "plunge into thigh"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/uSu6-R-6Cms",
+      "start": 33.70026224786813,
+      "end": 140.52216126031425,
+      "duration": 156.665033,
+      "class": "UseEpinephrineAuto-injector",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "RozBliBcXlA",
+    "record": {
+      "recipe_type": 141,
+      "annotation": [
+        {
+          "id": "532",
+          "segment": [
+            29.0,
+            41.0
+          ],
+          "label": "use the needle to open the SIM card slot"
+        },
+        {
+          "id": "533",
+          "segment": [
+            52.0,
+            56.0
+          ],
+          "label": "put the SIM card into the SIM card slot"
+        },
+        {
+          "id": "534",
+          "segment": [
+            59.0,
+            60.0
+          ],
+          "label": "press the SIM card slot back"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/RozBliBcXlA",
+      "start": 28.726402990848904,
+      "end": 66.65176483594512,
+      "duration": 75.418411,
+      "class": "ReplaceSIMCard",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "TY6fWUgkEKQ",
+    "record": {
+      "recipe_type": 76,
+      "annotation": [
+        {
+          "id": "494",
+          "segment": [
+            4.0,
+            10.0
+          ],
+          "label": "march into the area and salute"
+        },
+        {
+          "id": "495",
+          "segment": [
+            11.0,
+            70.0
+          ],
+          "label": "begin to practise karate"
+        },
+        {
+          "id": "496",
+          "segment": [
+            71.0,
+            74.0
+          ],
+          "label": "exit from the area and salute"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/TY6fWUgkEKQ",
+      "start": 0.0907687186848225,
+      "end": 75.138333,
+      "duration": 75.138333,
+      "class": "PractiseKarate",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "SExfbacM9YY",
+    "record": {
+      "recipe_type": 36,
+      "annotation": [
+        {
+          "id": "70",
+          "segment": [
+            12.0,
+            23.0
+          ],
+          "label": "glue on the back of the rubber"
+        },
+        {
+          "id": "71",
+          "segment": [
+            27.0,
+            43.0
+          ],
+          "label": "glue on the paddle"
+        },
+        {
+          "id": "72",
+          "segment": [
+            59.0,
+            91.0
+          ],
+          "label": "put rubber on paddle"
+        },
+        {
+          "id": "73",
+          "segment": [
+            94.0,
+            137.0
+          ],
+          "label": "cut the rubber"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/SExfbacM9YY",
+      "start": 0,
+      "end": 149.763008873591,
+      "duration": 160.0087,
+      "class": "GluePingPongRubber",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "i5K-DXt9djA",
+    "record": {
+      "recipe_type": 16,
+      "annotation": [
+        {
+          "id": "232",
+          "segment": [
+            35.0,
+            49.0
+          ],
+          "label": "unload the wheel"
+        },
+        {
+          "id": "233",
+          "segment": [
+            71.0,
+            73.0
+          ],
+          "label": "remove the inner tube"
+        },
+        {
+          "id": "237",
+          "segment": [
+            84.0,
+            91.0
+          ],
+          "label": "pump up the tire"
+        },
+        {
+          "id": "236",
+          "segment": [
+            93.0,
+            115.0
+          ],
+          "label": "load the inner tube"
+        },
+        {
+          "id": "238",
+          "segment": [
+            134.0,
+            148.0
+          ],
+          "label": "load the wheel"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/i5K-DXt9djA",
+      "start": 18.681561201832476,
+      "end": 161.90258976440808,
+      "duration": 164.861667,
+      "class": "ChangeBikeTires",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "4bgWwnZQPaA",
+    "record": {
+      "recipe_type": 123,
+      "annotation": [
+        {
+          "id": "732",
+          "segment": [
+            27.0,
+            30.0
+          ],
+          "label": "take off the shell"
+        },
+        {
+          "id": "733",
+          "segment": [
+            61.0,
+            76.0
+          ],
+          "label": "absorb some ink slowly"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/4bgWwnZQPaA",
+      "start": 18.825225575716537,
+      "end": 82.57506729443901,
+      "duration": 157.3572,
+      "class": "RefillFountainPen",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "nX8oPykt6fk",
+    "record": {
+      "recipe_type": 108,
+      "annotation": [
+        {
+          "id": "535",
+          "segment": [
+            0.0,
+            16.0
+          ],
+          "label": "show the blank paper"
+        },
+        {
+          "id": "536",
+          "segment": [
+            19.0,
+            20.0
+          ],
+          "label": "fold or fire the blank paper"
+        },
+        {
+          "id": "537",
+          "segment": [
+            21.0,
+            63.0
+          ],
+          "label": "show the money to the audience"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/nX8oPykt6fk",
+      "start": 0,
+      "end": 65.70727732120325,
+      "duration": 66.686667,
+      "class": "PerformPaperToMoneyTrick",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "tJOoUC_rQyI",
+    "record": {
+      "recipe_type": 27,
+      "annotation": [
+        {
+          "id": "642",
+          "segment": [
+            13.0,
+            18.0
+          ],
+          "label": "use vacuum cleaner to clean"
+        },
+        {
+          "id": "644",
+          "segment": [
+            20.0,
+            29.0
+          ],
+          "label": "make the  detergent"
+        },
+        {
+          "id": "643",
+          "segment": [
+            31.0,
+            35.0
+          ],
+          "label": "wet the mop"
+        },
+        {
+          "id": "646",
+          "segment": [
+            37.0,
+            46.0
+          ],
+          "label": "mop the floor"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/tJOoUC_rQyI",
+      "start": 9.528024913933312,
+      "end": 48.05628782111604,
+      "duration": 57.539044,
+      "class": "CleanWoodenFloor",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "wSuqLdYqlp8",
+    "record": {
+      "recipe_type": 56,
+      "annotation": [
+        {
+          "id": "135",
+          "segment": [
+            9.0,
+            12.0
+          ],
+          "label": "wipe wall with detergent"
+        },
+        {
+          "id": "136",
+          "segment": [
+            13.0,
+            14.0
+          ],
+          "label": "clean wall with a clean cloth"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/wSuqLdYqlp8",
+      "start": 7.089618460023005,
+      "end": 15.213968186261338,
+      "duration": 19.411878,
+      "class": "RemoveCrayonFromWalls",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "RnLcsM-QmuU",
+    "record": {
+      "recipe_type": 90,
+      "annotation": [
+        {
+          "id": "655",
+          "segment": [
+            0.0,
+            14.0
+          ],
+          "label": "strip the insulation"
+        },
+        {
+          "id": "656",
+          "segment": [
+            17.0,
+            56.0
+          ],
+          "label": "arrange the seperated wire"
+        },
+        {
+          "id": "657",
+          "segment": [
+            69.0,
+            75.0
+          ],
+          "label": "cut a certain length"
+        },
+        {
+          "id": "658",
+          "segment": [
+            86.0,
+            90.0
+          ],
+          "label": "insert it into the crystal head"
+        },
+        {
+          "id": "658",
+          "segment": [
+            91.0,
+            108.0
+          ],
+          "label": "insert it into the crystal head"
+        },
+        {
+          "id": "659",
+          "segment": [
+            110.0,
+            114.0
+          ],
+          "label": "fixe it with a crimping pliers"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/RnLcsM-QmuU",
+      "start": 0,
+      "end": 123.50937998893545,
+      "duration": 124.713333,
+      "class": "MakeRJ45Cable",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "pcvs3Tp_BeU",
+    "record": {
+      "recipe_type": 1,
+      "annotation": [
+        {
+          "id": "460",
+          "segment": [
+            9.0,
+            27.0
+          ],
+          "label": "clean the window surface"
+        },
+        {
+          "id": "461",
+          "segment": [
+            32.0,
+            73.0
+          ],
+          "label": "tear off the front of the sticker"
+        },
+        {
+          "id": "462",
+          "segment": [
+            76.0,
+            81.0
+          ],
+          "label": "put the sticker on the window"
+        },
+        {
+          "id": "463",
+          "segment": [
+            82.0,
+            96.0
+          ],
+          "label": "press the sticker"
+        },
+        {
+          "id": "464",
+          "segment": [
+            97.0,
+            102.0
+          ],
+          "label": "tear off the other side of the sticker"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/pcvs3Tp_BeU",
+      "start": 8.130452615146986,
+      "end": 113.0931965458706,
+      "duration": 134.745,
+      "class": "PasteCarSticker",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "prvaXwYkn_E",
+    "record": {
+      "recipe_type": 144,
+      "annotation": [
+        {
+          "id": "182",
+          "segment": [
+            4.0,
+            13.0
+          ],
+          "label": "take out the shell"
+        },
+        {
+          "id": "184",
+          "segment": [
+            84.0,
+            109.0
+          ],
+          "label": "install the new graphics card"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/prvaXwYkn_E",
+      "start": 3.471034196924903,
+      "end": 120.10512529711207,
+      "duration": 147.051967,
+      "class": "ReplaceGraphicsCard",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "Jjj8FN4r6Ms",
+    "record": {
+      "recipe_type": 163,
+      "annotation": [
+        {
+          "id": "520",
+          "segment": [
+            5.0,
+            12.0
+          ],
+          "label": "press the corresponding button"
+        },
+        {
+          "id": "521",
+          "segment": [
+            12.5,
+            16.0
+          ],
+          "label": "take out the goods"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/Jjj8FN4r6Ms",
+      "start": 3.016239249239447,
+      "end": 18.50114405725967,
+      "duration": 25.704489,
+      "class": "UseVendingMachine",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "UBo-039ur3g",
+    "record": {
+      "recipe_type": 10,
+      "annotation": [
+        {
+          "id": "549",
+          "segment": [
+            62.0,
+            83.0
+          ],
+          "label": "pour the noodles into the water and stir"
+        },
+        {
+          "id": "550",
+          "segment": [
+            86.0,
+            87.0
+          ],
+          "label": "take a little bit noodles and taste it"
+        },
+        {
+          "id": "551",
+          "segment": [
+            95.0,
+            101.0
+          ],
+          "label": "pour the cooked noodles"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/UBo-039ur3g",
+      "start": 58.52397771242645,
+      "end": 104.00249304758184,
+      "duration": 162.956667,
+      "class": "BoilNoodles",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "TH23bzKmbdI",
+    "record": {
+      "recipe_type": 136,
+      "annotation": [
+        {
+          "id": "634",
+          "segment": [
+            5.0,
+            45.0
+          ],
+          "label": "install the new faucet"
+        },
+        {
+          "id": "635",
+          "segment": [
+            46.0,
+            109.0
+          ],
+          "label": "connect the water pipe"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/TH23bzKmbdI",
+      "start": 0,
+      "end": 123.94724612873424,
+      "duration": 150.952922,
+      "class": "ReplaceFaucet",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "Xth6hlbZnAE",
+    "record": {
+      "recipe_type": 132,
+      "annotation": [
+        {
+          "id": "465",
+          "segment": [
+            72.0,
+            78.0
+          ],
+          "label": "open up the cover"
+        },
+        {
+          "id": "466",
+          "segment": [
+            93.0,
+            97.0
+          ],
+          "label": "take out the fuse"
+        },
+        {
+          "id": "467",
+          "segment": [
+            114.0,
+            120.0
+          ],
+          "label": "fit on the fuse"
+        },
+        {
+          "id": "468",
+          "segment": [
+            131.0,
+            140.0
+          ],
+          "label": "close up the cover"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/Xth6hlbZnAE",
+      "start": 63.986497663400776,
+      "end": 140.16036741218844,
+      "duration": 140.411056,
+      "class": "ReplaceCarFuse",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "XZDC23QNF-4",
+    "record": {
+      "recipe_type": 10,
+      "annotation": [
+        {
+          "id": "549",
+          "segment": [
+            0.5,
+            23.0
+          ],
+          "label": "pour the noodles into the water and stir"
+        },
+        {
+          "id": "551",
+          "segment": [
+            25.5,
+            29.0
+          ],
+          "label": "pour the cooked noodles"
+        },
+        {
+          "id": "551",
+          "segment": [
+            32.5,
+            35.5
+          ],
+          "label": "pour the cooked noodles"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/XZDC23QNF-4",
+      "start": 0,
+      "end": 45.621466630000384,
+      "duration": 155.341489,
+      "class": "BoilNoodles",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "9NWFMwhEZg8",
+    "record": {
+      "recipe_type": 70,
+      "annotation": [
+        {
+          "id": "738",
+          "segment": [
+            45.0,
+            54.0
+          ],
+          "label": "place license plate cover"
+        },
+        {
+          "id": "739",
+          "segment": [
+            58.0,
+            70.0
+          ],
+          "label": "screw and fix the cover"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/9NWFMwhEZg8",
+      "start": 44.844644891462465,
+      "end": 70.4553040594847,
+      "duration": 91.393733,
+      "class": "InstallLicensePlateFrame",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "s4rtLerCYqU",
+    "record": {
+      "recipe_type": 92,
+      "annotation": [
+        {
+          "id": "27",
+          "segment": [
+            101.0,
+            107.0
+          ],
+          "label": "add seasoning"
+        },
+        {
+          "id": "25",
+          "segment": [
+            114.0,
+            128.0
+          ],
+          "label": "add seasoning on the salmon"
+        },
+        {
+          "id": "29",
+          "segment": [
+            137.0,
+            142.0
+          ],
+          "label": "add decoration"
+        },
+        {
+          "id": "28",
+          "segment": [
+            207.0,
+            211.0
+          ],
+          "label": "load the dish"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/s4rtLerCYqU",
+      "start": 77.40178962076916,
+      "end": 211.33272921526984,
+      "duration": 238.258333,
+      "class": "MakeSalmon",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "qW8dEosgTyE",
+    "record": {
+      "recipe_type": 130,
+      "annotation": [
+        {
+          "id": "720",
+          "segment": [
+            0.0,
+            14.0
+          ],
+          "label": "turn off the balde screw"
+        },
+        {
+          "id": "721",
+          "segment": [
+            15.0,
+            17.0
+          ],
+          "label": "take out the blade"
+        },
+        {
+          "id": "722",
+          "segment": [
+            18.0,
+            22.0
+          ],
+          "label": "install the new blade"
+        },
+        {
+          "id": "723",
+          "segment": [
+            23.0,
+            45.0
+          ],
+          "label": "tighten the blade screw"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/qW8dEosgTyE",
+      "start": 0,
+      "end": 46.87814209603731,
+      "duration": 72.933867,
+      "class": "ReplaceBladeOfASaw",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "5aDqNwMVEyc",
+    "record": {
+      "recipe_type": 99,
+      "annotation": [
+        {
+          "id": "187",
+          "segment": [
+            66.0,
+            69.0
+          ],
+          "label": "grind the coffee beans"
+        },
+        {
+          "id": "188",
+          "segment": [
+            86.0,
+            105.0
+          ],
+          "label": "filtrate the coffee beans"
+        },
+        {
+          "id": "190",
+          "segment": [
+            110.0,
+            113.0
+          ],
+          "label": "add some ingredients in the coffee"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/5aDqNwMVEyc",
+      "start": 58.494341207754246,
+      "end": 118.97900645096698,
+      "duration": 122.113733,
+      "class": "MakeCoffee",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "0xybXrdeSTk",
+    "record": {
+      "recipe_type": 30,
+      "annotation": [
+        {
+          "id": "340",
+          "segment": [
+            5.0,
+            12.0
+          ],
+          "label": "cut the wide side"
+        },
+        {
+          "id": "341",
+          "segment": [
+            21.0,
+            34.0
+          ],
+          "label": "remove the core"
+        },
+        {
+          "id": "340",
+          "segment": [
+            54.0,
+            58.0
+          ],
+          "label": "cut the wide side"
+        },
+        {
+          "id": "341",
+          "segment": [
+            60.0,
+            72.0
+          ],
+          "label": "remove the core"
+        },
+        {
+          "id": "342",
+          "segment": [
+            75.0,
+            85.0
+          ],
+          "label": "cut into strips and pieces"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/0xybXrdeSTk",
+      "start": 0,
+      "end": 87.84647091655637,
+      "duration": 92.694056,
+      "class": "CutMango",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "zHHSOKFzmYQ",
+    "record": {
+      "recipe_type": 105,
+      "annotation": [
+        {
+          "id": "179",
+          "segment": [
+            28.5,
+            32.0
+          ],
+          "label": "tear out the foil"
+        },
+        {
+          "id": "180",
+          "segment": [
+            34.0,
+            44.0
+          ],
+          "label": "turn the suspension link"
+        },
+        {
+          "id": "181",
+          "segment": [
+            51.0,
+            54.0
+          ],
+          "label": "open the bottle carefully"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/zHHSOKFzmYQ",
+      "start": 26.469556746131975,
+      "end": 55.77949156279706,
+      "duration": 63.436667,
+      "class": "OpenChampagneBottle",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "hjUSPlhPpT0",
+    "record": {
+      "recipe_type": 81,
+      "annotation": [
+        {
+          "id": "54",
+          "segment": [
+            10.0,
+            66.0
+          ],
+          "label": "draw pictures on the materials"
+        },
+        {
+          "id": "52",
+          "segment": [
+            68.0,
+            90.0
+          ],
+          "label": "nail down or stick together"
+        },
+        {
+          "id": "51",
+          "segment": [
+            98.0,
+            110.0
+          ],
+          "label": "fold or bent the paper"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/hjUSPlhPpT0",
+      "start": 4.589278723496543,
+      "end": 110.32507291920864,
+      "duration": 123.506667,
+      "class": "MakeChineseLantern",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "CK_9Bn3DZdw",
+    "record": {
+      "recipe_type": 22,
+      "annotation": [
+        {
+          "id": "108",
+          "segment": [
+            21.0,
+            36.0
+          ],
+          "label": "cut off the tail and fin"
+        },
+        {
+          "id": "107",
+          "segment": [
+            48.0,
+            55.0
+          ],
+          "label": "scratch scales"
+        },
+        {
+          "id": "109",
+          "segment": [
+            66.0,
+            71.0
+          ],
+          "label": "remove the gill"
+        },
+        {
+          "id": "106",
+          "segment": [
+            75.0,
+            79.0
+          ],
+          "label": "remove the intestines and blood vessels"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/CK_9Bn3DZdw",
+      "start": 13.479668296805322,
+      "end": 84.27487800195135,
+      "duration": 106.045522,
+      "class": "CleanFish",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "8nHt7kyu36c",
+    "record": {
+      "recipe_type": 98,
+      "annotation": [
+        {
+          "id": "124",
+          "segment": [
+            56.0,
+            60.0
+          ],
+          "label": "put the sheet on the bed"
+        },
+        {
+          "id": "128",
+          "segment": [
+            61.0,
+            63.0
+          ],
+          "label": "put the pillow on the bed"
+        },
+        {
+          "id": "128",
+          "segment": [
+            68.0,
+            71.0
+          ],
+          "label": "put the pillow on the bed"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/8nHt7kyu36c",
+      "start": 48.78799876759851,
+      "end": 72.74387019403957,
+      "duration": 110.55,
+      "class": "MakeBed",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "utvg54Ft3yE",
+    "record": {
+      "recipe_type": 165,
+      "annotation": [
+        {
+          "id": "670",
+          "segment": [
+            61.0,
+            67.0
+          ],
+          "label": "add different kinds of ingredients"
+        },
+        {
+          "id": "671",
+          "segment": [
+            68.0,
+            75.0
+          ],
+          "label": "mix the raw materials"
+        },
+        {
+          "id": "670",
+          "segment": [
+            79.0,
+            86.0
+          ],
+          "label": "add different kinds of ingredients"
+        },
+        {
+          "id": "671",
+          "segment": [
+            87.0,
+            97.0
+          ],
+          "label": "mix the raw materials"
+        },
+        {
+          "id": "670",
+          "segment": [
+            109.0,
+            114.0
+          ],
+          "label": "add different kinds of ingredients"
+        },
+        {
+          "id": "671",
+          "segment": [
+            115.0,
+            122.0
+          ],
+          "label": "mix the raw materials"
+        },
+        {
+          "id": "672",
+          "segment": [
+            123.0,
+            137.0
+          ],
+          "label": "rub and drag the materials"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/utvg54Ft3yE",
+      "start": 59.66702096008892,
+      "end": 141.084444,
+      "duration": 141.084444,
+      "class": "MakeSlimeWithGlue",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "pCND3sgJh-E",
+    "record": {
+      "recipe_type": 134,
+      "annotation": [
+        {
+          "id": "621",
+          "segment": [
+            0.5,
+            9.5
+          ],
+          "label": "remove the drumhead"
+        },
+        {
+          "id": "622",
+          "segment": [
+            10.5,
+            54.0
+          ],
+          "label": "replace with the new drumhead"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/pCND3sgJh-E",
+      "start": 0,
+      "end": 55.08367420008441,
+      "duration": 74.14,
+      "class": "ReplaceDrumhead",
+      "subset": "testing"
+    }
+  },
+  {
+    "video_id": "TS0dZccs0N0",
+    "record": {
+      "recipe_type": 99,
+      "annotation": [
+        {
+          "id": "187",
+          "segment": [
+            0.0,
+            7.0
+          ],
+          "label": "grind the coffee beans"
+        },
+        {
+          "id": "188",
+          "segment": [
+            31.0,
+            35.0
+          ],
+          "label": "filtrate the coffee beans"
+        },
+        {
+          "id": "187",
+          "segment": [
+            45.0,
+            50.0
+          ],
+          "label": "grind the coffee beans"
+        },
+        {
+          "id": "188",
+          "segment": [
+            84.0,
+            85.0
+          ],
+          "label": "filtrate the coffee beans"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/TS0dZccs0N0",
+      "start": 0,
+      "end": 86.74383843666047,
+      "duration": 96.989744,
+      "class": "MakeCoffee",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "ofRVyP4PAzg",
+    "record": {
+      "recipe_type": 58,
+      "annotation": [
+        {
+          "id": "120",
+          "segment": [
+            36.0,
+            60.0
+          ],
+          "label": "open the car key cover"
+        },
+        {
+          "id": "120",
+          "segment": [
+            96.0,
+            107.0
+          ],
+          "label": "open the car key cover"
+        },
+        {
+          "id": "121",
+          "segment": [
+            115.0,
+            122.0
+          ],
+          "label": "take out the car key battery"
+        },
+        {
+          "id": "122",
+          "segment": [
+            144.0,
+            162.0
+          ],
+          "label": "put in the battery"
+        },
+        {
+          "id": "123",
+          "segment": [
+            167.0,
+            174.0
+          ],
+          "label": "close the car key cover"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/ofRVyP4PAzg",
+      "start": 35.6532772192517,
+      "end": 184.73711382925347,
+      "duration": 193.492,
+      "class": "ReplaceBatteryOnKeyToCar",
+      "subset": "training"
+    }
+  },
+  {
+    "video_id": "huFjPGrq1Og",
+    "record": {
+      "recipe_type": 33,
+      "annotation": [
+        {
+          "id": "638",
+          "segment": [
+            5.5,
+            9.5
+          ],
+          "label": "remove the peel"
+        },
+        {
+          "id": "638",
+          "segment": [
+            42.0,
+            77.0
+          ],
+          "label": "remove the peel"
+        },
+        {
+          "id": "639",
+          "segment": [
+            82.0,
+            119.0
+          ],
+          "label": "slice the pulp"
+        }
+      ],
+      "video_url": "https://www.youtube.com/embed/huFjPGrq1Og",
+      "start": 0,
+      "end": 125.63128357074899,
+      "duration": 176.936044,
+      "class": "CutGrapeFruit",
+      "subset": "training"
+    }
+  }
+]
